@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import localFont from 'next/font/local';
 import Image from 'next/image';
+import Link from 'next/link';
 import berlinIcon from '../../public/berlin_logo.svg';
 
 const titleFont = localFont({
@@ -87,8 +88,10 @@ export default function Header() {
                 <div className="flex sm:justify-end pt-2">
                     {/* Nested flex */}
                     <button className="flex place-items-center px-4 py-2 main-button hover:main-button text-lg">
-                        <span>Go to&nbsp;</span>
-                        <Image src={berlinIcon} width={80} alt="" />
+                        <Link href="https://www.berlin.de/en/events/">
+                            <span>Go to&nbsp;</span>
+                            <Image src={berlinIcon} width={80} alt="" />
+                        </Link>
                     </button>
                 </div>
             </div>
