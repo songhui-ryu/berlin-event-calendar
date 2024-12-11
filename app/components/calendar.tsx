@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
-import { DateSelectArg, EventContentArg, formatDate } from '@fullcalendar/core';
+import { DateSelectArg, EventContentArg } from '@fullcalendar/core';
 import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import timeGridPlugin from '@fullcalendar/timegrid';
@@ -22,7 +22,7 @@ export default function Calendar({ events }: { events: FCEvent }) {
     }, []);
 
     function handleDateSelect(selectInfo: DateSelectArg) {
-        let calendarApi = selectInfo.view.calendar;
+        const calendarApi = selectInfo.view.calendar;
         // clear date selection
         calendarApi.unselect();
         // selectInfo.start will be interpreted as ISO

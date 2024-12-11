@@ -24,6 +24,7 @@ export default function Header() {
                 <h1 className={`text-6xl font-bold ${titleFont.className}`}>
                     BERLIN EVENTS
                 </h1>
+                {/* eslint-disable react/no-unescaped-entities */}
                 <p className="text-base">What's happening in Berlin?</p>
                 <p className="text-base">
                     This calendar helps you to check the official events easily.
