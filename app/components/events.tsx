@@ -84,11 +84,10 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
     }
 }
 
-export default async function fetchEvents() {
+export default async function fetchEvents(lang: "en" | "de") {
     try {
         const file = await fs.readFile(
-            // process.cwd() + '/public/events_en.json',
-            process.cwd() + '/public/events_de.json',
+            process.cwd() + `/public/events_${lang}.json`,
             'utf8'
         );
         const events = JSON.parse(file);

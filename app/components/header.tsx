@@ -4,6 +4,7 @@ import localFont from 'next/font/local';
 import Image from 'next/image';
 import Link from 'next/link';
 import berlinIcon from '../../public/berlin_logo.svg';
+import LanguageButton from './language';
 
 const titleFont = localFont({
     src: '../../public/fonts/Linebeam.ttf',
@@ -37,6 +38,12 @@ export default function Header() {
 
             {/* Right Side: modal and button - second flex to have top and bottom*/}
             <div className="flex-1 text-left sm:text-right flex flex-col justify-between">
+                {/* Top: language switch*/}
+                <div className="flex sm:justify-end pt-2">
+                    {/* Nested flex */}
+                    <LanguageButton />
+                </div>
+
                 {/* Top: modal */}
                 <div>
                     <span
@@ -87,11 +94,15 @@ export default function Header() {
                 {/* Buttom: button - algin to right in big screen*/}
                 <div className="flex sm:justify-end pt-2">
                     {/* Nested flex */}
-                    <button className="flex place-items-center px-4 py-2 main-button hover:main-button text-lg">
+                    <button className="flex place-items-center px-2 py-2 main-button hover:main-button text-sm">
                         <Link href="https://www.berlin.de/en/events/">
-                            <span>
-                            Go to <Image src={berlinIcon} width={80} alt="" />
-                            </span>
+                            <span className="inline">Go to &nbsp;</span>
+                            <Image
+                                className="inline"
+                                src={berlinIcon}
+                                width={60}
+                                alt=""
+                            />
                         </Link>
                     </button>
                 </div>

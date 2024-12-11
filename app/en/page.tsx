@@ -1,7 +1,7 @@
-import Header from './components/header';
-import Footer from './components/footer';
-import Calendar from './components/calendar';
-import fetchEvents from './components/events';
+import Header from '../components/header';
+import Footer from '../components/footer';
+import Calendar from '../components/calendar';
+import fetchEvents from '../components/events';
 
 export default async function Page() {
     return (
