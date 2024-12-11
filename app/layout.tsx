@@ -1,5 +1,7 @@
 import type { Metadata } from 'next';
+import { Analytics } from "@vercel/analytics/react"
 import '../public/globals.css';
+
 
 export const metadata: Metadata = {
     title: 'Berlin Events',
@@ -31,6 +33,7 @@ export default function RootLayout({
           `}
             >
                 {children}
+                <Analytics />
             </body>
         </html>
     );
