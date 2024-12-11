@@ -126,6 +126,11 @@ body {
     border: 10px;
 }
 
+/* prevent long event overflowing the cell */
+.fc-daygrid-event-harness {
+    overflow: hidden;
+}
+
 /* 
 .fc .fc-daygrid-day-number 
 .fc .fc-daygrid-day-frame {

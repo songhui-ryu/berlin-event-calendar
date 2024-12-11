@@ -54,6 +54,7 @@ export default function Calendar({ events }: { events: FCEvent }) {
                     dayMaxEvents={false}
                     weekends={true}
                     expandRows={true}
+                    slotEventOverlap={false}
                     /* locale */
                     timeZone="local"
                     locale="de"
