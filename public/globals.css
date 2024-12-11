@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    color: var(--foreground);
+    font-family: 'Liberation Mono';
+
+    --background: rgb(46 16 101);
+    --foreground: #ffffff;
+
+    /* fullcalendar customization */
+    --fc-small-font-size: 0.85em;
+    --fc-page-bg-color: #ebe9ec;
+    --fc-neutral-bg-color: #ffe484;
+    --fc-neutral-text-color: inherit;
+    /* --fc-border-color: #ff0000; */
+
+    --fc-button-text-color: #ebe9ec;
+    --fc-button-bg-color: #606b86;
+    --fc-button-border-color: #606b86;
+    --fc-button-hover-bg-color: #712cf9;
+    --fc-button-hover-border-color: #712cf9;
+    --fc-button-active-bg-color: #712cf9;
+    --fc-button-active-border-color: #712cf9;
+
+    /* --fc-event-bg-color: #3788d8; */
+    /* --fc-event-border-color: #3788d8; */
+    --fc-event-text-color: #000000;
+    --fc-event-selected-overlay-color: #ffe484;
+
+    --fc-more-link-bg-color: #ebe9ec;
+    --fc-more-link-text-color: inherit;
+
+    /* --fc-event-resizer-thickness: 8px; */
+    /* --fc-event-resizer-dot-total-width: 8px; */
+    /* --fc-event-resizer-dot-border-width: 1px; */
+
+    /* --fc-non-business-color: rgba(215, 215, 215, 0.3); */
+    --fc-bg-event-color: rgb(143, 223, 130);
+    --fc-bg-event-opacity: 0.3;
+
+    --fc-highlight-color: #ffe484;
+    --fc-today-bg-color: #ffe484;
+    --fc-now-indicator-color: red;
+
+    --fc-daygrid-event-dot-width: 8px;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 1.5rem;
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    body {
+        margin: 1rem;
+    }
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+}
+
+/* customization  */
+.main-button {
+    background-color: #712cf9;
+    color: #ebe9ec;
+    border-radius: 0.25rem;
+}
+
+.hover\:main-button:hover {
+    background-color: #ffe484;
+    color: #000000;
+}
+
+.sub-button {
+    background-color: #606b86;
+    color: #ebe9ec;
+    border-radius: 0.25rem;
+}
+
+.hover\:sub-button:hover {
+    background-color: #ffe484;
+    color: #000000;
+}
+
+/* fullcalendar customization */
+.event-calendar-main {
+    background-color: #ebe9ec;
+    color: #000000;
+    border: 0px;
+    border-radius: 10px;
+}
+
+/* border of calendar */
+.fc-theme-standard td {
+    border-width: 1px 0px 0px 1px; /* t r b l */
+}
+
+.fc-theme-standard th {
+    border-width: 1px 0px 1px 1px; /* t r b l */
+}
+
+.fc-theme-standard .fc-scrollgrid {
+    border: 0px;
+}
+
+/* header of calendar */
+.fc .fc-toolbar.fc-header-toolbar {
+    margin: 10px;
+}
+
+/* cells in calendar */
+.fc .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
+    color: #ffe484;
+    background-color: #712cf9;
+    border-radius: 10px;
+    border: 10px;
+}
+
+/* 
+.fc .fc-daygrid-day-number 
+.fc .fc-daygrid-day-frame {
+    padding-right: 5px;
+} */
+
+/* calendar tool bar in small screen */
+@media (max-width: 768px) {
+    .fc .fc-toolbar {
+        font-size: 0.55em;
+        margin: 0px;
+        padding: 0px;
+    }
+    .fc-toolbar-chunk {
+        margin: 0px;
+        padding: 0px;
+    }
+}
