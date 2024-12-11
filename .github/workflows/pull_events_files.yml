@@ -1,0 +1,66 @@
+name: Pull artifacts from another repository
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+# limit the concurrency of the workflow to one branch
+concurrency:
+  group: "main"
+  cancel-in-progress: false
+
+env:
+  GH_TOKEN: ${{ secrets.GH_PAT }}
+    
+jobs:
+  # pull and commit event files 
+  pull-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download the latest event files
+        uses: actions/download-artifact@v4
+        with:
+          # name of the target artifact
+          name: event_files
+          # download destination
+          path: public
+          # token to access different repository
+          github-token: ${{ secrets.GH_PAT }}
+          repository: songhui-ryu/berlin-event-scraper
+          run-id: 12281165439
+
+      - name: List files
+        run: |
+          ls -al public
+
+      - name: Check for changes
+        run: |
+          git diff
+          
+          # if git diff --quiet; then
+          #   echo "No changes detected. Exiting..."
+          #   echo "early_exit=true" >> $GITHUB_ENV
+          # fi
+          
+      - name: Commit
+        if: env.early_exit != 'true'
+        run: |
+          git config user.name "github_workflow_bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public
+          git commit -m "added pulled files from songhui-ryu/berlin-event-scraper"
+          
+      - name: Push
+        if: env.early_exit != 'true'
+        run: git push
+        
+
+          
