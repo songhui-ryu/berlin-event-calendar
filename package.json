@@ -16,20 +16,20 @@
         "@fullcalendar/timegrid": "^6.1.15",
         "@vercel/analytics": "^1.4.1",
         "dayjs": "^1.11.13",
-        "next": "14.2.15",
-        "react": "^18",
-        "react-dom": "^18",
-        "react-icons": "^5.3.0"
+        "next": "15.1.0",
+        "react": "^19",
+        "react-dom": "^19",
+        "react-icons": "^5.4.0"
     },
     "devDependencies": {
-        "@types/node": "^20",
-        "@types/react": "^18",
-        "@types/react-dom": "^18",
-        "eslint": "^8",
-        "eslint-config-next": "14.2.15",
+        "@types/node": "^22",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+        "eslint": "^9",
+        "eslint-config-next": "15.1.0",
         "postcss": "^8",
-        "prettier": "3.3.3",
-        "tailwindcss": "^3.4.1",
-        "typescript": "^5"
+        "prettier": "3.4.2",
+        "tailwindcss": "^3.4.16",
+        "typescript": "^5.7.2"
     }
 }

@@ -89,8 +89,9 @@ export default function Header() {
                     {/* Nested flex */}
                     <button className="flex place-items-center px-4 py-2 main-button hover:main-button text-lg">
                         <Link href="https://www.berlin.de/en/events/">
-                            <span>Go to&nbsp;</span>
-                            <Image src={berlinIcon} width={80} alt="" />
+                            <span>
+                            Go to <Image src={berlinIcon} width={80} alt="" />
+                            </span>
                         </Link>
                     </button>
                 </div>
