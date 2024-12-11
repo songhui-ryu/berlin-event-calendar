@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Download the latest event files
         uses: actions/download-artifact@v4
@@ -35,7 +37,6 @@ jobs:
           # token to access different repository
           github-token: ${{ secrets.GH_PAT }}
           repository: songhui-ryu/berlin-event-scraper
-          run-id: 12281165439
 
       - name: List files
         run: |
@@ -43,12 +44,10 @@ jobs:
 
       - name: Check for changes
         run: |
-          git diff
-          
-          # if git diff --quiet; then
-          #   echo "No changes detected. Exiting..."
-          #   echo "early_exit=true" >> $GITHUB_ENV
-          # fi
+          if git diff --quiet; then
+            echo "No changes detected. Exiting..."
+            echo "early_exit=true" >> $GITHUB_ENV
+          fi
           
       - name: Commit
         if: env.early_exit != 'true'
@@ -56,7 +55,7 @@ jobs:
           git config user.name "github_workflow_bot"
           git config user.email "bot@users.noreply.github.com"
           git add public
-          git commit -m "added pulled files from songhui-ryu/berlin-event-scraper"
+          git commit -m "get the latest events from songhui-ryu/berlin-event-scraper"
           
       - name: Push
         if: env.early_exit != 'true'
