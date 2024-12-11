@@ -27,16 +27,29 @@ jobs:
         with:
           fetch-depth: 2
 
+      # official download-artifact
+      # - name: Download the latest event files
+      #   uses: actions/download-artifact@v4
+      #   with:
+      #     # name of the target artifact
+      #     name: event_files
+      #     # download destination
+      #     path: public
+      #     github-token: ${{ secrets.GH_PAT }}
+      #     repository: songhui-ryu/berlin-event-scraper
+
       - name: Download the latest event files
-        uses: actions/download-artifact@v4
+        uses: dawidd6/action-download-artifact@v7
         with:
-          # name of the target artifact
-          name: event_files
-          # download destination
+          github_token: ${{ secrets.GH_PAT }}
+          # path to extract artifact
           path: public
-          # token to access different repository
-          github-token: ${{ secrets.GH_PAT }}
-          repository: songhui-ryu/berlin-event-scraper
+          repo: songhui-ryu/berlin-event-scraper
+          branch: main
+          # search the most recent workflow
+          workflow_search: true
+          # name of the target artifact
+          name: events_files
 
       - name: List files
         run: |
