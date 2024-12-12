@@ -1,15 +1,15 @@
-'use client';
-import { useState } from 'react';
-import localFont from 'next/font/local';
-import Image from 'next/image';
-import Link from 'next/link';
-import berlinIcon from '../../public/berlin_logo.svg';
-import LanguageButton from './language';
+"use client";
+import { useState } from "react";
+import localFont from "next/font/local";
+import Image from "next/image";
+import Link from "next/link";
+import berlinIcon from "../../public/berlin_logo.svg";
+import LanguageButton from "./language";
 
 const titleFont = localFont({
-    src: '../../public/fonts/Linebeam.ttf',
-    variable: '--title-font',
-    weight: '500',
+    src: "../../public/fonts/Linebeam.ttf",
+    variable: "--title-font",
+    weight: "500",
 });
 
 export default function Header() {

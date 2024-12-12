@@ -1,23 +1,23 @@
-'use client';
+"use client";
 
-import { useEffect } from 'react';
-import { DateSelectArg, EventContentArg } from '@fullcalendar/core';
-import FullCalendar from '@fullcalendar/react';
-import dayGridPlugin from '@fullcalendar/daygrid';
-import timeGridPlugin from '@fullcalendar/timegrid';
-import interactionPlugin from '@fullcalendar/interaction';
-import { FCEvent } from './events';
+import { useEffect } from "react";
+import { DateSelectArg, EventContentArg } from "@fullcalendar/core";
+import FullCalendar from "@fullcalendar/react";
+import dayGridPlugin from "@fullcalendar/daygrid";
+import timeGridPlugin from "@fullcalendar/timegrid";
+import interactionPlugin from "@fullcalendar/interaction";
+import { FCEvent } from "./events";
 
 export default function Calendar({ events }: { events: FCEvent }) {
     useEffect(() => {
         // Find the span element with the specified classes
         const spanElement = document.querySelector(
-            'fc-timegrid-axis-cushion fc-scrollgrid-shrink-cushion fc-scrollgrid-sync-inner'
+            "fc-timegrid-axis-cushion fc-scrollgrid-shrink-cushion fc-scrollgrid-sync-inner"
         );
 
         if (spanElement) {
             // Update its text content
-            spanElement.textContent = 'Ongoing event';
+            spanElement.textContent = "Ongoing event";
         }
     }, []);
 
@@ -26,13 +26,13 @@ export default function Calendar({ events }: { events: FCEvent }) {
         // clear date selection
         calendarApi.unselect();
         // selectInfo.start will be interpreted as ISO
-        calendarApi.zoomTo(new Date(selectInfo.startStr), 'timeGridDay');
+        calendarApi.zoomTo(new Date(selectInfo.startStr), "timeGridDay");
     }
 
     function renderEventContent(eventInfo: EventContentArg) {
         return (
             <>
-                <b>{eventInfo.event._def.allDay ? '' : '🟡'}</b>
+                <b>{eventInfo.event._def.allDay ? "" : "🟡"}</b>
                 <i>{eventInfo.event.title}</i>
             </>
         );
@@ -46,9 +46,9 @@ export default function Calendar({ events }: { events: FCEvent }) {
                     height="auto"
                     // aspectRatio={1.5}
                     headerToolbar={{
-                        left: 'prev,next today',
-                        center: 'title',
-                        right: 'dayGridMonth,dayGridWeek,timeGridDay',
+                        left: "prev,next today",
+                        center: "title",
+                        right: "dayGridMonth,dayGridWeek,timeGridDay",
                     }}
                     initialView="dayGridMonth"
                     dayMaxEvents={false}

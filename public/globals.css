@@ -4,7 +4,7 @@
 
 :root {
     color: var(--foreground);
-    font-family: 'Liberation Mono';
+    font-family: "Liberation Mono";
 
     --background: rgb(46 16 101);
     --foreground: #ffffff;

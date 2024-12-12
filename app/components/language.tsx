@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { useRouter, usePathname } from 'next/navigation';
+import { useState } from "react";
+import { useRouter, usePathname } from "next/navigation";
 
 const LanguageButton = () => {
     const router = useRouter();
@@ -7,7 +7,7 @@ const LanguageButton = () => {
     const [language, setLanguage] = useState(pathname);
 
     const toggleLanguage = () => {
-        const newLanguage = language === 'en' ? 'de' : 'en';
+        const newLanguage = language === "en" ? "de" : "en";
         const newPath = `/${newLanguage}`;
 
         setLanguage(newLanguage);
@@ -19,7 +19,7 @@ const LanguageButton = () => {
             className="flex place-items-center px-2 sub-button hover:main-button text-sm"
             onClick={toggleLanguage}
         >
-            {pathname === '/en' ? 'DE' : 'EN'}
+            {pathname === "/en" ? "DE" : "EN"}
         </button>
     );
 };
