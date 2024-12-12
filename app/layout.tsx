@@ -1,12 +1,7 @@
-import type { Metadata } from 'next';
-import { Analytics } from "@vercel/analytics/react"
-import '../public/globals.css';
-
-
-export const metadata: Metadata = {
-    title: 'Berlin Events',
-    description: 'Berlin events page showing official events, but better.',
-};
+import { Analytics } from "@vercel/analytics/react";
+import { DefaultSeo } from "next-seo";
+import SEO from "../next-seo.config";
+import "../public/globals.css";
 
 export default function RootLayout({
     children,
@@ -33,6 +28,7 @@ export default function RootLayout({
           `}
             >
                 {children}
+                <DefaultSeo {...SEO} />
                 <Analytics />
             </body>
         </html>

@@ -8,7 +8,7 @@ export default async function Page() {
         <main className="flex flex-col w-full">
             <Header />
             <div className="flex-1">
-                <Calendar events={await fetchEvents("en")} />
+                <Calendar events={await fetchEvents('en')} />
             </div>
             <Footer />
         </main>
