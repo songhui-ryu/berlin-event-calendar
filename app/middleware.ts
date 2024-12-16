@@ -1,7 +1,7 @@
 import { NextResponse, NextRequest } from "next/server";
 
-let locales = ["en", "de"];
-let defaultLocale = "en";
+const locales = ["en", "de"];
+const defaultLocale = "en";
 
 export function middleware(request: NextRequest) {
     // Check if there is any supported locale in the pathname
