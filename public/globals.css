@@ -92,6 +92,15 @@ body {
     color: #000000;
 }
 
+.card {
+    background-color: #ebe9ecbe;
+    color: #000000
+}
+
+.card-title {
+    color: #712cf9
+}
+
 /* fullcalendar customization */
 .event-calendar-main {
     background-color: #ebe9ec;

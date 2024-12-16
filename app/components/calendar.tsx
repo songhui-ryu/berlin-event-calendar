@@ -8,7 +8,7 @@ import timeGridPlugin from "@fullcalendar/timegrid";
 import interactionPlugin from "@fullcalendar/interaction";
 import { FCEvent } from "./events";
 
-export default function Calendar({ events }: { events: FCEvent }) {
+export default function Calendar({ events }: { events: FCEvent[] }) {
     useEffect(() => {
         // Find the span element with the specified classes
         const spanElement = document.querySelector(

@@ -21,6 +21,7 @@ export interface FCEvent {
     allDay?: boolean;
     url?: string; // eventClick
     color?: string;
+    description?: string;
 }
 
 const todayStr = new Date().toISOString().replace(/T.*$/, ""); // YYYY-MM-DD of today
@@ -61,22 +62,23 @@ function getEventColor(index: number) {
 
 function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
     try {
-        if (!event.date || !event.date?.start || !event.date?.end) {
-            // console.log("event without date: ", event)
-            return {};
-        }
-        const startTime = dayjs(event.date.start);
-        const endTime = dayjs(event.date.end);
-        const duration = endTime.diff(startTime, "day");
-
-        const parsed = {
+        const parsed: FCEvent = {
             title: event.name,
-            start: startTime.toISOString(),
-            end: endTime.add(1, "day").toISOString(), // fullcalendar's end date is exclusive
-            allDay: duration > 0 ? true : false, // oneday event work as timed event
             url: event.href,
             color: getEventColor(index % 13),
+            description: event.description,
         };
+
+        if (event.date && event.date?.start) {
+            const startTime = dayjs(event.date?.start);
+            const endTime = dayjs(event.date?.end);
+            const duration = endTime.diff(startTime, "day");
+
+            parsed.start = startTime.toISOString();
+            parsed.end = endTime.add(1, "day").toISOString(); // fullcalendar's end date is exclusive
+            parsed.allDay = duration > 0 ? true : false; // oneday event work as timed event
+        }
+
         return parsed;
     } catch (err) {
         console.log("parseEvent(): ", err);
