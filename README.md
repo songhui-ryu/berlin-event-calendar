@@ -13,6 +13,6 @@ This calendar provides easy access to the official Berlin events.
 
 ## Events data
 
-All events are scrapped from the official website on the first day of each month by [the sibling repository](https://github.com/songhui-ryu/berlin-event-scraper).
+All events are scrapped from the official website on every week by [the sibling repository](https://github.com/songhui-ryu/berlin-event-scraper).
 
-NOTE: events that have no date specified are not displayed in the calendar.
+NOTE: events that have no date specified are not displayed in the calendar but in the card section below the calendar.

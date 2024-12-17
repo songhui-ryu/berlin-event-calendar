@@ -2,7 +2,7 @@ name: Pull artifacts from another repository
 
 on:
     schedule:
-        - cron: "0 6 1 * *"
+        - cron: '30 6 * * 1' # at 06:30 on monday
     workflow_dispatch:
 
 permissions:
