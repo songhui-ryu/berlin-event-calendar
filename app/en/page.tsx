@@ -5,7 +5,7 @@ import fetchEvents from "../components/events";
 import MoreEvents from "../components/more";
 
 export default async function Page() {
-    const events = await fetchEvents("de");
+    const events = await fetchEvents("en");
     return (
         <main className="flex flex-col w-full">
             <Header />
