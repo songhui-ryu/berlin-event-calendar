@@ -37,9 +37,9 @@ export default function Header() {
             </div>
 
             {/* Right Side: modal and button - second flex to have top and bottom*/}
-            <div className="flex-1 text-left sm:text-right flex flex-col justify-between">
+            <div className="flex-1 text-right sm:self-end flex flex-col justify-between">
                 {/* Top: language switch*/}
-                <div className="flex sm:justify-end pt-2">
+                <div className="flex justify-end pt-2">
                     {/* Nested flex */}
                     <LanguageButton />
                 </div>
@@ -92,7 +92,7 @@ export default function Header() {
                 </div>
 
                 {/* Buttom: button - algin to right in big screen*/}
-                <div className="flex sm:justify-end pt-2">
+                <div className="flex justify-end pt-2">
                     {/* Nested flex */}
                     <button className="flex place-items-center px-2 py-2 main-button hover:main-button text-sm">
                         <Link href="https://www.berlin.de/en/events/">
