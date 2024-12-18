@@ -1,7 +1,6 @@
 # Berlin Event Calendar
 
-Visit
-**https://berlin-event-calendar.vercel.app**
+Visit **https://www.berlin-events.dev/**
 
 ## Purpose
 
