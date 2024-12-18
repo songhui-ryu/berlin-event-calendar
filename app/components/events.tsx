@@ -43,12 +43,18 @@ export const INITIAL_EVENTS = [
 
 function getEventColor(index: number) {
     const colors = [
+        /** light colors for long events */
+        "Gainsboro",
+        "LavenderBlush",
+        "Linen",
+        "SeaShell",
+        "MintCream",
+        /** recular colors */
         "DeepSkyBlue",
         "Lavender",
         "LemonChiffon",
         "LightCoral",
         "LightCyan",
-        "LightGray",
         "LightGreen",
         "LightPink",
         "LightSalmon",
@@ -65,7 +71,6 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
         const parsed: FCEvent = {
             title: event.name,
             url: event.href,
-            color: getEventColor(index % 13),
             description: event.description,
         };
 
@@ -77,6 +82,11 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
             parsed.start = startTime.toISOString();
             parsed.end = endTime.add(1, "day").toISOString(); // fullcalendar's end date is exclusive
             parsed.allDay = duration > 0 ? true : false; // oneday event work as timed event
+
+            parsed.color =
+                duration > 7
+                    ? getEventColor(index % 5)
+                    : getEventColor(index % 17);
         }
 
         return parsed;

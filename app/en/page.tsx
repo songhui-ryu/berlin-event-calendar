@@ -11,7 +11,7 @@ export default async function Page() {
             <Header />
             <div className="flex-1">
                 <Calendar events={events} />
-                <MoreEvents events={events} />
+                {/* <MoreEvents events={events} /> */}
             </div>
             <Footer />
         </main>
