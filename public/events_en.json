@@ -50,12 +50,12 @@
   {
     "name": "Berlin New Year's Run",
     "date": {
-      "start": "2025-01-01T05:00:00.000Z",
-      "end": "2025-01-01T05:00:00.000Z",
+      "start": "2026-01-01T05:00:00.000Z",
+      "end": "2026-01-01T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 01, 2025"
+      "originalString": "January 01, 2026"
     },
-    "description": "Just as the old (sports) year ends, the new one begins: with a running event. The New Year's run at the Brandenburg Gate attracts a good 3,500 runners annually.",
+    "description": "Just as the old (sports) year ends, the new one begins: with a running event. The New Year's run at the Brandenburg Gate attracts about 3,500 runners annually.",
     "href": "https://www.berlin.de/en/events/991949-2842498-berlin-new-years-run.en.html",
     "onMonth": 0
   },
@@ -93,6 +93,18 @@
     "onMonth": 0
   },
   {
+    "name": "Finlandia – Aki Kaurismäki and Friends",
+    "date": {
+      "start": "2025-01-09T05:00:00.000Z",
+      "end": "2025-01-20T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 09 - 20, 2025"
+    },
+    "description": "The Kino Babylon celebrates Finnish cinema with classics, documentaries and new film highlights - plus live music and a sauna special.",
+    "href": "https://www.berlin.de/en/events/film-festivals/9395977-7812887-finlandia.en.html",
+    "onMonth": 0
+  },
+  {
     "name": "Silent Film Festival",
     "date": {
       "start": "2025-01-17T05:00:00.000Z",
@@ -117,6 +129,18 @@
     "onMonth": 0
   },
   {
+    "name": "Berlin Short Film Festival",
+    "date": {
+      "start": "2025-01-30T05:00:00.000Z",
+      "end": "2025-02-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 30 - February 01, 2025"
+    },
+    "description": "Any genre and any format allowed: The Berlin Short Film Festival aims to connect filmmakers from all over Europe.",
+    "href": "https://www.berlin.de/en/events/film-festivals/8701221-7812887-berlin-short-film-festival.en.html",
+    "onMonth": 0
+  },
+  {
     "name": "Sci-Fi Marathon at Babylon Cinema",
     "date": {
       "originalString": "Date not yet known"
@@ -128,10 +152,10 @@
   {
     "name": "JuBi Berlin",
     "date": {
-      "start": "2025-01-11T05:00:00.000Z",
-      "end": "2025-01-11T05:00:00.000Z",
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-15T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 11, 2025"
+      "originalString": "March 15, 2025"
     },
     "description": "The youth education fair JuBi provides information about student exchanges, language trips, au pairs and internships abroad.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/job-career/3485400-7988645-jubi-berlin.en.html",
@@ -192,24 +216,31 @@
     "onMonth": 0
   },
   {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
-    "onMonth": 0
-  },
-  {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
-    "onMonth": 0
-  },
-  {
     "name": "Flea Markets",
     "date": {},
     "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
     "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 0
+  },
+  {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin's Districts",
+    "date": {},
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
+    "onMonth": 0
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 0
   },
   {
@@ -263,19 +294,13 @@
   {
     "name": "Schall & Rausch",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-02-07T05:00:00.000Z",
+      "end": "2025-02-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 07 - 16, 2025"
     },
     "description": "The Neukölln Schall & Rausch Festival aims to shake up Berlin's musical theater scene.",
     "href": "https://www.berlin.de/en/events/7986827-2842498-schall-rausch.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "Berlin Short Film Festival",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "Any genre and any format allowed: The Berlin Short Film Festival aims to connect filmmakers from all over Europe.",
-    "href": "https://www.berlin.de/en/events/film-festivals/8701221-7812887-berlin-short-film-festival.en.html",
     "onMonth": 1
   },
   {
@@ -293,10 +318,10 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-02-03T05:00:00.000Z",
-      "end": "2025-02-06T05:00:00.000Z",
+      "start": "2025-01-31T05:00:00.000Z",
+      "end": "2025-02-03T05:00:00.000Z",
       "locale": "en",
-      "originalString": "February 03 - 06, 2025"
+      "originalString": "January 31 to February 03, 2025"
     },
     "description": "Twice a year, the international fashion scene gathers in Berlin for Berlin Fashion Week.",
     "href": "https://www.berlin.de/en/events/8279442-2842498-berlin-fashion-week-2024.en.html",
@@ -350,10 +375,10 @@
     "onMonth": 1
   },
   {
-    "name": "River Cruises",
+    "name": "Exhibitions in Berlin",
     "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
     "onMonth": 1
   },
   {
@@ -440,7 +465,10 @@
   {
     "name": "Tree Blossom Festival: Britzer Baumblüte",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 04 - 27, 2025"
     },
     "description": "The traditional tree blossom festival in Britz celebrates the beginning of spring under blossoming trees.",
     "href": "https://www.berlin.de/en/events/2991117-2842498-britzer-baumbluete.en.html",
@@ -449,7 +477,10 @@
   {
     "name": "Greek Film Festival",
     "date": {
-      "originalString": "Dates not yet known"
+      "start": "2025-03-26T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 26-30, 2025"
     },
     "description": "The Greek Film Festival wants to bring often still unknown Greek filmmakers into the focus of the German audience.",
     "href": "https://www.berlin.de/en/events/film-festivals/4222694-7812887-greek-film-festival.en.html",
@@ -463,10 +494,10 @@
     "onMonth": 2
   },
   {
-    "name": "The Second Glance: All Forms of Love",
+    "name": "Wives and Goddesses: Female Figures in Classical Mythology",
     "date": {},
-    "description": "A cooperation of Berlin's Gay Museum and the Bode Museum, \"All Forms of Love\" casts a second look on works in the Bode collection that deal with the diversity of sexual identities and LGBTIQ life in art from previous eras.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/the-second-glance-all-forms-of-love-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
+    "description": "Classical mythology is a topic that continues to fascinate artists and audiences to this day: more recently, numerous books have been published in which women are given their own voices as mythical protagonists.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/wives-and-goddesses-female-figures-in-classical-mythology-40475477-b5f6-49ff-912f-ea70803ac86a/",
     "onMonth": 2
   },
   {
@@ -566,8 +597,8 @@
   {
     "name": "Berlin Half Marathon",
     "date": {
-      "start": "2025-04-06T00:00:00.000Z",
-      "end": "2025-04-06T00:00:00.000Z",
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 06, 2025"
     },
@@ -599,25 +630,22 @@
   {
     "name": "Achtung Berlin",
     "date": {
-      "originalString": "Dates not yet known"
+      "start": "2025-04-02T05:00:00.000Z",
+      "end": "2025-04-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 02-09, 2025"
     },
     "description": "This film festival for new German cinema presents current works by Berlin and Brandenburg filmmakers for one week in several Berlin cinemas.",
     "href": "https://www.berlin.de/en/events/film-festivals/2122932-7812887-achtung-berlin-new-berlin-film-award.en.html",
     "onMonth": 3
   },
   {
-    "name": "Fantasy Filmfest Nights",
-    "date": {
-      "originalString": "Dates not yet known"
-    },
-    "description": "On four festival days, fantasy film fans can enjoy a jam-packed program with several previews and a good portion of horror.",
-    "href": "https://www.berlin.de/en/events/film-festivals/8147345-7812887-fantasy-filmfest-nights.en.html",
-    "onMonth": 3
-  },
-  {
     "name": "Alfilm - Arabic Film Festival",
     "date": {
-      "originalString": "Dates not yet known"
+      "start": "2025-04-23T05:00:00.000Z",
+      "end": "2025-04-29T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 23 - 29, 2025"
     },
     "description": "The festival \"Alfilm\" presents the best and newest films from the Arab world.",
     "href": "https://www.berlin.de/en/events/film-festivals/2133808-7812887-alfilm-arabic-film-festival.en.html",
@@ -793,7 +821,10 @@
   {
     "name": "XJazz Festival Berlin",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-05-12T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 12 - 18, 2025"
     },
     "description": "With 80 acts, XJazz is Berlin's largest jazz festival and aims to cross stylistic boundaries with innovative artists.",
     "href": "https://www.berlin.de/en/events/3408143-2842498-xjazz-festival.en.html",
@@ -975,10 +1006,10 @@
   {
     "name": "Greentech Festival",
     "date": {
-      "start": "2025-06-04T05:00:00.000Z",
-      "end": "2025-06-06T05:00:00.000Z",
+      "start": "2025-05-20T05:00:00.000Z",
+      "end": "2025-05-22T05:00:00.000Z",
       "locale": "en",
-      "originalString": "June 4-6, 2025"
+      "originalString": "May 20-22, 2025"
     },
     "description": "The three-day Greentech Festival is all about the latest technologies for a sustainable lifestyle.",
     "href": "https://www.berlin.de/en/trade-fairs/5949508-7918797-greentech-festival.en.html",
@@ -1204,15 +1235,6 @@
     "onMonth": 5
   },
   {
-    "name": "Jewish Film Festival",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "The Jewish Film Festival captures the diversity of Jewish life around the world. For two weeks, filmmakers from all over the world present their best and latest movies.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2525771-7812887-jewish-film-festival.en.html",
-    "onMonth": 5
-  },
-  {
     "name": "Summer in Berlin",
     "date": {},
     "description": "Parks, lakes, open-air events, beach bars, beer gardens and festivals: To enjoy summer to the fullest, life in Berlin takes place outside during the warmer months.",
@@ -1401,7 +1423,10 @@
   {
     "name": "Bite Club",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-10T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 10, 2025"
     },
     "description": "The Bite Club street food market at Arena Berlin invites you to feast and celebrate with international delicacies, cool drinks and good music.",
     "href": "https://www.berlin.de/en/shopping/markets/street-food-markets/3862843-7974330-bite-club.en.html",
@@ -1419,7 +1444,10 @@
   {
     "name": "True Italian Pizza Street Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-07-12T05:00:00.000Z",
+      "end": "2025-07-13T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 12 and 13, 2025"
     },
     "description": "This two-day food festival brings together Berlin pizzerias to celebrate what is arguably the most popular Italian dish.",
     "href": "https://www.berlin.de/en/events/food-events/8315859-7974318-true-italian-pizza-street-festival.en.html",
@@ -1558,7 +1586,10 @@
   {
     "name": "Pyronale",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-09-05T05:00:00.000Z",
+      "end": "2025-09-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 05 - 06, 2025"
     },
     "description": "Following the success of the last Pyronalen, the fireworks summit will probably take place again in 2025 on the Maifeld on the grounds of Berlin's Olympic Stadium.",
     "href": "https://www.berlin.de/en/events/2853694-2842498-pyronale.en.html",
@@ -1672,10 +1703,7 @@
   {
     "name": "NYE Indian Street Food Market",
     "date": {
-      "start": "2024-12-31T05:00:00.000Z",
-      "end": "2024-12-31T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 31, 2024"
+      "originalString": "Date not yet confirmed"
     },
     "description": "At the New Year's Eve Indian Food & Flea Market, you can experience the diversity of Indian cuisine while Bollywood music plays in the background.",
     "href": "https://www.berlin.de/en/events/food-events/8995011-7974318-the-great-indian-food-festival.en.html",
@@ -1684,7 +1712,10 @@
   {
     "name": "Pistachio Street Food Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-08-16T05:00:00.000Z",
+      "end": "2025-08-17T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 16 and 17, 2025"
     },
     "description": "The Pistachio Street Food Festival is dedicated to the green kernels, which can be found in both sweet and sour dishes from all over the world.",
     "href": "https://www.berlin.de/en/events/food-events/7679451-7974318-pistachio-street-food-festival.en.html",
@@ -1693,7 +1724,10 @@
   {
     "name": "German Rum Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 30 and 31, 2025"
     },
     "description": "The German Rum Festival is one of the largest fairs in the field of rum, rhum and cachaca worldwide.",
     "href": "https://www.berlin.de/en/events/food-events/2724220-7974318-german-rum-festival.en.html",
@@ -2090,10 +2124,10 @@
   {
     "name": "Berlin Food Week",
     "date": {
-      "start": "2025-10-13T05:00:00.000Z",
-      "end": "2025-10-19T05:00:00.000Z",
+      "start": "2025-10-06T05:00:00.000Z",
+      "end": "2025-10-12T05:00:00.000Z",
       "locale": "en",
-      "originalString": "October 13 - 19, 2025"
+      "originalString": "October 06 - 12, 2025"
     },
     "description": "The Berlin Food Week offers professional chefs, home cooks and foodies a platform for enjoyment and exchange.",
     "href": "https://www.berlin.de/en/events/food-events/3568974-7974318-berlin-food-week.en.html",
@@ -2359,30 +2393,30 @@
     "onMonth": 10
   },
   {
-    "name": "Estonian Film Days Berlin",
+    "name": "Lithuanian Cinema Goes Berlin",
     "date": {
       "originalString": "Date not yet known"
     },
-    "description": "At the Estonian Film Days Berlin, Estonian film culture will be celebrated and brought to the big screen in Berlin.",
-    "href": "https://www.berlin.de/en/events/film-festivals/8536880-7812887-estonian-film-days-berlin.en.html",
+    "description": "Every year, short and feature films from Lithuania are shown at the film festival in the Sputnik and Acud cinemas. It is the only festival outside Lithuania with a focus on national film productions.",
+    "href": "https://www.berlin.de/en/events/film-festivals/6329824-7812887-lithuanian-cinema-goes-berlin.en.html",
     "onMonth": 10
   },
   {
-    "name": "Black International Cinema",
+    "name": "International Short Film Festival Berlin",
     "date": {
       "originalString": "Date not yet known"
     },
-    "description": "Black International Cinema offers space for intercultural, artistic and intellectual exchange.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2463687-7812887-black-international-cinema.en.html",
+    "description": "Every year in autumn, the International Short Film Festival attracts cinephiles from all over the world to Berlin. The festival presents about 400 films from over 120 countries.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2122682-7812887-short-film-festival-berlin.en.html",
     "onMonth": 10
   },
   {
-    "name": "Brazilian Film Festival Cinebrasil",
+    "name": "Around the World in 14 Films",
     "date": {
       "originalString": "Date not yet known"
     },
-    "description": "Cinebrasil offers an overview of key themes and narrative aesthetics in contemporary Brazilian cinema.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2157109-7812887-cinebrasil-brazilian-film-festival.en.html",
+    "description": "In 2025, the independent festival \"Around the World in 14 Films\" is going on a cinematic journey across the globe for the 20th time.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2080036-7812887-around-the-world-in-14-days-festival.en.html",
     "onMonth": 10
   },
   {
@@ -2435,10 +2469,7 @@
   {
     "name": "LGBTIQA Winterdays and Christmas Avenue",
     "date": {
-      "start": "2024-11-08T05:00:00.000Z",
-      "end": "2024-12-23T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 08 to December 23, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "At the LGBTQIA Winterdays and the Christmas market on Nollendorfplatz, atmospheric lighting, a varied stage program and high-quality delicacies await visitors.",
     "href": "https://www.berlin.de/en/christmas-markets/5948422-3230598-christmas-avenue.en.html",
@@ -2447,10 +2478,7 @@
   {
     "name": "Medieval Christmas Market at the RAW Compound",
     "date": {
-      "start": "2024-11-14T05:00:00.000Z",
-      "end": "2024-12-22T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 14 to December 22, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "This Christmas market in Friedrichshain presents itself in all its historical splendour.",
     "href": "https://www.berlin.de/en/christmas-markets/5983209-3230598-medieval-christmas-market-at-the-raw-com.en.html",
@@ -2459,10 +2487,7 @@
   {
     "name": "Christmas Fair on Landsberger Allee",
     "date": {
-      "start": "2024-11-01T05:00:00.000Z",
-      "end": "2024-12-28T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 01 to December 28, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "The \"Lichtenberger Winterzeit\" Christmas fair attracts numerous guests to Lichtenberg with mulled wine and a funfair atmosphere.",
     "href": "https://www.berlin.de/en/christmas-markets/5741424-3230598-christmas-funfair-on-landsberger-allee.en.html",
@@ -2478,10 +2503,10 @@
   {
     "name": "New Year's Eve Party at the Brandenburg Gate",
     "date": {
-      "start": "2024-12-31T05:00:00.000Z",
-      "end": "2024-12-31T05:00:00.000Z",
+      "start": "2025-12-31T05:00:00.000Z",
+      "end": "2025-12-31T05:00:00.000Z",
       "locale": "en",
-      "originalString": "December 31, 2024"
+      "originalString": "December 31, 2025"
     },
     "description": "Music, stars and entertainment: With a huge open-air party at the Brandenburg Gate, Berlin rings in the new year.",
     "href": "https://www.berlin.de/en/events/3303144-2842498-new-years-eve-party-brandenburg-gate.en.html",
@@ -2490,10 +2515,7 @@
   {
     "name": "Louis Lewandowski Festival",
     "date": {
-      "start": "2024-12-19T05:00:00.000Z",
-      "end": "2024-12-22T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 19 - 22, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "The Louis Lewandowski Festival is a choir festival dedicated to the music of Jewish composers who emigrated from Germany. It is named after the German-Jewish composer of the same name.",
     "href": "https://www.berlin.de/en/events/2819212-2842498-louis-lewandowski-festival.en.html",
@@ -2502,10 +2524,7 @@
   {
     "name": "Winterzauber in the Gardens of the World",
     "date": {
-      "start": "2024-12-13T05:00:00.000Z",
-      "end": "2024-12-15T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 13 - 15, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "During the Advent season, the Gardens of the World shine in Christmas splendor and invite you to the first Winterzauber.",
     "href": "https://www.berlin.de/en/events/9303309-2842498-winterzauber-in-the-gardens-of-the-world.en.html",
@@ -2514,10 +2533,10 @@
   {
     "name": "Berlin New Year's Eve Run",
     "date": {
-      "start": "2024-12-31T05:00:00.000Z",
-      "end": "2024-12-31T05:00:00.000Z",
+      "start": "2025-12-31T05:00:00.000Z",
+      "end": "2025-12-31T05:00:00.000Z",
       "locale": "en",
-      "originalString": "December 31, 2024"
+      "originalString": "December 31, 2025"
     },
     "description": "Before the big New Year's Eve party, runners can end the old year in a sporty way at the traditional Berlin New Year's Eve Run organized by the SCC Berlin.",
     "href": "https://www.berlin.de/en/sports-leisure/running/1022177-7813334-berlin-new-years-eve-run.en.html",
@@ -2559,39 +2578,21 @@
     "onMonth": 11
   },
   {
-    "name": "Christmas Film Festival",
-    "date": {
-      "start": "2024-12-01T05:00:00.000Z",
-      "end": "2024-12-26T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 01 - 26, 2024"
-    },
-    "description": "The first festival that is all about Christmas is taking place at the Moviemento cinema in Kreuzberg.",
-    "href": "https://www.berlin.de/en/events/film-festivals/4690721-7812887-christmas-film-festival.en.html",
-    "onMonth": 11
-  },
-  {
-    "name": "Around the World in 14 Films",
-    "date": {
-      "start": "2024-11-29T05:00:00.000Z",
-      "end": "2024-12-07T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 29 - December 07, 2024"
-    },
-    "description": "In 2024, the independent festival \"Around the World in 14 Films\" is going on a cinematic journey across the globe for the 19th time.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2080036-7812887-around-the-world-in-14-days-festival.en.html",
-    "onMonth": 11
-  },
-  {
     "name": "Doc.Berlin",
     "date": {
-      "start": "2024-12-09T05:00:00.000Z",
-      "end": "2024-12-12T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 09 - 12, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "The documentary film festival Doc.Berlin invites fans of informative cinema to four days of movies at the Babylon cinema.",
     "href": "https://www.berlin.de/en/events/film-festivals/7155259-7812887-docberlin.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Christmas Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The first festival that is all about Christmas is taking place at the Moviemento cinema in Kreuzberg.",
+    "href": "https://www.berlin.de/en/events/film-festivals/4690721-7812887-christmas-film-festival.en.html",
     "onMonth": 11
   },
   {
@@ -2609,12 +2610,12 @@
     "onMonth": 11
   },
   {
-    "name": "Christmas Market on Gendarmenmarkt (Bebelplatz)",
+    "name": "Christmas Market on Gendarmenmarkt",
     "date": {
-      "start": "2024-11-25T05:00:00.000Z",
-      "end": "2024-12-31T05:00:00.000Z",
+      "start": "2025-11-24T05:00:00.000Z",
+      "end": "2025-12-31T05:00:00.000Z",
       "locale": "en",
-      "originalString": "November 25 - December 31, 2024"
+      "originalString": "November 24 - December 31, 2025"
     },
     "description": "Located on one of the most beautiful squares in Berlin, this Christmas Market offers quality decorations, food and entertainment.",
     "href": "https://www.berlin.de/en/christmas-markets/3235772-3230598-christmas-market-at-gendarmenmarkt.en.html",
@@ -2623,22 +2624,19 @@
   {
     "name": "Christmas Market in Alt-Rixdorf",
     "date": {
-      "start": "2024-12-06T05:00:00.000Z",
-      "end": "2024-12-08T05:00:00.000Z",
+      "start": "2025-12-05T05:00:00.000Z",
+      "end": "2025-12-07T05:00:00.000Z",
       "locale": "en",
-      "originalString": "December 06 to 08, 2024"
+      "originalString": "December 05 to 07, 2025"
     },
-    "description": "On the second weekend in Advent, the Alt-Rixdorf Christmas market in the Neukölln district takes visitors back to the 19th century.",
+    "description": "Cobblestones, warm light from oil lamps and a historical backdrop: The Alt-Rixdorf Christmas market on Richardplatz attracts visitors with its unique ambience and charitable commitment.",
     "href": "https://www.berlin.de/en/christmas-markets/3240343-3230598-christmas-market-altrixdorf-in-neukoelln.en.html",
     "onMonth": 11
   },
   {
     "name": "British Christmas Market",
     "date": {
-      "start": "2024-12-07T05:00:00.000Z",
-      "end": "2024-12-07T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 07, 2024"
+      "originalString": "Date not yet known"
     },
     "description": "Under the motto \"A Very British Christmas\", the congregation of St George's Church in Charlottenburg organizes a cozy Christmas market every year.",
     "href": "https://www.berlin.de/en/christmas-markets/7689300-3230598-british-christmas-market.en.html",
@@ -2656,10 +2654,10 @@
   {
     "name": "Terraristikbörse Berlin",
     "date": {
-      "start": "2024-12-22T05:00:00.000Z",
-      "end": "2024-12-22T05:00:00.000Z",
+      "start": null,
+      "end": null,
       "locale": "en",
-      "originalString": "December 22, 2024"
+      "originalString": "Febuary 2, 2025"
     },
     "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
     "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
@@ -2668,7 +2666,10 @@
   {
     "name": "Made in Berlin Job Fair",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-12-03T05:00:00.000Z",
+      "end": "2025-12-03T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 03, 2025"
     },
     "description": "The job and career fair \"Made in Berlin\" is aimed at university graduates who are looking for an internship or the right career start.",
     "href": "https://www.berlin.de/en/trade-fairs/3687693-7918797-made-in-berlin-job-fair.en.html",
