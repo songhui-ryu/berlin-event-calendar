@@ -216,13 +216,6 @@
     "onMonth": 0
   },
   {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 0
-  },
-  {
     "name": "River Cruises",
     "date": {},
     "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
@@ -375,10 +368,10 @@
     "onMonth": 1
   },
   {
-    "name": "Exhibitions in Berlin",
+    "name": "Flea Markets",
     "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
     "onMonth": 1
   },
   {
@@ -541,6 +534,13 @@
     "date": {},
     "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
     "href": "https://www.berlin.de/en/events/spring/",
+    "onMonth": 2
+  },
+  {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
     "onMonth": 2
   },
   {
@@ -1999,13 +1999,6 @@
     },
     "description": "Swim in the Wannsee, cycle on the Havelchaussee and run in the Grunewald forest. In addition to the sprint and middle distance, there is also a mini-marathon.",
     "href": "https://www.berlin.de/en/sports-leisure/running/5931834-7813334-berlinman-triathlon.en.html",
-    "onMonth": 8
-  },
-  {
-    "name": "Gisèle Vienne: This Causes Consciousness to Fracture",
-    "date": {},
-    "description": "Over the past twenty years, the French-Austrian artist, choreographer, and director has created a complex and idiosyncratic body of work that traces the dreams and abysses of adolescence and counterculture.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/gisele-vienne-this-causes-consciousness-to-fracture-125e7d3f-6440-4dfc-9dbc-b4d29b950fc6/",
     "onMonth": 8
   },
   {
