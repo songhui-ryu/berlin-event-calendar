@@ -93,18 +93,6 @@
     "onMonth": 0
   },
   {
-    "name": "Finlandia – Aki Kaurismäki and Friends",
-    "date": {
-      "start": "2025-01-09T05:00:00.000Z",
-      "end": "2025-01-20T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 09 - 20, 2025"
-    },
-    "description": "The Kino Babylon celebrates Finnish cinema with classics, documentaries and new film highlights - plus live music and a sauna special.",
-    "href": "https://www.berlin.de/en/events/film-festivals/9395977-7812887-finlandia.en.html",
-    "onMonth": 0
-  },
-  {
     "name": "Silent Film Festival",
     "date": {
       "start": "2025-01-17T05:00:00.000Z",
@@ -150,6 +138,18 @@
     "onMonth": 0
   },
   {
+    "name": "Unknown Pleasures",
+    "date": {
+      "start": "2025-01-02T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 02 to 12, 2025"
+    },
+    "description": "In 2025, the Unknown Pleasures festival will present a diverse selection of the best and most exciting independent films for the 15th time.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2023640-7812887-unknown-pleasures.en.html",
+    "onMonth": 0
+  },
+  {
     "name": "JuBi Berlin",
     "date": {
       "start": "2025-03-15T05:00:00.000Z",
@@ -164,10 +164,7 @@
   {
     "name": "European Camera Trade Show Berlin",
     "date": {
-      "start": "2025-01-18T05:00:00.000Z",
-      "end": "2025-01-18T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 18, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "At this international camera trade show, dealers and collectors offer cameras and other photography products for sale or exchange.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/technology/3246105-7968909-europaeische-kameraboerse-berlin.en.html",
@@ -249,27 +246,27 @@
     "onMonth": 1
   },
   {
-    "name": "One Billion Rising",
+    "name": "Biennale of the Berlin Philharmonic Orchestra",
     "date": {
-      "start": "2025-02-14T05:00:00.000Z",
-      "end": "2025-02-14T05:00:00.000Z",
+      "start": "2025-02-13T05:00:00.000Z",
+      "end": "2025-03-01T05:00:00.000Z",
       "locale": "en",
-      "originalString": "February 14, 2025"
+      "originalString": "February 13 - March 01, 2025"
     },
-    "description": "The movement \"One Billion Rising\" aims to bring women and men together in public places to dance against violence against women and for respect for all.",
-    "href": "https://www.berlin.de/en/events/3351612-2842498-one-billion-rising.en.html",
+    "description": "The motto of the 2025 Berlin Philharmonic Biennale is \"Paradise lost? - On the threat to nature\" and focuses on the dangers of climate change and species extinction.",
+    "href": "https://www.berlin.de/en/events/7976916-2842498-biennale-berlin-philharmonic-orchestra.en.html",
     "onMonth": 1
   },
   {
-    "name": "Berlin Valentine's Run",
+    "name": "Berlin Independent Film Festival",
     "date": {
-      "start": "2025-02-16T05:00:00.000Z",
+      "start": "2025-02-12T05:00:00.000Z",
       "end": "2025-02-16T05:00:00.000Z",
       "locale": "en",
-      "originalString": "February 16, 2025"
+      "originalString": "February 12 - 16, 2025"
     },
-    "description": "The Valentine's Run in the Gardens of the World is a relatively new addition to Berlin's running calendar. In 2025, the couples' run will take place for the fifth time.",
-    "href": "https://www.berlin.de/en/sports-leisure/running/7001777-7813334-berlin-valentines-run.en.html",
+    "description": "The Berlin Independent Film Festival champions low-budget filmmaking in Europe by giving new directors the opportunity to screen their work and swap ideas.",
+    "href": "https://www.berlin.de/en/events/film-festivals/3319931-7812887-berlin-independent-film-festival.en.html",
     "onMonth": 1
   },
   {
@@ -285,18 +282,6 @@
     "onMonth": 1
   },
   {
-    "name": "Schall & Rausch",
-    "date": {
-      "start": "2025-02-07T05:00:00.000Z",
-      "end": "2025-02-16T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 07 - 16, 2025"
-    },
-    "description": "The Neukölln Schall & Rausch Festival aims to shake up Berlin's musical theater scene.",
-    "href": "https://www.berlin.de/en/events/7986827-2842498-schall-rausch.en.html",
-    "onMonth": 1
-  },
-  {
     "name": "Tanzolymp - International Dance Festival",
     "date": {
       "start": "2025-02-20T05:00:00.000Z",
@@ -306,6 +291,30 @@
     },
     "description": "Tanzolymp is an annual Berlin-based dance event for young talents from around the world with workshops, seminars and competitions.",
     "href": "https://www.berlin.de/en/events/2268249-2842498-tanzolymp-international-dance-festival.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Japanmarkt Berlin",
+    "date": {
+      "start": "2025-02-09T05:00:00.000Z",
+      "end": "2025-02-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 09, 2025"
+    },
+    "description": "The Japanmarkt at Festsaal Kreuzberg is all about Japanese design, culture, art, music and food.",
+    "href": "https://www.berlin.de/en/shopping/markets/design-markets/5675278-7981482-japanmarkt-berlin.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Schall & Rausch",
+    "date": {
+      "start": "2025-02-07T05:00:00.000Z",
+      "end": "2025-02-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 07 - 16, 2025"
+    },
+    "description": "The Neukölln Schall & Rausch Festival aims to shake up Berlin's musical theater scene.",
+    "href": "https://www.berlin.de/en/events/7986827-2842498-schall-rausch.en.html",
     "onMonth": 1
   },
   {
@@ -321,43 +330,105 @@
     "onMonth": 1
   },
   {
-    "name": "Berlin Independent Film Festival",
+    "name": "One Billion Rising",
     "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "The Berlin Independent Film Festival champions low-budget filmmaking in Europe by giving new directors the opportunity to screen their work and swap ideas.",
-    "href": "https://www.berlin.de/en/events/film-festivals/3319931-7812887-berlin-independent-film-festival.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "Fruit Logistica",
-    "date": {
-      "start": "2025-02-05T05:00:00.000Z",
-      "end": "2025-02-07T05:00:00.000Z",
+      "start": "2025-02-14T05:00:00.000Z",
+      "end": "2025-02-14T05:00:00.000Z",
       "locale": "en",
-      "originalString": "February 5-7, 2025"
+      "originalString": "February 14, 2025"
     },
-    "description": "Fruit Logistica is an international trade fair for fruit and vegetable marketing.",
-    "href": "https://www.berlin.de/en/trade-fairs/1612595-7918797-fruitlogistica.en.html",
+    "description": "The movement \"One Billion Rising\" aims to bring women and men together in public places to dance against violence against women and for respect for all.",
+    "href": "https://www.berlin.de/en/events/3351612-2842498-one-billion-rising.en.html",
     "onMonth": 1
   },
   {
-    "name": "Christopher Bauder: Vektor",
+    "name": "Eat Berlin",
+    "date": {
+      "start": "2025-02-20T05:00:00.000Z",
+      "end": "2025-03-02T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 20 - March 02, 2025"
+    },
+    "description": "At the gourmet food festival Eat Berlin, over 100 top chefs from Berlin, Germany and around the world showcase their skills.",
+    "href": "https://www.berlin.de/en/events/food-events/6286536-7974318-eat-berlin.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "ISTAF Indoor Berlin 2025",
     "date": {},
-    "description": "For his largest indoor installation to date, light artist Christopher Bauder heads to one of his favourite places: At Kraftwerk Berlin, 50 lasers and other light elements merge with a three-dimensional soundscape.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/christopher-bauder-vektor-e09fb0cc-b0b0-4a68-8d49-960470678620/",
+    "description": "Spectators at the ISTAF Indoor can once again look forward to the top athletes in the 60m sprint, hurdles, long jump, pole vault and discus throw. The whole event will be rounded off by an impressive show programme.prung und Diskuswurf freuen. Abgerundet...",
+    "href": "https://www.berlin.de/en/tickets/sport/istaf-indoor-berlin-2025-62c4ae8b-3f05-444b-8dfc-7dc6d21bf635/",
     "onMonth": 1
   },
   {
-    "name": "Valie Export: Retrospective",
+    "name": "Snooker - German Masters 2025",
+    "date": {},
+    "description": "The German Masters is the highlight of the snooker scene in Germany. It will take place again in Berlin's Tempodrom in 2025.",
+    "href": "https://www.berlin.de/en/tickets/sport/snooker-german-masters-2025-f0affb2e-3d24-42f5-89a7-7e82408fd81e/",
+    "onMonth": 1
+  },
+  {
+    "name": "Füchse Berlin",
+    "date": {},
+    "description": "In February, the Füchse Berlin will play against 1. VfL Potsdam, Federicia Handboldklub, SG Flensburg-Handewitt and HC Eurofarm Pelister.",
+    "href": "https://www.berlin.de/en/tickets/sport/fuechse-berlin-saison-2024-2025-ffa3a363-72d9-449c-9bf5-0660c69a906b/",
+    "onMonth": 1
+  },
+  {
+    "name": "A World In Common: Contemporary African Photography",
+    "date": {},
+    "description": "The exhibition at CO Berlin assembles works by more than twenty artists with the aim of redefining Africa’s representation in the global narrative.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/a-world-in-common-contemporary-african-photography-10fbc254-b53b-4fa9-9598-ede501a23ace/",
+    "onMonth": 1
+  },
+  {
+    "name": "Ull Hohn: Revisions",
+    "date": {},
+    "description": "For Ull Hohn painting was more than just an artistic medium – it was a space where discourse, technique, and personal reflections intertwined.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/ull-hohn-revisions-5bb787df-031e-428b-b628-5c2ccfade045/",
+    "onMonth": 1
+  },
+  {
+    "name": "Alex Müller: Alexandraplatz",
+    "date": {},
+    "description": "Interwoven into a wide-ranging network of autobiographical references, Alex Müller's first institutional solo exhibition in Berlin is a fascinating presentation of painterly, sculptural and installation works.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/alex-mueller-alexandraplatz-97cd122e-f789-4034-9ffa-1ebd1e141a00/",
+    "onMonth": 1
+  },
+  {
+    "name": "Weinmesse Berlin Wine Fair",
     "date": {
-      "start": "2024-01-27T05:00:00.000Z",
-      "end": "2024-05-22T05:00:00.000Z",
+      "start": null,
+      "end": null,
       "locale": "en",
-      "originalString": "January 27 - May 22, 2024"
+      "originalString": "Febuary 7-9, 2025"
     },
-    "description": "C/O Berlin is kicking off 2024 with a retrospective of the Austrian icon of feminist performance art Valie Export.",
-    "href": "https://www.berlin.de/en/exhibitions/8588305-5202331-valie-export.en.html",
+    "description": "Around 270 exhibitors from all over the world are presenting wines, wine literature and delicatessen at the Messe Berlin.",
+    "href": "https://www.berlin.de/en/trade-fairs/1612671-7918797-weinmesseberlin.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Terraristikbörse Berlin",
+    "date": {
+      "start": null,
+      "end": null,
+      "locale": "en",
+      "originalString": "Febuary 2, 2025"
+    },
+    "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
+    "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Liebe ist",
+    "date": {
+      "start": null,
+      "end": null,
+      "locale": "en",
+      "originalString": "Febuary 8 and 9, 2025"
+    },
+    "description": "At this fair, couples will find ideas and service providers on the subject of weddings as well as the latest wedding trends.",
+    "href": "https://www.berlin.de/en/trade-fairs/7300886-7918797-liebe-ist.en.html",
     "onMonth": 1
   },
   {
@@ -365,6 +436,13 @@
     "date": {},
     "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
     "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
     "onMonth": 1
   },
   {
@@ -534,13 +612,6 @@
     "date": {},
     "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
     "href": "https://www.berlin.de/en/events/spring/",
-    "onMonth": 2
-  },
-  {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
     "onMonth": 2
   },
   {
@@ -2642,18 +2713,6 @@
     },
     "description": "At this public wine fair at Markthalle Neun in Kreuzberg, organic winemakers from all over the world present their wines.",
     "href": "https://www.berlin.de/en/trade-fairs/3968362-7918797-raw-wine-berlin.en.html",
-    "onMonth": 11
-  },
-  {
-    "name": "Terraristikbörse Berlin",
-    "date": {
-      "start": null,
-      "end": null,
-      "locale": "en",
-      "originalString": "Febuary 2, 2025"
-    },
-    "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
-    "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
     "onMonth": 11
   },
   {

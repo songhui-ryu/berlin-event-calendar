@@ -114,6 +114,18 @@
     "onMonth": 0
   },
   {
+    "name": "British Shorts",
+    "date": {
+      "start": "2025-01-23T05:00:00.000Z",
+      "end": "2025-01-29T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "23. bis 29. Januar 2025"
+    },
+    "description": "Im Fokus des Festivals steht der unabhängige britische Film. Gezeigt werden unter anderem Comedy, Animation, Horror und Science Fiction.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2023462-2020379-british-shorts.html",
+    "onMonth": 0
+  },
+  {
     "name": "Indian Film Festival",
     "date": {
       "start": "2025-01-10T05:00:00.000Z",
@@ -135,18 +147,6 @@
     },
     "description": "Das Babylon am Rosa-Luxemburg-Platz feiert finnisches Kino mit Klassikern, Dokumentarfilmen und neuen Filmhighlights - dazu gibt es Livemusik und ein Sauna-Special.",
     "href": "https://www.berlin.de/kino/filmfestivals/9395977-2020379-finlandia.html",
-    "onMonth": 0
-  },
-  {
-    "name": "British Shorts",
-    "date": {
-      "start": "2025-01-23T05:00:00.000Z",
-      "end": "2025-01-29T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. bis 29. Januar 2025"
-    },
-    "description": "Im Fokus des Festivals steht der unabhängige britische Film. Gezeigt werden unter anderem Comedy, Animation, Horror und Science Fiction.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2023462-2020379-british-shorts.html",
     "onMonth": 0
   },
   {
@@ -191,10 +191,7 @@
   {
     "name": "Europäische Kamerabörse Berlin",
     "date": {
-      "start": "2025-01-18T05:00:00.000Z",
-      "end": "2025-01-18T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "18. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Europäischen Kamerabörse Berlin bieten Händler und Sammler Kameras und andere Produkte aus dem Bereich Fotografie zum Kauf oder Tausch an.",
     "href": "https://www.berlin.de/messen/3246105-7918641-europaeische-kameraboerse-berlin.html",
@@ -234,6 +231,20 @@
     "onMonth": 0
   },
   {
+    "name": "Volksfeste und Straßenfeste",
+    "date": {},
+    "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
+    "href": "https://www.berlin.de/events/volksfeste/",
+    "onMonth": 0
+  },
+  {
+    "name": "Food-Events",
+    "date": {},
+    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
+    "href": "https://www.berlin.de/restaurants/food-events/",
+    "onMonth": 0
+  },
+  {
     "name": "Wochenend-Tipps",
     "date": {},
     "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
@@ -252,20 +263,6 @@
     "date": {},
     "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/",
-    "onMonth": 0
-  },
-  {
-    "name": "Volksfeste und Straßenfeste",
-    "date": {},
-    "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
-    "href": "https://www.berlin.de/events/volksfeste/",
-    "onMonth": 0
-  },
-  {
-    "name": "Food-Events",
-    "date": {},
-    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
-    "href": "https://www.berlin.de/restaurants/food-events/",
     "onMonth": 0
   },
   {
@@ -1045,6 +1042,13 @@
     "onMonth": 3
   },
   {
+    "name": "Jo.Reusch - Fotokunst: Kontinente - New Horizons",
+    "date": {},
+    "description": "Die fotografischen Arbeiten des Grafikers Jo.Reusch zeigen mitunter Schnittstellen - also künstlerische Grenzpunkte, an denen sich Fotografie, Malerei und Grafik begegnen.Mal etwas malerisch, bis hin zu geheimnisvollem Schwarz-Weiß.Auch werden verschiedene...",
+    "href": "https://www.berlin.de/tickets/ausstellungen/jo-reusch-fotokunst-kontinente-new-horizons-475eb848-e741-4d24-81f9-b6234eff5709/",
+    "onMonth": 3
+  },
+  {
     "name": "Beachfood Festival",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -1714,17 +1718,17 @@
     "onMonth": 5
   },
   {
-    "name": "Vaginal Davis: Fabelhaftes Produkt",
-    "date": {},
-    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
-    "onMonth": 5
-  },
-  {
     "name": "Vamos a la playa",
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
     "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
+    "onMonth": 5
+  },
+  {
+    "name": "Vaginal Davis: Fabelhaftes Produkt",
+    "date": {},
+    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
     "onMonth": 5
   },
   {
