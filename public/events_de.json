@@ -14,10 +14,10 @@
   {
     "name": "Internationale Grüne Woche Berlin",
     "date": {
-      "start": "2025-01-17T05:00:00.000Z",
-      "end": "2025-01-26T05:00:00.000Z",
+      "start": "2026-01-16T05:00:00.000Z",
+      "end": "2026-01-25T05:00:00.000Z",
       "locale": "de",
-      "originalString": "17. bis 26. Januar 2025"
+      "originalString": "16. bis 25. Januar 2026"
     },
     "description": "Die Internationale Grüne Woche Berlin gilt als weltgrößte Verbraucherschau für Landwirtschaft, Ernährung und Gartenbau.",
     "href": "https://www.berlin.de/messen/2101366-7918641-internationale-gruene-woche-berlin.html",
@@ -150,6 +150,15 @@
     "onMonth": 0
   },
   {
+    "name": "Joseph Beuys: Sammlungspräsentation",
+    "date": {
+      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
+    },
+    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.mehrzu: Joseph Beuys: Sammlungspräsentation",
+    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 0
+  },
+  {
     "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {
       "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
@@ -165,15 +174,6 @@
     },
     "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...mehrzu: Der zweite Blick: Spielarten der Liebe",
     "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
-    "onMonth": 0
-  },
-  {
-    "name": "Altes Ägypten",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.mehrzu: Altes Ägypten",
-    "href": "https://www.berlin.de/tickets/ausstellungen/altes-aegypten-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
     "onMonth": 0
   },
   {
@@ -200,10 +200,7 @@
   {
     "name": "Hippologica Berlin",
     "date": {
-      "start": "2025-01-24T05:00:00.000Z",
-      "end": "2025-01-26T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "24. bis 26. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die Hippologica Berlin ist das Reitturnier der Internationalen Grüne Woche und bietet eine bunte Mischung aus dem Pferdesport.",
     "href": "https://www.berlin.de/messen/1618561-7918641-hippologica-berlin.html",
@@ -231,6 +228,20 @@
     "onMonth": 0
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/",
+    "onMonth": 0
+  },
+  {
     "name": "Volksfeste und Straßenfeste",
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
@@ -249,20 +260,6 @@
     "date": {},
     "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
     "href": "https://www.berlin.de/wochenend-tipps/",
-    "onMonth": 0
-  },
-  {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
-    "onMonth": 0
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/",
     "onMonth": 0
   },
   {
@@ -1042,13 +1039,6 @@
     "onMonth": 3
   },
   {
-    "name": "Jo.Reusch - Fotokunst: Kontinente - New Horizons",
-    "date": {},
-    "description": "Die fotografischen Arbeiten des Grafikers Jo.Reusch zeigen mitunter Schnittstellen - also künstlerische Grenzpunkte, an denen sich Fotografie, Malerei und Grafik begegnen.Mal etwas malerisch, bis hin zu geheimnisvollem Schwarz-Weiß.Auch werden verschiedene...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/jo-reusch-fotokunst-kontinente-new-horizons-475eb848-e741-4d24-81f9-b6234eff5709/",
-    "onMonth": 3
-  },
-  {
     "name": "Beachfood Festival",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -1711,10 +1701,10 @@
     "onMonth": 5
   },
   {
-    "name": "Joseph Beuys: Sammlungspräsentation",
+    "name": "Vaginal Davis: Fabelhaftes Produkt",
     "date": {},
-    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
     "onMonth": 5
   },
   {
@@ -1722,13 +1712,6 @@
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
     "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
-    "onMonth": 5
-  },
-  {
-    "name": "Vaginal Davis: Fabelhaftes Produkt",
-    "date": {},
-    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
     "onMonth": 5
   },
   {
@@ -2089,7 +2072,7 @@
       "locale": "de",
       "originalString": "12. Juli 2025"
     },
-    "description": "19 Jahre nach der letzten Loveparade in der Hauptstadt bringt dessen Gründer Dr. Motte den Nachfolger Rave the Planet nach Berlin.",
+    "description": "Nach dem Ende der originalen Loveparade in der Hauptstadt bringt dessen Gründer Dr. Motte den Nachfolger Rave the Planet wieder nach Berlin. Rave the Planet ist eine einzigartige Symbiose aus Demonstration und Rave.",
     "href": "https://www.berlin.de/events/7600572-2229501-rave-the-planet-love-parade.html",
     "onMonth": 7
   },
@@ -2629,7 +2612,10 @@
   {
     "name": "Kartoffelfest in Dahlem",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-09-14T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. und 14. September 2025"
     },
     "description": "Auch in diesem Jahr wird der vielfältigen Erdknolle ein eigenes Fest gewidmet.",
     "href": "https://www.berlin.de/restaurants/food-events/6895468-5146458-kartoffelfest-in-dahlem.html",
@@ -2754,7 +2740,10 @@
   {
     "name": "Festival of Lights",
     "date": {
-      "originalString": "Noch nicht bekannt"
+      "start": "2025-10-08T05:00:00.000Z",
+      "end": "2025-10-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "08. bis 15. Oktober 2025"
     },
     "description": "Das Festival of Lights verzaubert Berlin. Zahlreiche Gebäude und Plätze in der Hauptstadt werden 10 Tage lang bunt illuminiert.",
     "href": "https://www.berlin.de/events/2097286-2229501-festival-of-lights.html",
@@ -2872,7 +2861,10 @@
   {
     "name": "Herbstmarkt auf der Domäne Dahlem",
     "date": {
-      "originalString": "Noch nicht bekannt"
+      "start": "2025-10-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "18. und 19. Oktober 2025"
     },
     "description": "Bunte Blätter, frische Luft und goldenes Licht: Der Herbst ist in Berlin angekommen! Die Domäne Dahlem lädt Ende Oktober zum Herbstmarkt.",
     "href": "https://www.berlin.de/events/7799565-2229501-herbstmarkt-auf-der-domaene-dahlem.html",
@@ -2917,13 +2909,6 @@
     "date": {},
     "description": "Die Stadtführung begibt sich auf die Spuren von berühmten Medizinern wie Robert Koch und macht die einmalige und spannende Geschichte der Berliner Charité erlebbar.",
     "href": "https://www.berlin.de/tourismus/stadtfuehrungen/x/6872326-5433807-stadtfuehrung-rundgang-berliner-charite.html",
-    "onMonth": 9
-  },
-  {
-    "name": "Monet und die impressionistische Stadt",
-    "date": {},
-    "description": "Die Alte Nationalgalerie in Berlin präsentiert Claude Monets drei früheste Ansichten von Paris aus dem Jahr 1867.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/monet-und-die-impressionistische-stadt-6d488ca0-1ed1-40b5-b290-fdc6f1b65e15/",
     "onMonth": 9
   },
   {

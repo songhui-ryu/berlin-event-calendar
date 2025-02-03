@@ -213,24 +213,24 @@
     "onMonth": 0
   },
   {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
+    "onMonth": 0
+  },
+  {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 0
+  },
+  {
     "name": "River Cruises",
     "date": {},
     "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
-    "onMonth": 0
-  },
-  {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/",
-    "onMonth": 0
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 0
   },
   {
@@ -439,17 +439,17 @@
     "onMonth": 1
   },
   {
-    "name": "Exhibitions in Berlin",
+    "name": "Berlin's Districts",
     "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
     "onMonth": 1
   },
   {
-    "name": "Flea Markets",
+    "name": "Attractions & Sights",
     "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 1
   },
   {
@@ -692,7 +692,10 @@
   {
     "name": "Run through Volkspark Friedrichshain",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-27T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 27, 2025"
     },
     "description": "Runners can choose between three routes of different lengths, which lead over the hilly terrain of the park.",
     "href": "https://www.berlin.de/en/sports-leisure/running/8757715-7813334-run-through-volkspark-friedrichshain.en.html",
@@ -1641,7 +1644,7 @@
       "locale": "en",
       "originalString": "July 12, 2025"
     },
-    "description": "19 years after the last Loveparade in the capital, its founder Dr. Motte is bringing the event's successor \"Rave the Planet\" to Berlin once again.",
+    "description": "After the end of the original Love Parade in the capital, its founder Dr. Motte is bringing the successor Rave the Planet back to Berlin.",
     "href": "https://www.berlin.de/en/events/7600572-2842498-rave-the-planet-love-parade.en.html",
     "onMonth": 7
   },
@@ -2080,13 +2083,6 @@
     "onMonth": 8
   },
   {
-    "name": "Monet and the Impressionist Cityscape",
-    "date": {},
-    "description": "The Alte Nationalgalerie will be presenting Claude Monet’s three earliest views of Paris, from 1867, which are considered to be the first Impressionist cityscapes.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/monet-and-the-impressionist-cityscape-6d488ca0-1ed1-40b5-b290-fdc6f1b65e15/",
-    "onMonth": 8
-  },
-  {
     "name": "Berlin Chili Fest",
     "date": {
       "start": "2025-05-16T05:00:00.000Z",
@@ -2435,10 +2431,7 @@
   {
     "name": "Christmas Garden Berlin",
     "date": {
-      "start": "2024-11-20T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 20, 2024 - January 12, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "For Christmas Garden, the Botanical Garden in Berlin is transformed into a glowing fairytale landscape with all kinds of light shows, magic forests and 3D illuminated figures.",
     "href": "https://www.berlin.de/en/events/4602948-2842498-christmas-garden-berlin.en.html",
@@ -2447,10 +2440,7 @@
   {
     "name": "Christmas at the Tierpark",
     "date": {
-      "start": "2024-11-22T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 22, 2024 - January 12, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Europe's largest zoo will be bathed in Christmas lights again this year. The historical Friedrichsfelde Palace is at the heart of the luminous Christmas tour.",
     "href": "https://www.berlin.de/en/events/5909511-2842498-christmas-at-the-tierpark.en.html",
