@@ -38,12 +38,12 @@
   {
     "name": "Ultraschall Berlin: Festival für neue Musik",
     "date": {
-      "start": "2025-01-15T05:00:00.000Z",
-      "end": "2025-01-19T05:00:00.000Z",
+      "start": "2026-01-14T05:00:00.000Z",
+      "end": "2026-01-18T05:00:00.000Z",
       "locale": "de",
-      "originalString": "15. bis 19. Januar 2025"
+      "originalString": "14. bis 18. Januar 2026"
     },
-    "description": "Das Ultraschall-Festival für neue Musik findet 2025 voraussichtlich wieder in verschiedenen Locations in Berlin statt.",
+    "description": "Das Ultraschall-Festival für neue Musik findet 2026 voraussichtlich wieder in verschiedenen Locations in Berlin statt.",
     "href": "https://www.berlin.de/events/6416655-2229501-ultraschall-berlin-festival-fuer-neue-mu.html",
     "onMonth": 0
   },
@@ -114,6 +114,18 @@
     "onMonth": 0
   },
   {
+    "name": "Stummfilmfestival",
+    "date": {
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "17. Januar bis 22. März 2025"
+    },
+    "description": "Beim alljährigen Stummfilmfestival kommen große Klassiker auf die Leinwand und werden von einem Live-Orchester vertont.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7374398-2020379-stummfilmfestival.html",
+    "onMonth": 0
+  },
+  {
     "name": "British Shorts",
     "date": {
       "start": "2025-01-23T05:00:00.000Z",
@@ -135,18 +147,6 @@
     },
     "description": "Das Indian Film Festival präsentiert die Vielfalt und Kreativität des indischen Kinos in einer Reihe beeindruckender Vorführungen.",
     "href": "https://www.berlin.de/kino/filmfestivals/9377623-2020379-indian-film-festival-2025.html",
-    "onMonth": 0
-  },
-  {
-    "name": "Finlandia – Aki Kaurismäki and Friends",
-    "date": {
-      "start": "2025-01-09T05:00:00.000Z",
-      "end": "2025-01-20T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "09. bis 20. Januar 2025"
-    },
-    "description": "Das Babylon am Rosa-Luxemburg-Platz feiert finnisches Kino mit Klassikern, Dokumentarfilmen und neuen Filmhighlights - dazu gibt es Livemusik und ein Sauna-Special.",
-    "href": "https://www.berlin.de/kino/filmfestivals/9395977-2020379-finlandia.html",
     "onMonth": 0
   },
   {
@@ -228,6 +228,13 @@
     "onMonth": 0
   },
   {
+    "name": "Wochenend-Tipps",
+    "date": {},
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/",
+    "onMonth": 0
+  },
+  {
     "name": "Ab nach draußen!",
     "date": {},
     "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
@@ -253,13 +260,6 @@
     "date": {},
     "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
     "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/",
     "onMonth": 0
   },
   {
@@ -737,18 +737,6 @@
     "onMonth": 2
   },
   {
-    "name": "Final Girls Berlin",
-    "date": {
-      "start": "2025-03-05T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "05. bis 09. März 2025"
-    },
-    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
-    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
-    "onMonth": 2
-  },
-  {
     "name": "Griechisches Filmfestival",
     "date": {
       "start": "2025-03-26T05:00:00.000Z",
@@ -761,15 +749,15 @@
     "onMonth": 2
   },
   {
-    "name": "Stummfilmfestival",
+    "name": "Final Girls Berlin",
     "date": {
-      "start": "2025-01-17T05:00:00.000Z",
-      "end": "2025-03-22T05:00:00.000Z",
+      "start": "2025-03-05T05:00:00.000Z",
+      "end": "2025-03-09T05:00:00.000Z",
       "locale": "de",
-      "originalString": "17. Januar bis 22. März 2025"
+      "originalString": "05. bis 09. März 2025"
     },
-    "description": "Beim alljährigen Stummfilmfestival kommen große Klassiker auf die Leinwand und werden von einem Live-Orchester vertont.",
-    "href": "https://www.berlin.de/kino/filmfestivals/7374398-2020379-stummfilmfestival.html",
+    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
+    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
     "onMonth": 2
   },
   {
@@ -933,7 +921,10 @@
   {
     "name": "Kirschblütenfest in den Gärten der Welt",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "05. und 06. April 2025"
     },
     "description": "Mit unzähligen zartrosa Kirschblüten heißen die Gärten der Welt in Marzahn den lang ersehnten Frühling willkommen.",
     "href": "https://www.berlin.de/events/4375689-2229501-kirschbluetenfest-in-den-gaerten-der-wel.html",
@@ -1041,9 +1032,12 @@
   {
     "name": "Beachfood Festival",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-04-13T05:00:00.000Z",
+      "end": "2025-04-13T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "12. und 13. April 2025"
     },
-    "description": "Beim 4. Beachfood Festival im Strandbad Wendenschloss heißt es wieder Schlemmen am Strand.",
+    "description": "Beim Beachfood Festival im Strandbad Wendenschloss heißt es wieder Schlemmen am Strand.",
     "href": "https://www.berlin.de/restaurants/food-events/8376378-5146458-beachfood-festival.html",
     "onMonth": 3
   },
@@ -1701,17 +1695,17 @@
     "onMonth": 5
   },
   {
-    "name": "Vaginal Davis: Fabelhaftes Produkt",
-    "date": {},
-    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
-    "onMonth": 5
-  },
-  {
     "name": "Vamos a la playa",
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
     "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
+    "onMonth": 5
+  },
+  {
+    "name": "Vaginal Davis: Fabelhaftes Produkt",
+    "date": {},
+    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
     "onMonth": 5
   },
   {
@@ -1867,7 +1861,10 @@
   {
     "name": "Poesiefestival Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-05-15T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "15. Mai bis 15. Juni 2025"
     },
     "description": "Mit über 150 Künstlerinnen und Künstlern ist das Poesiefestival Berlin das größte Lyrikfestival Deutschlands.",
     "href": "https://www.berlin.de/tickets/literatur/tipps/2410626-2916596-poesiefestival-berlin.html",
@@ -2595,6 +2592,13 @@
     },
     "description": "Das Festival des polnischen Films in Berlin zeigt die spannendsten polnischen Produktionen des vergangenen Jahres.",
     "href": "https://www.berlin.de/kino/filmfestivals/2463197-2020379-filmpolska.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Holy Smokes - Cannabis Convention",
+    "date": {},
+    "description": "",
+    "href": "https://www.berlin.deundefined",
     "onMonth": 8
   },
   {

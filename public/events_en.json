@@ -2,10 +2,7 @@
   {
     "name": "Days of Dance Berlin",
     "date": {
-      "start": "2025-01-09T05:00:00.000Z",
-      "end": "2025-01-25T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 09 - 25, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Days of Dance (Tanztage) is a contemporary dance festival focusing on the discovery and support of up-and-coming choreographers and dancers based in Berlin.",
     "href": "https://www.berlin.de/en/events/2853968-2842498-days-of-dance-berlin.en.html",
@@ -14,10 +11,10 @@
   {
     "name": "International Green Week Berlin",
     "date": {
-      "start": "2025-01-17T05:00:00.000Z",
-      "end": "2025-01-26T05:00:00.000Z",
+      "start": "2026-01-16T05:00:00.000Z",
+      "end": "2026-01-25T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 17 - 26, 2025"
+      "originalString": "January 16 - 25, 2026"
     },
     "description": "The International Green Week in Berlin is considered the world's biggest public fair for the food, agricultural, and horticultural industries.",
     "href": "https://www.berlin.de/en/events/2101366-2842498-international-green-week-berlin.en.html",
@@ -38,12 +35,12 @@
   {
     "name": "Ultraschall Berlin: Festival for New Music",
     "date": {
-      "start": "2025-01-15T05:00:00.000Z",
-      "end": "2025-01-19T05:00:00.000Z",
+      "start": "2026-01-14T05:00:00.000Z",
+      "end": "2026-01-18T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 15 - 19, 2025"
+      "originalString": "January 14 - 18, 2026"
     },
-    "description": "The Ultraschall festival for new music will once again take place in various locations in Berlin in 2025.",
+    "description": "The Ultraschall festival for new music will once again take place in various locations in Berlin in 2026.",
     "href": "https://www.berlin.de/en/events/6416655-2842498-ultraschall-berlin-festival-for-new-musi.en.html",
     "onMonth": 0
   },
@@ -105,15 +102,12 @@
     "onMonth": 0
   },
   {
-    "name": "British Shorts",
+    "name": "Sci-Fi Marathon at Babylon Cinema",
     "date": {
-      "start": "2025-01-23T05:00:00.000Z",
-      "end": "2025-01-29T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 23 - 29, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "The British Shorts film festival celebrates the funniest, strangest and most exciting short films from Great Britain and Ireland.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2023462-7812887-british-shorts.en.html",
+    "description": "Science fiction galore on the big screen: Berlin's Babylon cinema invites all sci-fi enthusiasts to its movie marathon night.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7239508-7812887-scifi-marathon-at-babylon.en.html",
     "onMonth": 0
   },
   {
@@ -129,24 +123,21 @@
     "onMonth": 0
   },
   {
-    "name": "Sci-Fi Marathon at Babylon Cinema",
+    "name": "Unknown Pleasures",
     "date": {
       "originalString": "Date not yet known"
     },
-    "description": "Science fiction galore on the big screen: Berlin's Babylon cinema invites all sci-fi enthusiasts to its movie marathon night.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7239508-7812887-scifi-marathon-at-babylon.en.html",
+    "description": "In 2026, the Unknown Pleasures festival will present a diverse selection of the best and most exciting independent films for the 16th time.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2023640-7812887-unknown-pleasures.en.html",
     "onMonth": 0
   },
   {
-    "name": "Unknown Pleasures",
+    "name": "British Shorts",
     "date": {
-      "start": "2025-01-02T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 02 to 12, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "In 2025, the Unknown Pleasures festival will present a diverse selection of the best and most exciting independent films for the 15th time.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2023640-7812887-unknown-pleasures.en.html",
+    "description": "The British Shorts film festival celebrates the funniest, strangest and most exciting short films from Great Britain and Ireland.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2023462-7812887-british-shorts.en.html",
     "onMonth": 0
   },
   {
@@ -213,6 +204,20 @@
     "onMonth": 0
   },
   {
+    "name": "Berlin's Districts",
+    "date": {},
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
+    "onMonth": 0
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
+    "onMonth": 0
+  },
+  {
     "name": "Exhibitions in Berlin",
     "date": {},
     "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
@@ -224,13 +229,6 @@
     "date": {},
     "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
     "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 0
-  },
-  {
-    "name": "River Cruises",
-    "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
     "onMonth": 0
   },
   {
@@ -356,7 +354,7 @@
   {
     "name": "ISTAF Indoor Berlin 2025",
     "date": {},
-    "description": "Spectators at the ISTAF Indoor can once again look forward to the top athletes in the 60m sprint, hurdles, long jump, pole vault and discus throw. The whole event will be rounded off by an impressive show programme.prung und Diskuswurf freuen. Abgerundet...",
+    "description": "Spectators at the ISTAF Indoor can once again look forward to the top athletes in the 60m sprint, hurdles, long jump, pole vault and discus throw. The whole event will be rounded off by an impressive show program.",
     "href": "https://www.berlin.de/en/tickets/sport/istaf-indoor-berlin-2025-62c4ae8b-3f05-444b-8dfc-7dc6d21bf635/",
     "onMonth": 1
   },
@@ -436,20 +434,6 @@
     "date": {},
     "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
     "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/",
-    "onMonth": 1
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 1
   },
   {
@@ -615,6 +599,13 @@
     "onMonth": 2
   },
   {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 2
+  },
+  {
     "name": "European Arts and Crafts Days",
     "date": {
       "start": "2025-04-04T05:00:00.000Z",
@@ -650,7 +641,10 @@
   {
     "name": "Cherry Blossom Festival in the Gardens of the World",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-05T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 05 - 06, 2025"
     },
     "description": "Celebrate \"Hanami\" in Berlin: the Gardens of the World in Marzahn welcome the long-awaited spring with countless pale pink cherry blossoms and an exciting cultural program.",
     "href": "https://www.berlin.de/en/events/4375689-2842498-kirschbluetenfest-in-den-gaerten-der-wel.en.html",
@@ -799,7 +793,10 @@
   {
     "name": "Beachfood Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-12T05:00:00.000Z",
+      "end": "2025-04-13T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 12 and 13, 2025"
     },
     "description": "The Beachfood Festival at the Wendenschloss lido brings beach vibes and international delicacies to Berlin-Köpenick.",
     "href": "https://www.berlin.de/en/events/food-events/8376378-7974318-beachfood-festival.en.html",
@@ -2208,7 +2205,10 @@
   {
     "name": "Festival of Lights",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-10-08T05:00:00.000Z",
+      "end": "2025-10-15T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 08 - 15, 2025"
     },
     "description": "Once a year, Berlin’s world famous sights and monuments in the city centre become the canvas for spectacular light and video projections at the Festival of Lights.",
     "href": "https://www.berlin.de/en/events/2097286-2842498-festival-of-lights.en.html",
@@ -2235,7 +2235,7 @@
   {
     "name": "Day of Germany Unity in Berlin",
     "date": {},
-    "description": "On October 03, 2024, Berlin and Germany will celebrate 34 years of reunification. Discover the most important events, exhibitions, activities and other highlights for the Day of German Unity.",
+    "description": "On October 03, 2025, Berlin and Germany will celebrate 35 years of reunification. Discover the most important events, exhibitions, activities and other highlights for the Day of German Unity.",
     "href": "https://www.berlin.de/en/events/specials/october-3/",
     "onMonth": 9
   },
