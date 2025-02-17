@@ -102,15 +102,6 @@
     "onMonth": 0
   },
   {
-    "name": "Sci-Fi Marathon at Babylon Cinema",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "Science fiction galore on the big screen: Berlin's Babylon cinema invites all sci-fi enthusiasts to its movie marathon night.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7239508-7812887-scifi-marathon-at-babylon.en.html",
-    "onMonth": 0
-  },
-  {
     "name": "Berlin Short Film Festival",
     "date": {
       "start": "2025-01-30T05:00:00.000Z",
@@ -141,6 +132,18 @@
     "onMonth": 0
   },
   {
+    "name": "Indian Film Festival 2025",
+    "date": {
+      "start": "2025-01-10T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 10 - 12, 2025"
+    },
+    "description": "The Indian Film Festival presents the diversity and creativity of Indian cinema in a series of impressive screenings.",
+    "href": "https://www.berlin.de/en/events/film-festivals/9377623-7812887-indian-film-festival.en.html",
+    "onMonth": 0
+  },
+  {
     "name": "JuBi Berlin",
     "date": {
       "start": "2025-03-15T05:00:00.000Z",
@@ -155,7 +158,10 @@
   {
     "name": "European Camera Trade Show Berlin",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-26T05:00:00.000Z",
+      "end": "2025-04-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 26, 2025"
     },
     "description": "At this international camera trade show, dealers and collectors offer cameras and other photography products for sale or exchange.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/technology/3246105-7968909-europaeische-kameraboerse-berlin.en.html",
@@ -204,20 +210,6 @@
     "onMonth": 0
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/",
-    "onMonth": 0
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
-    "onMonth": 0
-  },
-  {
     "name": "Exhibitions in Berlin",
     "date": {},
     "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
@@ -229,6 +221,13 @@
     "date": {},
     "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
     "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 0
+  },
+  {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
     "onMonth": 0
   },
   {
@@ -287,17 +286,17 @@
       "locale": "en",
       "originalString": "February 20 - 25, 2025"
     },
-    "description": "Tanzolymp is an annual Berlin-based dance event for young talents from around the world with workshops, seminars and competitions.",
+    "description": "Berlin as an international meeting place for cultures - this is the basic idea behind the international dance festival Tanzolymp.",
     "href": "https://www.berlin.de/en/events/2268249-2842498-tanzolymp-international-dance-festival.en.html",
     "onMonth": 1
   },
   {
     "name": "Japanmarkt Berlin",
     "date": {
-      "start": "2025-02-09T05:00:00.000Z",
-      "end": "2025-02-09T05:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "en",
-      "originalString": "February 09, 2025"
+      "originalString": "May 11, 2025"
     },
     "description": "The Japanmarkt at Festsaal Kreuzberg is all about Japanese design, culture, art, music and food.",
     "href": "https://www.berlin.de/en/shopping/markets/design-markets/5675278-7981482-japanmarkt-berlin.en.html",
@@ -352,20 +351,6 @@
     "onMonth": 1
   },
   {
-    "name": "ISTAF Indoor Berlin 2025",
-    "date": {},
-    "description": "Spectators at the ISTAF Indoor can once again look forward to the top athletes in the 60m sprint, hurdles, long jump, pole vault and discus throw. The whole event will be rounded off by an impressive show program.",
-    "href": "https://www.berlin.de/en/tickets/sport/istaf-indoor-berlin-2025-62c4ae8b-3f05-444b-8dfc-7dc6d21bf635/",
-    "onMonth": 1
-  },
-  {
-    "name": "Snooker - German Masters 2025",
-    "date": {},
-    "description": "The German Masters is the highlight of the snooker scene in Germany. It will take place again in Berlin's Tempodrom in 2025.",
-    "href": "https://www.berlin.de/en/tickets/sport/snooker-german-masters-2025-f0affb2e-3d24-42f5-89a7-7e82408fd81e/",
-    "onMonth": 1
-  },
-  {
     "name": "Füchse Berlin",
     "date": {},
     "description": "In February, the Füchse Berlin will play against 1. VfL Potsdam, Federicia Handboldklub, SG Flensburg-Handewitt and HC Eurofarm Pelister.",
@@ -396,10 +381,7 @@
   {
     "name": "Weinmesse Berlin Wine Fair",
     "date": {
-      "start": null,
-      "end": null,
-      "locale": "en",
-      "originalString": "Febuary 7-9, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Around 270 exhibitors from all over the world are presenting wines, wine literature and delicatessen at the Messe Berlin.",
     "href": "https://www.berlin.de/en/trade-fairs/1612671-7918797-weinmesseberlin.en.html",
@@ -408,10 +390,10 @@
   {
     "name": "Terraristikbörse Berlin",
     "date": {
-      "start": null,
-      "end": null,
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
-      "originalString": "Febuary 2, 2025"
+      "originalString": "April 6, 2025"
     },
     "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
     "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
@@ -420,10 +402,7 @@
   {
     "name": "Liebe ist",
     "date": {
-      "start": null,
-      "end": null,
-      "locale": "en",
-      "originalString": "Febuary 8 and 9, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "At this fair, couples will find ideas and service providers on the subject of weddings as well as the latest wedding trends.",
     "href": "https://www.berlin.de/en/trade-fairs/7300886-7918797-liebe-ist.en.html",
@@ -434,6 +413,13 @@
     "date": {},
     "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
     "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 1
   },
   {
@@ -458,6 +444,18 @@
     },
     "description": "Every other year, more than 100 museums and galleries in Berlin present photographic art at the largest photo festival in Germany, the European Month of Photography.",
     "href": "https://www.berlin.de/en/events/2745416-2842498-european-month-of-photography.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Ostpro Berlin",
+    "date": {
+      "start": "2025-03-28T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 28-30, 2025"
+    },
+    "description": "More than 100 companies from the new federal states present their products and services at the sales fair for eastern products.",
+    "href": "https://www.berlin.de/en/trade-fairs/1618464-7918797-ostpro-berlin.en.html",
     "onMonth": 2
   },
   {
@@ -506,6 +504,15 @@
     "onMonth": 2
   },
   {
+    "name": "Bélaplume Design Market",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At this art design market, you will find handmade originals by Berlin artists and creators to look at and take home.",
+    "href": "https://www.berlin.de/en/shopping/markets/design-markets/7355036-7981482-belaplume-design-market.en.html",
+    "onMonth": 2
+  },
+  {
     "name": "Spring Festival at Kurt-Schumacher-Damm",
     "date": {
       "start": "2025-03-29T05:00:00.000Z",
@@ -518,15 +525,15 @@
     "onMonth": 2
   },
   {
-    "name": "Tree Blossom Festival: Britzer Baumblüte",
+    "name": "Final Girls Berlin",
     "date": {
-      "start": "2025-04-04T05:00:00.000Z",
-      "end": "2025-04-27T05:00:00.000Z",
+      "start": "2025-03-05T05:00:00.000Z",
+      "end": "2025-03-09T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 04 - 27, 2025"
+      "originalString": "March 05 - 09, 2025"
     },
-    "description": "The traditional tree blossom festival in Britz celebrates the beginning of spring under blossoming trees.",
-    "href": "https://www.berlin.de/en/events/2991117-2842498-britzer-baumbluete.en.html",
+    "description": "Where, if not in Berlin, does a feminist, queer and non-binary horror film festival belong? The Final Girls film festival promises dark and daring entertainment.",
+    "href": "https://www.berlin.de/en/events/film-festivals/8701302-7812887-final-girls-berlin.en.html",
     "onMonth": 2
   },
   {
@@ -535,10 +542,17 @@
       "start": "2025-03-26T05:00:00.000Z",
       "end": "2025-03-30T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 26-30, 2025"
+      "originalString": "March 26 - 30, 2025"
     },
     "description": "The Greek Film Festival wants to bring often still unknown Greek filmmakers into the focus of the German audience.",
     "href": "https://www.berlin.de/en/events/film-festivals/4222694-7812887-greek-film-festival.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "From Odesa to Berlin",
+    "date": {},
+    "description": "The Gemäldegalerie is showcasing 60 paintings from the Museum of Western and Eastern Art in Odesa, the famous port city in the south of Ukraine that has in recent years been ravaged by war.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/from-odesa-to-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
     "onMonth": 2
   },
   {
@@ -549,10 +563,17 @@
     "onMonth": 2
   },
   {
-    "name": "Wives and Goddesses: Female Figures in Classical Mythology",
+    "name": "Spring in Berlin",
     "date": {},
-    "description": "Classical mythology is a topic that continues to fascinate artists and audiences to this day: more recently, numerous books have been published in which women are given their own voices as mythical protagonists.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/wives-and-goddesses-female-figures-in-classical-mythology-40475477-b5f6-49ff-912f-ea70803ac86a/",
+    "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
+    "href": "https://www.berlin.de/en/events/spring/",
+    "onMonth": 2
+  },
+  {
+    "name": "Women's Day in Berlin",
+    "date": {},
+    "description": "International Women's Day on March 8 is a public holiday in Berlin. Tips for an entertaining and eventful Women's Day in the capital.",
+    "href": "https://www.berlin.de/en/events/specials/womens-day/",
     "onMonth": 2
   },
   {
@@ -592,17 +613,10 @@
     "onMonth": 2
   },
   {
-    "name": "Spring in Berlin",
+    "name": "Berlin's Districts",
     "date": {},
-    "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
-    "href": "https://www.berlin.de/en/events/spring/",
-    "onMonth": 2
-  },
-  {
-    "name": "River Cruises",
-    "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
     "onMonth": 2
   },
   {
@@ -636,6 +650,18 @@
     },
     "description": "At the Berlin perennial plant market in spring, visitors can stock up on plants.",
     "href": "https://www.berlin.de/en/events/4336892-2842498-staudenmarkt-berlin-perennial-market.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Tree Blossom Festival: Britzer Baumblüte",
+    "date": {
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 04 - 27, 2025"
+    },
+    "description": "The traditional tree blossom festival in Britz celebrates the beginning of spring under blossoming trees.",
+    "href": "https://www.berlin.de/en/events/2991117-2842498-britzer-baumbluete.en.html",
     "onMonth": 3
   },
   {
@@ -1783,10 +1809,10 @@
   {
     "name": "Pistachio Street Food Festival",
     "date": {
-      "start": "2025-08-16T05:00:00.000Z",
-      "end": "2025-08-17T05:00:00.000Z",
+      "start": "2025-08-23T05:00:00.000Z",
+      "end": "2025-08-24T05:00:00.000Z",
       "locale": "en",
-      "originalString": "August 16 and 17, 2025"
+      "originalString": "August 23 and 24, 2025"
     },
     "description": "The Pistachio Street Food Festival is dedicated to the green kernels, which can be found in both sweet and sour dishes from all over the world.",
     "href": "https://www.berlin.de/en/events/food-events/7679451-7974318-pistachio-street-food-festival.en.html",
@@ -2292,13 +2318,6 @@
     },
     "description": "With Paulaner beer and a band playing traditional folk music, the Oktoberfest celebration \"Hauptstadtwiesn\" brings Bavarian atmosphere to Berlin.",
     "href": "https://www.berlin.de/en/events/oktoberfest/4544203-5907795-hauptstadtswiesn-oktoberfest-spinner-bru.en.html",
-    "onMonth": 9
-  },
-  {
-    "name": "Hip Hop: Conscious, Unconscious",
-    "date": {},
-    "description": "The retrospective at Fotografiska shows where the heart of hip-hop beats and traces over 50 years of its history, from its roots in the Bronx in the 1970s to its evolution as a global billion-dollar industry.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/hip-hop-conscious-unconscious-46f1b954-bb8d-4bb6-be39-a3246912db27/",
     "onMonth": 9
   },
   {

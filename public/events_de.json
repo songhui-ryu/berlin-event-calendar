@@ -2,10 +2,7 @@
   {
     "name": "Tanztage Berlin",
     "date": {
-      "start": "2025-01-09T05:00:00.000Z",
-      "end": "2025-01-25T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "09. bis 25. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Zwischen politischer Analyse, dem Stellenwert des Tanzes in der Gesellschaft und einer neuen Betrachtung des Genres Musical: Die Tanztage präsentieren zeitgenössischen Tanz in den Sophiensaelen.",
     "href": "https://www.berlin.de/events/2853968-2229501-tanztage-berlin.html",
@@ -128,25 +125,19 @@
   {
     "name": "British Shorts",
     "date": {
-      "start": "2025-01-23T05:00:00.000Z",
-      "end": "2025-01-29T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. bis 29. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Im Fokus des Festivals steht der unabhängige britische Film. Gezeigt werden unter anderem Comedy, Animation, Horror und Science Fiction.",
     "href": "https://www.berlin.de/kino/filmfestivals/2023462-2020379-british-shorts.html",
     "onMonth": 0
   },
   {
-    "name": "Indian Film Festival",
+    "name": "Finlandia – Aki Kaurismäki and Friends",
     "date": {
-      "start": "2025-01-10T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "10. bis 12. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
-    "description": "Das Indian Film Festival präsentiert die Vielfalt und Kreativität des indischen Kinos in einer Reihe beeindruckender Vorführungen.",
-    "href": "https://www.berlin.de/kino/filmfestivals/9377623-2020379-indian-film-festival-2025.html",
+    "description": "Das Babylon am Rosa-Luxemburg-Platz feiert finnisches Kino mit Klassikern, Dokumentarfilmen und neuen Filmhighlights - dazu gibt es Livemusik und ein Sauna-Special.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9395977-2020379-finlandia.html",
     "onMonth": 0
   },
   {
@@ -191,7 +182,10 @@
   {
     "name": "Europäische Kamerabörse Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-04-26T05:00:00.000Z",
+      "end": "2025-04-26T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "26. April 2025"
     },
     "description": "Auf der Europäischen Kamerabörse Berlin bieten Händler und Sammler Kameras und andere Produkte aus dem Bereich Fotografie zum Kauf oder Tausch an.",
     "href": "https://www.berlin.de/messen/3246105-7918641-europaeische-kameraboerse-berlin.html",
@@ -228,13 +222,6 @@
     "onMonth": 0
   },
   {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/",
-    "onMonth": 0
-  },
-  {
     "name": "Ab nach draußen!",
     "date": {},
     "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
@@ -260,6 +247,13 @@
     "date": {},
     "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
     "href": "https://www.berlin.de/restaurants/food-events/",
+    "onMonth": 0
+  },
+  {
+    "name": "Wochenend-Tipps",
+    "date": {},
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/",
     "onMonth": 0
   },
   {
@@ -306,7 +300,7 @@
       "locale": "de",
       "originalString": "12. bis 16. Februar 2025"
     },
-    "description": "Auch in diesem Jahr präsentiert das Independent Filmfestival im Kino Babylon Filmpremieren des unabhängigen Kinos.",
+    "description": "Auch in diesem Jahr präsentiert das Independent Filmfestival im Moviemento Filmpremieren des unabhängigen Kinos.",
     "href": "https://www.berlin.de/kino/filmfestivals/3319931-2020379-berlin-independent-film-festival.html",
     "onMonth": 1
   },
@@ -330,17 +324,17 @@
       "locale": "de",
       "originalString": "20. bis 25. Februar 2025"
     },
-    "description": "Berlin als internationale Begegnungsstädte der Kulturen - dies ist der Grundgedanke für das internationale Tanzfestival Tanzolymp.",
+    "description": "Berlin als internationale Begegnungsstätte der Kulturen - dies ist der Grundgedanke für das internationale Tanzfestival Tanzolymp.",
     "href": "https://www.berlin.de/events/2268249-2229501-tanzolymp-internationales-jugendtanzfest.html",
     "onMonth": 1
   },
   {
     "name": "Japanmarkt Berlin",
     "date": {
-      "start": "2025-02-09T05:00:00.000Z",
-      "end": "2025-02-09T05:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
-      "originalString": "09. Februar 2025"
+      "originalString": "11. Mai 2025"
     },
     "description": "Der japanische Kultur- und Designmarkt findet im Festsaal Kreuzberg statt. Es gibt Kunst, Schönes und landestypische Köstlichkeiten. Auch Workshops stehen auf dem Programm.",
     "href": "https://www.berlin.de/special/shopping/designmaerkte/5675278-1741634-japanmarkt-berlin.html",
@@ -402,20 +396,6 @@
     "onMonth": 1
   },
   {
-    "name": "ISTAF Indoor Berlin 2025",
-    "date": {},
-    "description": "Die Zuschauerinnen und Zuschauer können sich beim ISTAF Indoor wieder auf die Top-Athletinnen und Athleten der Disziplinen 60m Sprint, Hürden, Weitsprung, Stabhochsprung und Diskuswurf freuen. Abgerundet wird das ganze durch ein beeindruckendes Showprogram.",
-    "href": "https://www.berlin.de/tickets/sport/istaf-indoor-berlin-2025-62c4ae8b-3f05-444b-8dfc-7dc6d21bf635/",
-    "onMonth": 1
-  },
-  {
-    "name": "Snooker - German Masters 2025",
-    "date": {},
-    "description": "Das German Masters ist das Highlight der Snookerszene in Deutschland. Es findet 2025 wieder im Berliner Tempodrom statt.",
-    "href": "https://www.berlin.de/tickets/sport/snooker-german-masters-2025-f0affb2e-3d24-42f5-89a7-7e82408fd81e/",
-    "onMonth": 1
-  },
-  {
     "name": "Füchse Berlin",
     "date": {},
     "description": "Im Februar spielen die Berliner Füchse gegen den 1. VfL Potsdam, Federicia Handboldklub, SG Flensburg-Handewitt und HC Eurofarm Pelister.",
@@ -460,10 +440,7 @@
   {
     "name": "Weinmesse Berlin",
     "date": {
-      "start": "2025-02-07T05:00:00.000Z",
-      "end": "2025-02-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "07. bis 09. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Besuchermesse präsentieren Aussteller aus aller Welt auf dem Messegelände Berlin Weine, Weinliteratur und Feinkost.",
     "href": "https://www.berlin.de/messen/1612671-7918641-weinmesseberlin.html",
@@ -484,10 +461,7 @@
   {
     "name": "Liebe ist",
     "date": {
-      "start": "2025-02-09T05:00:00.000Z",
-      "end": "2025-02-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "08. und 09. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Hochzeitsmesse \"Liebe ist\" finden Paare Ideen und Dienstleister rund um das Thema Hochzeit.",
     "href": "https://www.berlin.de/messen/7300886-7918641-liebe-ist-.html",
@@ -592,18 +566,12 @@
     "onMonth": 2
   },
   {
-    "name": "Tag der Archive",
-    "date": {
-      "originalString": "Termin noch nicht bekannt"
-    },
-    "description": "Unter dem Motto «Fakten, Geschichten, Kurioses» laden die Archive in Berlin zum Tag der offenen Tür.",
-    "href": "https://www.berlin.de/events/4321131-2229501-tag-der-archive.html",
-    "onMonth": 2
-  },
-  {
     "name": "Charlottenwalk",
     "date": {
-      "originalString": "Termin nicht bekannt"
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "14. und 15. März 2025"
     },
     "description": "Der Charlottenwalk wieder dazu ein, Galerien in Charlottenburg und Wilmersdorf zu entdecken.",
     "href": "https://www.berlin.de/events/5803848-2229501-charlottenwalk-galerienrundgang-in-charl.html",
@@ -646,15 +614,6 @@
     "onMonth": 2
   },
   {
-    "name": "Bélaplume Design Market",
-    "date": {
-      "originalString": "Termin noch nicht bekannt"
-    },
-    "description": "Auf dem Kunst-Designmarkt Bélaplume gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
-    "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-belaplume-design-market.html",
-    "onMonth": 2
-  },
-  {
     "name": "Frühlingsfest am Kurt-Schumacher-Damm",
     "date": {
       "start": "2025-03-29T05:00:00.000Z",
@@ -693,17 +652,22 @@
     "onMonth": 2
   },
   {
+    "name": "39. Frohnaulauf",
+    "date": {
+      "start": "2025-03-30T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "30. März 2025"
+    },
+    "description": "Mit Distanzen von fünf und zehn Kilometern, sowie kurzen Strecken für Kinder, ist der Frohnaulauf für die ganze Familie geeignet.",
+    "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/9443011-36032-39-frohnaulauf.html",
+    "onMonth": 2
+  },
+  {
     "name": "Kreuzberg Tour: Kriminell und kuschelig",
     "date": {},
     "description": "Auf dieser Stadtführung der besonderen Art werfen Interessierte einen Blick hinter die Fassaden von Kreuzberg, dem internationalen Hotspot für den Berliner Lifestyle.",
     "href": "https://www.berlin.de/tickets/freizeit/kreuzberg-tour-kriminell-und-kuschelig-8be646f9-d248-4a32-a22f-448adb6bd684/",
-    "onMonth": 2
-  },
-  {
-    "name": "Sagen-Tour durch das alte Berlin",
-    "date": {},
-    "description": "Bei dem zweistündigen Erzähl-Stadtspaziergang durch das Nikolaiviertel und angrenzende Gebiete im Herzen des alten Berlins können Teilnehmerinnen und Teilnehmer sechs Märchen und Sagen lauschen.",
-    "href": "https://www.berlin.de/tickets/freizeit/sagen-tour-durch-das-alte-berlin-c9483e55-92b8-4ccf-864d-8733584a4479/",
     "onMonth": 2
   },
   {
@@ -713,6 +677,13 @@
     },
     "description": "Viel Berlin in kurzer Zeit: Die Stadtrundfahrt per Schiff zeigt Ihnen die Sehenswürdigkeiten im historischen Herzen der Hauptstadt.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3403158-5433923-schiffstour-historische-stadtrundfahrt.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Von Odesa nach Berlin",
+    "date": {},
+    "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
     "onMonth": 2
   },
   {
@@ -730,10 +701,15 @@
     "onMonth": 2
   },
   {
-    "name": "Göttinnen und Gattinnen: Frauen im antiken Mythos",
-    "date": {},
-    "description": "Monströs wie Medusa, schön wie Aphrodite, treu wie Penelope – viele Frauen der antiken Mythologie sind vor allem durch Stereotype weiblicher Rollenbilder bekannt. Inspiriert von einem Boom aktueller Lesarten der Mythen wirft die Antikensammlung einen...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/goettinnen-und-gattinnen-frauen-im-antiken-mythos-40475477-b5f6-49ff-912f-ea70803ac86a/",
+    "name": "Final Girls Berlin",
+    "date": {
+      "start": "2025-03-05T05:00:00.000Z",
+      "end": "2025-03-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "05. bis 09. März 2025"
+    },
+    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
+    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
     "onMonth": 2
   },
   {
@@ -746,18 +722,6 @@
     },
     "description": "Das Griechische Filmfestival möchte das vielfach noch unbekannte griechische Filmschaffen in den Fokus des deutschen Publikums rücken.",
     "href": "https://www.berlin.de/kino/filmfestivals/4222694-2020379-griechisches-filmfestival.html",
-    "onMonth": 2
-  },
-  {
-    "name": "Final Girls Berlin",
-    "date": {
-      "start": "2025-03-05T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "05. bis 09. März 2025"
-    },
-    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
-    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
     "onMonth": 2
   },
   {
@@ -775,10 +739,7 @@
   {
     "name": "Veggienale & FairGoods",
     "date": {
-      "start": "2025-03-09T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "08. und 09. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Veggienale & FairGoods werden Produkte und Ideen für einen pflanzlichen und nachhaltigen Lebensstil präsentiert.",
     "href": "https://www.berlin.de/messen/5964817-7918641-veggienale-fairgoods.html",
@@ -1113,7 +1074,7 @@
   {
     "name": "Hollefest und Hexennacht auf der Burg Beeskow",
     "date": {
-      "originalString": "Nächster Termin noch nicht bekannt"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die alte Wetter- und Erdfrau Holle lädt auf der Burg Beeskow zum ausgelassenen Frühlingsfest.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/8051444-3479097-hollefest-und-hexennacht-auf-der-burg-be.html",
@@ -1383,6 +1344,13 @@
     "onMonth": 4
   },
   {
+    "name": "Göttinnen und Gattinnen: Frauen im antiken Mythos",
+    "date": {},
+    "description": "Monströs wie Medusa, schön wie Aphrodite, treu wie Penelope – viele Frauen der antiken Mythologie sind vor allem durch Stereotype weiblicher Rollenbilder bekannt. Inspiriert von einem Boom aktueller Lesarten der Mythen wirft die Antikensammlung einen...",
+    "href": "https://www.berlin.de/tickets/ausstellungen/goettinnen-und-gattinnen-frauen-im-antiken-mythos-40475477-b5f6-49ff-912f-ea70803ac86a/",
+    "onMonth": 4
+  },
+  {
     "name": "Paper Positions",
     "date": {
       "start": "2025-05-01T05:00:00.000Z",
@@ -1442,7 +1410,10 @@
   {
     "name": "Ritterfest im Schlosspark Oranienburg",
     "date": {
-      "originalString": "Nächster Termin noch nicht bekannt"
+      "start": "2025-06-07T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "07. bis 09. Juni 2025"
     },
     "description": "Jedes Jahr im Mai findet der Drachenbootcup Königs Wusterhausen statt.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/7512048-3479097-ritterfest-im-schlosspark-oranienburg.html",
@@ -1699,13 +1670,6 @@
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
     "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
-    "onMonth": 5
-  },
-  {
-    "name": "Vaginal Davis: Fabelhaftes Produkt",
-    "date": {},
-    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
     "onMonth": 5
   },
   {
@@ -2228,10 +2192,10 @@
   {
     "name": "Pistachio Street Food Festival",
     "date": {
-      "start": "2025-08-17T05:00:00.000Z",
-      "end": "2025-08-17T05:00:00.000Z",
+      "start": "2025-08-24T05:00:00.000Z",
+      "end": "2025-08-24T05:00:00.000Z",
       "locale": "de",
-      "originalString": "16. und 17. August 2025"
+      "originalString": "23. und 24. August 2025"
     },
     "description": "Das Pistachio Street Food Festival ist der besonderen Frucht Pistazie gewidmet, die sich sowohl in süßen und als auch in sauren Speisen aus aller Welt wiederfindet.",
     "href": "https://www.berlin.de/restaurants/food-events/7679451-5146458-pistachio-street-food-festival.html",
@@ -2710,7 +2674,10 @@
   {
     "name": "Internationales Drachenfest in Potsdam",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-13T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. September 2025"
     },
     "description": "Zum Internationalen Drachenfest im Volkspark Potsdam zeigen Drachenkünstler ihr Können. Wer will, kann aber auch selbst Hand anlegen.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5000248-3479097-drachenfest-in-potsdam.html",
@@ -2916,13 +2883,6 @@
     "onMonth": 9
   },
   {
-    "name": "Hip Hop: Conscious, Unconscious",
-    "date": {},
-    "description": "Die Retroperspektive im Fotografiska zeigt, wo das Herz des Hip-Hops schlägt und verfolgt über 50 Jahre seiner Geschichte zurück, von den Wurzeln in der Bronx in den 1970ern bis zu seiner Evolution als globale Milliarden-Dollar-Industrie.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/hip-hop-conscious-unconscious-46f1b954-bb8d-4bb6-be39-a3246912db27/",
-    "onMonth": 9
-  },
-  {
     "name": "Fotogaga: Max Ernst und die Fotografie",
     "date": {},
     "description": "Max Ernst hat immer wieder mit künstlerischen Konventionen gebrochen und mit neuen Techniken experimentiert. Ein Fotograf war er jedoch nicht. Die Sonderausstellung begibt sich erstmals auf die Suche nach Berührungspunkten zwischen seinem Werk und der...",
@@ -3030,7 +2990,10 @@
   {
     "name": "Zeughausmesse",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-11-13T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. bis 16. November 2025"
     },
     "description": "Künstler:innen und Designer:innen präsentieren und verkaufen bei der Zeughausmesse Arbeiten aus ihren Werkstätten und Ateliers.",
     "href": "https://www.berlin.de/events/2828417-2229501-zeughausmesse-im-deutschen-historischen-.html",
@@ -3048,10 +3011,7 @@
   {
     "name": "Christmas Garden Berlin",
     "date": {
-      "start": "2024-11-20T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "20. November 2024 bis 12. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Der Botanische Garten in Berlin wird bei «Christmas Garden»in eine leuchtende Märchenlandschaft mit allerlei Lichtspielen, Traumwäldern und 3D-Leuchtfiguren verwandelt.",
     "href": "https://www.berlin.de/events/4602948-2229501-christmas-garden-berlin.html",
@@ -3078,10 +3038,7 @@
   {
     "name": "Weihnachten im Tierpark",
     "date": {
-      "start": "2024-11-22T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "22. November 2024 bis 12. Januar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Der größte Tierpark Europas wird mit «Weihnachten im Tierpark» auch in diesem Jahr in weihnachtliches Licht getaucht. Im Mittelpunkt des leuchtend-weihnachtlichen Rundgangs steht das historische Schloss Friedrichsfelde.",
     "href": "https://www.berlin.de/events/5909511-2229501-weihnachten-im-tierpark.html",
