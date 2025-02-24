@@ -170,10 +170,7 @@
   {
     "name": "Hippologica Berlin",
     "date": {
-      "start": "2025-01-24T05:00:00.000Z",
-      "end": "2025-01-26T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 24-26, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Hippologica Berlin is the largest equestrian event in Berlin with a sales fair, horse shows and educational programs.",
     "href": "https://www.berlin.de/en/trade-fairs/1618561-7918797-hippologica-berlin.en.html",
@@ -210,24 +207,31 @@
     "onMonth": 0
   },
   {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
-    "onMonth": 0
-  },
-  {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 0
-  },
-  {
     "name": "River Cruises",
     "date": {},
     "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin's Districts",
+    "date": {},
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
+    "onMonth": 0
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
+    "onMonth": 0
+  },
+  {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
     "onMonth": 0
   },
   {
@@ -413,13 +417,6 @@
     "date": {},
     "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
     "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 1
   },
   {
@@ -613,10 +610,10 @@
     "onMonth": 2
   },
   {
-    "name": "Berlin's Districts",
+    "name": "Flea Markets",
     "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/",
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
     "onMonth": 2
   },
   {

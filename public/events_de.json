@@ -141,15 +141,6 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Sammlungspräsentation",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.mehrzu: Joseph Beuys: Sammlungspräsentation",
-    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
     "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {
       "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
@@ -165,6 +156,15 @@
     },
     "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...mehrzu: Der zweite Blick: Spielarten der Liebe",
     "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
+    "onMonth": 0
+  },
+  {
+    "name": "Altes Ägypten",
+    "date": {
+      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
+    },
+    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.mehrzu: Altes Ägypten",
+    "href": "https://www.berlin.de/tickets/ausstellungen/altes-aegypten-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
     "onMonth": 0
   },
   {
@@ -222,6 +222,20 @@
     "onMonth": 0
   },
   {
+    "name": "Food-Events",
+    "date": {},
+    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
+    "href": "https://www.berlin.de/restaurants/food-events/",
+    "onMonth": 0
+  },
+  {
+    "name": "Wochenend-Tipps",
+    "date": {},
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/",
+    "onMonth": 0
+  },
+  {
     "name": "Ab nach draußen!",
     "date": {},
     "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
@@ -240,20 +254,6 @@
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
     "href": "https://www.berlin.de/events/volksfeste/",
-    "onMonth": 0
-  },
-  {
-    "name": "Food-Events",
-    "date": {},
-    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
-    "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/",
     "onMonth": 0
   },
   {
@@ -449,10 +449,7 @@
   {
     "name": "Berlin-Tag",
     "date": {
-      "start": "2025-02-15T05:00:00.000Z",
-      "end": "2025-02-15T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "15. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Der Berlin-Tag ist die größte Berufs- und Informationsmesse im Bildungsbereich in Deutschland.",
     "href": "https://www.berlin.de/messen/8070692-7918641-berlintag.html",
@@ -664,40 +661,45 @@
     "onMonth": 2
   },
   {
-    "name": "Kreuzberg Tour: Kriminell und kuschelig",
+    "name": "Stadtführung: DDR-Zeitzeuge erzählt vom Fluchtversuch",
     "date": {},
-    "description": "Auf dieser Stadtführung der besonderen Art werfen Interessierte einen Blick hinter die Fassaden von Kreuzberg, dem internationalen Hotspot für den Berliner Lifestyle.",
-    "href": "https://www.berlin.de/tickets/freizeit/kreuzberg-tour-kriminell-und-kuschelig-8be646f9-d248-4a32-a22f-448adb6bd684/",
+    "description": "Unterwegs mit einem Zeitzeugen: Das Stasi-Opfer Karl-Heinz Richter erzählt vom Alltag in der DDR und seinem Fluchtversuch und kehrt dabei an die Orte der Vergangenheit zurück.",
+    "href": "https://www.berlin.de/tourismus/stadtfuehrungen/x/6869488-5433807-stadtfuehrung-ein-ddrzeitzeuge-erzaehlt-.html",
     "onMonth": 2
   },
   {
     "name": "Schiffstour \"Historische Stadtrundfahrt\"",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Viel Berlin in kurzer Zeit: Die Stadtrundfahrt per Schiff zeigt Ihnen die Sehenswürdigkeiten im historischen Herzen der Hauptstadt.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3403158-5433923-schiffstour-historische-stadtrundfahrt.html",
     "onMonth": 2
   },
   {
-    "name": "Von Odesa nach Berlin",
+    "name": "Führung Hansaviertel: Design für das Leben?",
     "date": {},
-    "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "description": "Die Stadtführung durch das Hansaviertel rückt nicht nur die richtungsweisende Architektur des Quartiers im Westen Berlins in den Fokus, sondern auch die spannende Geschichte des Viertels.",
+    "href": "https://www.berlin.de/tourismus/stadtfuehrungen/x/8744815-5433807-fuehrung-hansaviertel-design-fuer-das-le.html",
     "onMonth": 2
   },
   {
-    "name": "Balloon Museum Berlin: Pop Air, Art is inflatable",
+    "name": "Helmut Newton: Polaroids",
     "date": {},
-    "description": "Der Besuch im Balloon Museum in der Arena Berlin ist wie eine Reise durch überdimensionale, emotionale und immersive Installationen mit unerwarteten Formen, bei denen die Interaktion mit den Besuchern im Mittelpunkt steht.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
+    "description": "Das Polaroid-Verfahren hat die Fotografie revolutioniert. Wer diese Kamera jemals benutzt hat, wird den Geruch der Entwicklungsemulsion und die Faszination für das Sofortbild nicht vergessen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/helmut-newton-polaroids-96402c0a-98b8-4287-a726-5c4141d192b6/",
     "onMonth": 2
   },
   {
-    "name": "Mark Bradford: Keep Walking",
+    "name": "Kosmos Blauer Reiter: Von Kandinsky bis Campendonk",
     "date": {},
-    "description": "Die Ausstellung in den Rieckhallen im Hamburger Bahnhof zeigt Malerei, Skulptur, Installation und Video zu gesellschaftlichen Themen wie Gewalt und städtisches Leben.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
+    "description": "Das Berliner Kupferstichkabinett besitzt eine herausragende Sammlung moderner Kunst wie etwa die Bestände an Werken von Edvard Munch, Käthe Kollwitz oder Ernst Ludwig Kirchner.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/kosmos-blauer-reiter-von-kandinsky-bis-campendonk-df3a6107-317b-4fb9-86a8-1d3434355834/",
+    "onMonth": 2
+  },
+  {
+    "name": "Käthe Kruse: Jetzt ist alles gut",
+    "date": {},
+    "description": "Die Künstlerin Käthe Kruse ist seit den frühen 1980er Jahren fester Bestandteil der West-Berliner Kunstszene.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/kaethe-kruse-jetzt-ist-alles-gut-9b623fae-52bf-4ded-b814-8656fdcc5355/",
     "onMonth": 2
   },
   {
@@ -737,12 +739,15 @@
     "onMonth": 2
   },
   {
-    "name": "Veggienale & FairGoods",
+    "name": "Jobmesse Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-03-22T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "21. und 22. März 2025"
     },
-    "description": "Auf der Veggienale & FairGoods werden Produkte und Ideen für einen pflanzlichen und nachhaltigen Lebensstil präsentiert.",
-    "href": "https://www.berlin.de/messen/5964817-7918641-veggienale-fairgoods.html",
+    "description": "Auf der Jobmesse im Berliner Olympiastadion können Schulabgänger, Berufseinsteiger und Jobsuchende sich über Ausbildungsmöglichkeiten, Karrierewege und aktuelle Stellenangebote informieren.",
+    "href": "https://www.berlin.de/messen/5499669-7918641-jobmesse-berlin.html",
     "onMonth": 2
   },
   {
@@ -991,6 +996,27 @@
     "onMonth": 3
   },
   {
+    "name": "Von Odesa nach Berlin",
+    "date": {},
+    "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "onMonth": 3
+  },
+  {
+    "name": "Balloon Museum Berlin: Pop Air, Art is inflatable",
+    "date": {},
+    "description": "Der Besuch im Balloon Museum in der Arena Berlin ist wie eine Reise durch überdimensionale, emotionale und immersive Installationen mit unerwarteten Formen, bei denen die Interaktion mit den Besuchern im Mittelpunkt steht.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
+    "onMonth": 3
+  },
+  {
+    "name": "Mark Bradford: Keep Walking",
+    "date": {},
+    "description": "Die Ausstellung in den Rieckhallen im Hamburger Bahnhof zeigt Malerei, Skulptur, Installation und Video zu gesellschaftlichen Themen wie Gewalt und städtisches Leben.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
+    "onMonth": 3
+  },
+  {
     "name": "Beachfood Festival",
     "date": {
       "start": "2025-04-13T05:00:00.000Z",
@@ -1072,12 +1098,15 @@
     "onMonth": 3
   },
   {
-    "name": "Hollefest und Hexennacht auf der Burg Beeskow",
+    "name": "Osterspektakel auf Burg Rabenstein",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-04-18T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "18. bis 21. April 2025"
     },
-    "description": "Die alte Wetter- und Erdfrau Holle lädt auf der Burg Beeskow zum ausgelassenen Frühlingsfest.",
-    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/8051444-3479097-hollefest-und-hexennacht-auf-der-burg-be.html",
+    "description": "Auf der Burg Rabenstein laden Rittersleute über die Ostertage zum großen Osterspektakel.",
+    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/8027993-3479097-osterspektakel-auf-burg-rabenstein.html",
     "onMonth": 3
   },
   {
@@ -1389,7 +1418,10 @@
   {
     "name": "Klaistower Spargelfest",
     "date": {
-      "originalString": "Nächster Termin noch nicht bekannt"
+      "start": "2025-05-04T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "04. Mai 2025"
     },
     "description": "Beim Klaistower Spargelfest dreht sich alles um das edle Stangengemüse. Außer Spargel in allen Variationen gibt es auch Musik, Betriebsführungen und ein Spargelwettschälen.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5751430-3479097-klaistower-spargelfest.html",
@@ -1666,10 +1698,17 @@
     "onMonth": 5
   },
   {
-    "name": "Vamos a la playa",
+    "name": "Joseph Beuys: Sammlungspräsentation",
     "date": {},
-    "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
+    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 5
+  },
+  {
+    "name": "Vaginal Davis: Fabelhaftes Produkt",
+    "date": {},
+    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
     "onMonth": 5
   },
   {
@@ -1700,13 +1739,6 @@
     },
     "description": "Die Rundfahrt im Südosten Berlins beginnt am Treptower Park und bietet entlang von Flüssen und Seen Ausblick auf die Landschaft der Müggelberge in Köpenick.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3846371-5433923-schiffstour-rund-um-die-mueggelberge.html",
-    "onMonth": 5
-  },
-  {
-    "name": "Führung Hansaviertel: Design für das Leben?",
-    "date": {},
-    "description": "Die Stadtführung durch das Hansaviertel rückt nicht nur die richtungsweisende Architektur des Quartiers im Westen Berlins in den Fokus, sondern auch die spannende Geschichte des Viertels.",
-    "href": "https://www.berlin.de/tourismus/stadtfuehrungen/x/8744815-5433807-fuehrung-hansaviertel-design-fuer-das-le.html",
     "onMonth": 5
   },
   {
@@ -2001,7 +2033,10 @@
   {
     "name": "Zug der Liebe",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-30T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "30. August 2025"
     },
     "description": "Zentrales Anliegen der Demonstration «Zug der Liebe» ist der Protest für mehr Mitgefühl, mehr Nächstenliebe und soziales Engagement.",
     "href": "https://www.berlin.de/events/3815296-2229501-zug-der-liebe.html",
@@ -2322,7 +2357,10 @@
   {
     "name": "Lollapalooza Festival",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-07-13T05:00:00.000Z",
+      "end": "2025-07-13T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "12. und 13. Juli 2025"
     },
     "description": "Das Musikspektakel Lollapalooza in Berlin geht 2025 in die achte Runde. Auch diesmal geht es wieder in den Berliner Olympiapark.",
     "href": "https://www.berlin.de/events/3672496-2229501-lollapalooza-festival.html",
