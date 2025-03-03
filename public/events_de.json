@@ -222,13 +222,6 @@
     "onMonth": 0
   },
   {
-    "name": "Food-Events",
-    "date": {},
-    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
-    "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
     "name": "Wochenend-Tipps",
     "date": {},
     "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
@@ -254,6 +247,13 @@
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
     "href": "https://www.berlin.de/events/volksfeste/",
+    "onMonth": 0
+  },
+  {
+    "name": "Food-Events",
+    "date": {},
+    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
+    "href": "https://www.berlin.de/restaurants/food-events/",
     "onMonth": 0
   },
   {
@@ -620,6 +620,18 @@
     },
     "description": "Über 50 Schausteller bauen auf dem Berliner Frühlingsfest am Kurt-Schumacher-Damm ihre Attraktionen für einen gelungenen Rummel-Spaß auf.",
     "href": "https://www.berlin.de/events/2858745-2229501-berliner-fruehlingsfest-am-kurt-schumach.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Bélaplume Design Market",
+    "date": {
+      "start": "2025-03-16T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "16. März 2025"
+    },
+    "description": "Auf dem Kunst-Designmarkt Bélaplume gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
+    "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-belaplume-design-market.html",
     "onMonth": 2
   },
   {
@@ -1350,7 +1362,10 @@
   {
     "name": "Run of Spirit",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-09T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "09. Juni 2025"
     },
     "description": "Der Run of Spirit des Evangelische Johannesstift Berlin ist ein gemeinsames Sportereignis für Menschen mit und ohne Handicap.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/3473966-36032-run-of-spirit.html",
@@ -1705,10 +1720,10 @@
     "onMonth": 5
   },
   {
-    "name": "Vaginal Davis: Fabelhaftes Produkt",
+    "name": "Vamos a la playa",
     "date": {},
-    "description": "Vaginal Davis \"Fabelhaftes Produkt\" vereint großformatige Installationen, Malereien, Video- und Filmarbeiten, Zines, Texte, Musik sowie Performance und bietet einen umfassenden Überblick über Davis’ vielschichtige Praxis und ihre künstlerischen Zusammenarbeiten.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vaginal-davis-fabelhaftes-produkt-7c579d99-6f6d-4000-8012-eb0886f812ea/",
+    "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
+    "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
     "onMonth": 5
   },
   {
@@ -1869,7 +1884,10 @@
   {
     "name": "Classic Open Air am Gendarmenmarkt",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-07-17T05:00:00.000Z",
+      "end": "2025-07-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "17. bis 21. Juli 2025"
     },
     "description": "An fünf Abenden im Sommer erklingen auf dem wohl schönsten Platz Berlins unter freiem Sternenhimmel populäre klassische und moderne Melodien.",
     "href": "https://www.berlin.de/events/2096841-2229501-classic-open-air-am-gendarmenmarkt.html",
@@ -2852,7 +2870,10 @@
   {
     "name": "Gauklerfest auf der Zitadelle",
     "date": {
-      "originalString": "Noch nicht bekannt"
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-05T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "03. bis 05. Oktober 2025"
     },
     "description": "2025 findet das Gauklerfest bereits zum sechsten Mal auf der Spandauer Zitadelle statt.",
     "href": "https://www.berlin.de/events/6301230-2229501-gauklerfest-auf-der-zitadelle.html",
@@ -3469,7 +3490,10 @@
   {
     "name": "Raw Wine Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-11-30T05:00:00.000Z",
+      "end": "2025-11-30T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "30. November 2025"
     },
     "description": "Auf der öffentlichen Weinmesse in der Markthalle Neun stellen Winzer aus aller Welt, die nach ökologischen Kriterien arbeiten, ihre Weine vor.",
     "href": "https://www.berlin.de/messen/3968362-7918641-raw-wine-berlin.html",

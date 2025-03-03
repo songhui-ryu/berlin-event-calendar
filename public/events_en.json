@@ -207,13 +207,6 @@
     "onMonth": 0
   },
   {
-    "name": "River Cruises",
-    "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
-    "onMonth": 0
-  },
-  {
     "name": "Berlin's Districts",
     "date": {},
     "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
@@ -232,6 +225,13 @@
     "date": {},
     "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
     "href": "https://www.berlin.de/en/exhibitions/",
+    "onMonth": 0
+  },
+  {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
     "onMonth": 0
   },
   {
@@ -420,6 +420,13 @@
     "onMonth": 1
   },
   {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 1
+  },
+  {
     "name": "MaerzMusik",
     "date": {
       "start": "2025-03-21T05:00:00.000Z",
@@ -503,7 +510,10 @@
   {
     "name": "Bélaplume Design Market",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-03-16T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 16, 2025"
     },
     "description": "At this art design market, you will find handmade originals by Berlin artists and creators to look at and take home.",
     "href": "https://www.berlin.de/en/shopping/markets/design-markets/7355036-7981482-belaplume-design-market.en.html",
@@ -610,13 +620,6 @@
     "onMonth": 2
   },
   {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 2
-  },
-  {
     "name": "European Arts and Crafts Days",
     "date": {
       "start": "2025-04-04T05:00:00.000Z",
@@ -629,21 +632,12 @@
     "onMonth": 3
   },
   {
-    "name": "Record Store Day",
-    "date": {
-      "start": "2025-04-19T05:00:00.000Z",
-      "end": "2025-04-19T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 19, 2025"
-    },
-    "description": "Record stores all over the world organize exclusive events and sell records that are only available on this day. Numerous record stores in Berlin also host Record Store Day.",
-    "href": "https://www.berlin.de/en/events/3410627-2842498-record-store-day.en.html",
-    "onMonth": 3
-  },
-  {
     "name": "Staudenmarkt: Berlin Perennial Market",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-05T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 05 and 06, 2025"
     },
     "description": "At the Berlin perennial plant market in spring, visitors can stock up on plants.",
     "href": "https://www.berlin.de/en/events/4336892-2842498-staudenmarkt-berlin-perennial-market.en.html",
@@ -680,6 +674,32 @@
     },
     "description": "At the spring festival at the Schöneweide railroad depot, children and adults can check out locomotives from the inside and take a ride on an old steam train.",
     "href": "https://www.berlin.de/en/events/3460147-2842498-summer-festival-schoeneweide-depot.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Medieval Fair: Easter Knight Spectaculum",
+    "date": {
+      "start": "2025-04-19T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 19 - 21, 2025"
+    },
+    "description": "A historical market, knights tournaments and a fire show on horseback await visitors at the Spandau Citadel.",
+    "href": "https://www.berlin.de/en/events/3792023-2842498-easter-knights-spectaculum.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Easter",
+    "date": {},
+    "description": "From carnivals and Easter markets to bonfires and Easter egg hunts: Here are the best events on Easter 2025 in Berlin.",
+    "href": "https://www.berlin.de/en/events/easter/",
+    "onMonth": 3
+  },
+  {
+    "name": "Cherry Blossoms in Berlin",
+    "date": {},
+    "description": "Every spring a sea of pink cherry blossoms blooms in Berlin for a few days. Discover the places where you can admire the cherry blossoms and feel as if you were in Japan.",
+    "href": "https://www.berlin.de/en/tourism/insider-tips/5263242-5766508-cherry-blossoms-in-berlin.en.html",
     "onMonth": 3
   },
   {
@@ -743,53 +763,27 @@
     "onMonth": 3
   },
   {
-    "name": "Caspar David Friedrich: Infinite Landscapes",
+    "name": "Berlin Comic Book Fair",
     "date": {
-      "start": "2024-04-19T05:00:00.000Z",
-      "end": "2024-08-04T05:00:00.000Z",
+      "start": "2025-04-27T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 19 - August 04, 2024"
+      "originalString": "April 27, 2025"
     },
-    "description": "On the occasion of the 250th anniversary of Caspar David Friedrich's birth, the Alte Nationalgalerie is showing the exhibition \"Infinite Landscapes\" with 60 paintings and 50 drawings from Germany and abroad, including world-famous works.",
-    "href": "https://www.berlin.de/en/culture-entertainment/archive/8404308-5437163-caspar-david-friedrich-infinite-landscap.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Cherry Blossoms in Berlin",
-    "date": {},
-    "description": "Every spring a sea of pink cherry blossoms blooms in Berlin for a few days. Discover the places where you can admire the cherry blossoms and feel as if you were in Japan.",
-    "href": "https://www.berlin.de/en/tourism/insider-tips/5263242-5766508-cherry-blossoms-in-berlin.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Berlin for Adventurers",
-    "date": {},
-    "description": "Search and find adventures in Berlin: Unusual places, new perspectives and unforgettable experiences in the capital.",
-    "href": "https://www.berlin.de/en/tourism/insider-tips/berlin-for-adventurers/",
-    "onMonth": 3
-  },
-  {
-    "name": "DMEA",
-    "date": {
-      "start": "2025-04-08T05:00:00.000Z",
-      "end": "2025-04-10T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 8-10, 2025"
-    },
-    "description": "DMEA - formerly conhIT - is a trade fair, academy and congress for digital healthcare.",
-    "href": "https://www.berlin.de/en/trade-fairs/sector/technology/3248102-7968909-dmea.en.html",
+    "description": "The Berlin Comic Book Fair (Berliner Comicmesse) is a meeting place for fans, publishers and illustrators of graphic literature. Both classic comic books and new releases are present at the visitors' fair.",
+    "href": "https://www.berlin.de/en/trade-fairs/3022792-7918797-berlin-comic-book-fair.en.html",
     "onMonth": 3
   },
   {
     "name": "Paper Positions",
     "date": {
-      "start": "2025-05-01T05:00:00.000Z",
-      "end": "2025-05-04T05:00:00.000Z",
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-05T05:00:00.000Z",
       "locale": "en",
-      "originalString": "May 1-4, 2025"
+      "originalString": "April 4-5, 2025"
     },
-    "description": "Selected international galleries present their most important positions from contemporary and modern art at Paper positions, with a focus on the material paper.",
-    "href": "https://www.berlin.de/en/trade-fairs/5215340-7918797-paper-positions.en.html",
+    "description": "The (Half)marathon Expo is held biannually in spring and fall as a complementary trade show to the Berlin Half Marathon and the Berlin Marathon. This is where the race number distribution for the races takes place.",
+    "href": "https://www.berlin.de/en/trade-fairs/62703-7918797-marathon-expo.en.html",
     "onMonth": 3
   },
   {
@@ -1044,7 +1038,10 @@
   {
     "name": "Run of Spirit",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-06-09T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 09, 2025"
     },
     "description": "The Run of Spirit is a joint sports event for people with and without disabilities.",
     "href": "https://www.berlin.de/en/sports-leisure/running/3473966-7813334-run-of-spirit.en.html",
@@ -1433,7 +1430,10 @@
   {
     "name": "Classic Open Air on Gendarmenmarkt",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-07-17T05:00:00.000Z",
+      "end": "2025-07-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 17 - 21, 2025"
     },
     "description": "For a few days every summer, Gendarmenmarkt in the heart of Berlin is transformed into a concert stage for the finest classical music concerts.",
     "href": "https://www.berlin.de/en/events/2096841-2842498-classic-open-air-at-gendarmenmarkt.en.html",
@@ -2272,9 +2272,12 @@
   {
     "name": "Medieval Juggler Festival at Spandau Citadel",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-05T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 03 - 05, 2025"
     },
-    "description": "The Gauklerfest (Juggler Festival) at Spandau Citadel will take place for the seventh time in 2025. Visitors can look forward to a colorful program with medieval flair.",
+    "description": "The Gauklerfest (Juggler Festival) takes place at the impressive Spandau Citadel built during the Renaissance. Visitors can look forward to a wonderful program with medieval flair.",
     "href": "https://www.berlin.de/en/events/6301230-2842498-juggler-festival-spandau-citadel.en.html",
     "onMonth": 9
   },
@@ -2715,7 +2718,10 @@
   {
     "name": "Raw Wine Berlin",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-11-30T05:00:00.000Z",
+      "end": "2025-11-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 30, 2025"
     },
     "description": "At this public wine fair at Markthalle Neun in Kreuzberg, organic winemakers from all over the world present their wines.",
     "href": "https://www.berlin.de/en/trade-fairs/3968362-7918797-raw-wine-berlin.en.html",
