@@ -1,35 +1,14 @@
 [
   {
-    "name": "Days of Dance Berlin",
+    "name": "Berlin New Year's Run",
     "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "Days of Dance (Tanztage) is a contemporary dance festival focusing on the discovery and support of up-and-coming choreographers and dancers based in Berlin.",
-    "href": "https://www.berlin.de/en/events/2853968-2842498-days-of-dance-berlin.en.html",
-    "onMonth": 0
-  },
-  {
-    "name": "International Green Week Berlin",
-    "date": {
-      "start": "2026-01-16T05:00:00.000Z",
-      "end": "2026-01-25T05:00:00.000Z",
+      "start": "2026-01-01T05:00:00.000Z",
+      "end": "2026-01-01T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 16 - 25, 2026"
+      "originalString": "January 01, 2026"
     },
-    "description": "The International Green Week in Berlin is considered the world's biggest public fair for the food, agricultural, and horticultural industries.",
-    "href": "https://www.berlin.de/en/events/2101366-2842498-international-green-week-berlin.en.html",
-    "onMonth": 0
-  },
-  {
-    "name": "CTM Festival",
-    "date": {
-      "start": "2025-01-24T05:00:00.000Z",
-      "end": "2025-02-02T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 24 - February 2, 2025"
-    },
-    "description": "The CTM Festival for Adventurous Music and Art celebrates experimental, contemporary and electronic music in special places of Berlin's nightlife.",
-    "href": "https://www.berlin.de/en/events/4289254-2842498-ctm-festival.en.html",
+    "description": "Just as the old (sports) year ends, the new one begins: with a running event. The New Year's run at the Brandenburg Gate attracts about 3,500 runners annually.",
+    "href": "https://www.berlin.de/en/events/991949-2842498-berlin-new-years-run.en.html",
     "onMonth": 0
   },
   {
@@ -45,24 +24,39 @@
     "onMonth": 0
   },
   {
-    "name": "Berlin New Year's Run",
+    "name": "International Green Week Berlin",
     "date": {
-      "start": "2026-01-01T05:00:00.000Z",
-      "end": "2026-01-01T05:00:00.000Z",
+      "start": "2026-01-16T05:00:00.000Z",
+      "end": "2026-01-25T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 01, 2026"
+      "originalString": "January 16 - 25, 2026"
     },
-    "description": "Just as the old (sports) year ends, the new one begins: with a running event. The New Year's run at the Brandenburg Gate attracts about 3,500 runners annually.",
-    "href": "https://www.berlin.de/en/events/991949-2842498-berlin-new-years-run.en.html",
+    "description": "The International Green Week in Berlin is considered the world's biggest public fair for the food, agricultural, and horticultural industries.",
+    "href": "https://www.berlin.de/en/events/2101366-2842498-international-green-week-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Days of Dance Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Days of Dance (Tanztage) is a contemporary dance festival focusing on the discovery and support of up-and-coming choreographers and dancers based in Berlin.",
+    "href": "https://www.berlin.de/en/events/2853968-2842498-days-of-dance-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "CTM Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The CTM Festival for Adventurous Music and Art celebrates experimental, contemporary and electronic music in special places of Berlin's nightlife.",
+    "href": "https://www.berlin.de/en/events/4289254-2842498-ctm-festival.en.html",
     "onMonth": 0
   },
   {
     "name": "SixDay Berlin",
     "date": {
-      "start": "2025-01-31T05:00:00.000Z",
-      "end": "2025-02-01T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 31 - February 01, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "At the six day race in the Velodrom, professional and amateur racing cyclists compete with each other at breathtaking speed.",
     "href": "https://www.berlin.de/en/events/2097425-2842498-berlins-sixday-race.en.html",
@@ -104,10 +98,7 @@
   {
     "name": "Berlin Short Film Festival",
     "date": {
-      "start": "2025-01-30T05:00:00.000Z",
-      "end": "2025-02-01T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 30 - February 01, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Any genre and any format allowed: The Berlin Short Film Festival aims to connect filmmakers from all over Europe.",
     "href": "https://www.berlin.de/en/events/film-festivals/8701221-7812887-berlin-short-film-festival.en.html",
@@ -134,10 +125,7 @@
   {
     "name": "Indian Film Festival 2025",
     "date": {
-      "start": "2025-01-10T05:00:00.000Z",
-      "end": "2025-01-12T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 10 - 12, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The Indian Film Festival presents the diversity and creativity of Indian cinema in a series of impressive screenings.",
     "href": "https://www.berlin.de/en/events/film-festivals/9377623-7812887-indian-film-festival.en.html",
@@ -177,33 +165,80 @@
     "onMonth": 0
   },
   {
-    "name": "Fotogaga: Max Ernst and Photography",
-    "date": {
-      "originalString": "\n            \n                \n                    Exhibitions\n                \n                Fotoausstellungen            \n        "
-    },
-    "description": "Max Ernst repeatedly broke with artistic conventions and experimented with new techniques. However, he was not a photographer. This special exhibition is the first to look for points of contact between his work and photography.moreabout: Fotogaga: Max Ernst and Photography",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/fotogaga-max-ernst-and-photography-dc599082-0935-42a1-bf24-4b8c06b2f90a/",
+    "name": "Joseph Beuys: Collection Presentation",
+    "date": {},
+    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
     "onMonth": 0
   },
   {
-    "name": "Mark Bradford: Keep Walking",
-    "date": {
-      "originalString": "\n            \n                \n                    Exhibitions\n                \n                            \n        "
-    },
-    "description": "Spanning painting, sculpture, installation, and video, the exhibition delves into societal issues such as violence and urban life.moreabout: Mark Bradford: Keep Walking",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
+    "name": "Dinosaurs! Age of the Giant Lizards",
+    "date": {},
+    "description": "The new special exhibition \"Dinosaurs!\" lets you discover dinosaurs from the three geological eras - Triassic, Jurassic and Cretaceous - for the first time. The atar of the exhibition is Berlin's very own T-Rex \"Tristan Otto\".",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/dinosaurs-age-of-the-giant-lizards-0797cec2-035c-4851-908d-d2e113eaea48/",
     "onMonth": 0
   },
   {
-    "name": "Nan Goldin: This Will Not End Well",
-    "date": {
-      "start": "2024-11-23T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 23, 2024 - April 6, 2025"
-    },
-    "description": "Stories about love, intimacy, addiction and loss: the exhibition \"This Will Not End Well\" at the Neue Nationalgalerie presents a retrospective of the extraordinary photographer and filmmaker Nan Goldin.",
-    "href": "https://www.berlin.de/en/exhibitions/8559936-5202331-nan-goldin-this-will-not-end-well.en.html",
+    "name": "The Second Glance: All Forms of Love",
+    "date": {},
+    "description": "A cooperation of Berlin's Gay Museum and the Bode Museum, \"All Forms of Love\" casts a second look on works in the Bode collection that deal with the diversity of sexual identities and LGBTIQ life in art from previous eras.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/the-second-glance-all-forms-of-love-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
+    "onMonth": 0
+  },
+  {
+    "name": "Ancient Egypt",
+    "date": {},
+    "description": "The Egyptian Museum and Papyrus Collection has a chance to present itself on a scale never shown until now, with over 2 500 exhibits on display in the Neues Museum's northern wing over three floors, covering 3600m².",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/ancient-egypt-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin Global",
+    "date": {},
+    "description": "Yesterday, today, tomorrow: much of what happens in Berlin has an impact on the world. And much of what happens in the world has an impact on Berlin.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/berlin-global-bd617310-7d65-4c6a-a9a4-6e1262fd070f/",
+    "onMonth": 0
+  },
+  {
+    "name": "All Hands On: Basketry",
+    "date": {},
+    "description": "Basketry is a cultural technique that is thousands of years old, practised worldwide, regionally distinctive and still a handicraft in the truest sense of the word.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/all-hands-on-basketry-46db172f-9ef2-4636-b2fb-7806511fdcce/",
+    "onMonth": 0
+  },
+  {
+    "name": "Endless Exhibition",
+    "date": {},
+    "description": "More than 15 installations, sculptures and interventions have been set up in and around the Hamburger Bahnhof since it opened as a museum of contemporary art in 1996.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/endless-exhibition-6548cb64-9d31-43d6-b5e9-56bc4aa7df88/",
+    "onMonth": 0
+  },
+  {
+    "name": "The Second Glance: Women",
+    "date": {},
+    "description": "“Women” is the second integrated exhibition in the series The Second Glance, and was produced in collaboration with the organisation Frauentreff Olga, a drop-in and counselling centre for drug-using women, trans women, and sex workers.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/the-second-glance-women-66c13608-f172-4496-a9a9-1da38084f0de/",
+    "onMonth": 0
+  },
+  {
+    "name": "Back! Stone Age. Bronze Age. Iron Age",
+    "date": {},
+    "description": "On the upper floor, the 'Museum of Prehistory and Early History' takes visitors on a tour through the oldest eras of human history. With its unique collections on the prehistory and ancient history of Europe and near-lying regions of Asia, the museum...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/back-stone-age-bronze-age-iron-age-97125fb2-d5f9-426e-b4f4-ed5afe41ac46/",
+    "onMonth": 0
+  },
+  {
+    "name": "The Scharf Collection: Goya – Monet – Degas – Bonnard – Grosse",
+    "date": {},
+    "description": "The Scharf Collection, a private German collection of 19th- and 20th-century French art and contemporary international art, is set to be presented in its entirety for the very first time.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/the-scharf-collection-goya-monet-degas-bonnard-grosse-a3d5811f-54ce-48cd-ae87-63bfb7f0e2b1/",
+    "onMonth": 0
+  },
+  {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
     "onMonth": 0
   },
   {
@@ -228,19 +263,33 @@
     "onMonth": 0
   },
   {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 0
+    "name": "One Billion Rising",
+    "date": {
+      "start": "2026-02-14T05:00:00.000Z",
+      "end": "2026-02-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 14, 2026"
+    },
+    "description": "The movement \"One Billion Rising\" aims to bring women and men together in public places to dance against violence against women and for respect for all.",
+    "href": "https://www.berlin.de/en/events/3351612-2842498-one-billion-rising.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Berlin Independent Film Festival",
+    "date": {
+      "start": "2026-02-16T05:00:00.000Z",
+      "end": "2026-02-23T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 16 - 23, 2026"
+    },
+    "description": "The Berlin Independent Film Festival champions low-budget filmmaking in Europe by giving new directors the opportunity to screen their work and swap ideas.",
+    "href": "https://www.berlin.de/en/events/film-festivals/3319931-7812887-berlin-independent-film-festival.en.html",
+    "onMonth": 1
   },
   {
     "name": "Berlinale - Berlin International Film Festival",
     "date": {
-      "start": "2025-02-13T05:00:00.000Z",
-      "end": "2025-02-23T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 13 - 23, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The Berlin International Film Festival, Berlinale for short, is one of the most important film festivals worldwide. Every year, it attracts the elite of the film industry as well as the largest audience of any film festival in the world.",
     "href": "https://www.berlin.de/en/events/film-festivals/2021144-7812887-berlinale-international-film-festival.en.html",
@@ -259,39 +308,21 @@
     "onMonth": 1
   },
   {
-    "name": "Berlin Independent Film Festival",
+    "name": "Tanzolymp - International Dance Festival",
     "date": {
-      "start": "2025-02-12T05:00:00.000Z",
-      "end": "2025-02-16T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 12 - 16, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "The Berlin Independent Film Festival champions low-budget filmmaking in Europe by giving new directors the opportunity to screen their work and swap ideas.",
-    "href": "https://www.berlin.de/en/events/film-festivals/3319931-7812887-berlin-independent-film-festival.en.html",
+    "description": "Berlin as an international meeting place for cultures - this is the basic idea behind the international dance festival Tanzolymp.",
+    "href": "https://www.berlin.de/en/events/2268249-2842498-tanzolymp-international-dance-festival.en.html",
     "onMonth": 1
   },
   {
     "name": "Transmediale",
     "date": {
-      "start": "2025-01-29T05:00:00.000Z",
-      "end": "2025-02-02T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 29 - February 02, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Transmediale is a festival and year-round project in Berlin that highlights new connections between art, culture and technology.",
     "href": "https://www.berlin.de/en/events/2322875-2842498-transmediale.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "Tanzolymp - International Dance Festival",
-    "date": {
-      "start": "2025-02-20T05:00:00.000Z",
-      "end": "2025-02-25T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 20 - 25, 2025"
-    },
-    "description": "Berlin as an international meeting place for cultures - this is the basic idea behind the international dance festival Tanzolymp.",
-    "href": "https://www.berlin.de/en/events/2268249-2842498-tanzolymp-international-dance-festival.en.html",
     "onMonth": 1
   },
   {
@@ -309,10 +340,7 @@
   {
     "name": "Schall & Rausch",
     "date": {
-      "start": "2025-02-07T05:00:00.000Z",
-      "end": "2025-02-16T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 07 - 16, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The Neukölln Schall & Rausch Festival aims to shake up Berlin's musical theater scene.",
     "href": "https://www.berlin.de/en/events/7986827-2842498-schall-rausch.en.html",
@@ -321,65 +349,34 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-01-31T05:00:00.000Z",
-      "end": "2025-02-03T05:00:00.000Z",
+      "start": "2025-06-30T05:00:00.000Z",
+      "end": "2025-07-03T05:00:00.000Z",
       "locale": "en",
-      "originalString": "January 31 to February 03, 2025"
+      "originalString": "June 30 to July 03, 2025"
     },
     "description": "Twice a year, the international fashion scene gathers in Berlin for Berlin Fashion Week.",
-    "href": "https://www.berlin.de/en/events/8279442-2842498-berlin-fashion-week-2024.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "One Billion Rising",
-    "date": {
-      "start": "2025-02-14T05:00:00.000Z",
-      "end": "2025-02-14T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 14, 2025"
-    },
-    "description": "The movement \"One Billion Rising\" aims to bring women and men together in public places to dance against violence against women and for respect for all.",
-    "href": "https://www.berlin.de/en/events/3351612-2842498-one-billion-rising.en.html",
+    "href": "https://www.berlin.de/en/events/8279442-2842498-berlin-fashion-week.en.html",
     "onMonth": 1
   },
   {
     "name": "Eat Berlin",
     "date": {
-      "start": "2025-02-20T05:00:00.000Z",
-      "end": "2025-03-02T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 20 - March 02, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "At the gourmet food festival Eat Berlin, over 100 top chefs from Berlin, Germany and around the world showcase their skills.",
     "href": "https://www.berlin.de/en/events/food-events/6286536-7974318-eat-berlin.en.html",
     "onMonth": 1
   },
   {
-    "name": "Füchse Berlin",
-    "date": {},
-    "description": "In February, the Füchse Berlin will play against 1. VfL Potsdam, Federicia Handboldklub, SG Flensburg-Handewitt and HC Eurofarm Pelister.",
-    "href": "https://www.berlin.de/en/tickets/sport/fuechse-berlin-saison-2024-2025-ffa3a363-72d9-449c-9bf5-0660c69a906b/",
-    "onMonth": 1
-  },
-  {
-    "name": "A World In Common: Contemporary African Photography",
-    "date": {},
-    "description": "The exhibition at CO Berlin assembles works by more than twenty artists with the aim of redefining Africa’s representation in the global narrative.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/a-world-in-common-contemporary-african-photography-10fbc254-b53b-4fa9-9598-ede501a23ace/",
-    "onMonth": 1
-  },
-  {
-    "name": "Ull Hohn: Revisions",
-    "date": {},
-    "description": "For Ull Hohn painting was more than just an artistic medium – it was a space where discourse, technique, and personal reflections intertwined.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/ull-hohn-revisions-5bb787df-031e-428b-b628-5c2ccfade045/",
-    "onMonth": 1
-  },
-  {
-    "name": "Alex Müller: Alexandraplatz",
-    "date": {},
-    "description": "Interwoven into a wide-ranging network of autobiographical references, Alex Müller's first institutional solo exhibition in Berlin is a fascinating presentation of painterly, sculptural and installation works.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/alex-mueller-alexandraplatz-97cd122e-f789-4034-9ffa-1ebd1e141a00/",
+    "name": "Berlin Valentine's Run",
+    "date": {
+      "start": "2026-02-15T05:00:00.000Z",
+      "end": "2026-02-15T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 15, 2026"
+    },
+    "description": "The Valentine's Run in the Gardens of the World is a relatively new addition to Berlin's running calendar.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/7001777-7813334-berlin-valentines-run.en.html",
     "onMonth": 1
   },
   {
@@ -392,18 +389,6 @@
     "onMonth": 1
   },
   {
-    "name": "Terraristikbörse Berlin",
-    "date": {
-      "start": "2025-04-06T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 6, 2025"
-    },
-    "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
-    "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
-    "onMonth": 1
-  },
-  {
     "name": "Liebe ist",
     "date": {
       "originalString": "Date not yet known"
@@ -413,17 +398,22 @@
     "onMonth": 1
   },
   {
+    "name": "Fruit Logistica",
+    "date": {
+      "start": null,
+      "end": null,
+      "locale": "en",
+      "originalString": "Febuary 4-6, 2026"
+    },
+    "description": "Fruit Logistica is an international trade fair for fruit and vegetable marketing.",
+    "href": "https://www.berlin.de/en/trade-fairs/1612595-7918797-fruitlogistica.en.html",
+    "onMonth": 1
+  },
+  {
     "name": "Travel Weather: Berlin in February",
     "date": {},
     "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
     "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html",
-    "onMonth": 1
-  },
-  {
-    "name": "River Cruises",
-    "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
     "onMonth": 1
   },
   {
@@ -544,15 +534,15 @@
     "onMonth": 2
   },
   {
-    "name": "Greek Film Festival",
+    "name": "St Patrick's Film Festival",
     "date": {
-      "start": "2025-03-26T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-17T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 26 - 30, 2025"
+      "originalString": "March 15 - 17, 2025"
     },
-    "description": "The Greek Film Festival wants to bring often still unknown Greek filmmakers into the focus of the German audience.",
-    "href": "https://www.berlin.de/en/events/film-festivals/4222694-7812887-greek-film-festival.en.html",
+    "description": "Babylon Berlin celebrates St. Patrick's Day with Irish films and live music.",
+    "href": "https://www.berlin.de/en/events/film-festivals/9519529-7812887-st-patricks-irish-festival.en.html",
     "onMonth": 2
   },
   {
@@ -567,6 +557,13 @@
     "date": {},
     "description": "A journey through oversized, emotional and impressive immersive installations with unexpected forms in which interaction with the visitors takes center stage.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
+    "onMonth": 2
+  },
+  {
+    "name": "Mark Bradford: Keep Walking",
+    "date": {},
+    "description": "Spanning painting, sculpture, installation, and video, the exhibition delves into societal issues such as violence and urban life.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
     "onMonth": 2
   },
   {
@@ -586,10 +583,10 @@
   {
     "name": "ITB Berlin - International Travel Trade Show",
     "date": {
-      "start": "2025-03-04T05:00:00.000Z",
-      "end": "2025-03-06T05:00:00.000Z",
+      "start": "2026-03-03T05:00:00.000Z",
+      "end": "2026-03-05T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 04-06, 2025"
+      "originalString": "March 03-05, 2026"
     },
     "description": "The ITB is the world's leading travel trade show and provides a unique opportunity to learn about different countries and regions all over the globe in one place.",
     "href": "https://www.berlin.de/en/trade-fairs/2101408-7918797-itb-berlin-international-travel-trade-sh.en.html",
@@ -617,6 +614,13 @@
     },
     "description": "At the Kolektif Berlin bike show at Motorwerk Berlin, everything revolves around two-wheelers, cycling and the lifestyle around the sport.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/health-sports/5647199-7968912-kolektif-berlin.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
     "onMonth": 2
   },
   {
@@ -1048,24 +1052,10 @@
     "onMonth": 4
   },
   {
-    "name": "Joseph Beuys: Collection Presentation",
-    "date": {},
-    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 4
-  },
-  {
     "name": "Extreme Tension: Art between Politics and Society 1945 – 2000",
     "date": {},
     "description": "Hardly any other era was so marked by division, rupture and transformation as the period after the Second World War. In light of this, the Neue Nationalgalerie has consciously chosen the title Extreme Tension for the upcoming presentation of its postwar...",
     "href": "https://www.berlin.de/en/tickets/exhibitions/extreme-tension-art-between-politics-and-society-1945-2000-3fdbf589-142a-4d6e-8ddb-ff800b8f4b4f/",
-    "onMonth": 4
-  },
-  {
-    "name": "Ancient Egypt",
-    "date": {},
-    "description": "The Egyptian Museum and Papyrus Collection has a chance to present itself on a scale never shown until now, with over 2 500 exhibits on display in the Neues Museum's northern wing over three floors, covering 3600m².",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/ancient-egypt-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
     "onMonth": 4
   },
   {
@@ -1247,7 +1237,10 @@
   {
     "name": "Open Days at Hamburger Bahnhof",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-06-13T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 13 - 15, 2025"
     },
     "description": "The Hamburger Bahnhof museums for contemporary art is celebrating the permanent preservation of its location for three days with an extensive program and free admission.",
     "href": "https://www.berlin.de/en/events/8234831-2842498-open-days-hamburger-bahnhof.en.html",
@@ -1620,7 +1613,10 @@
   {
     "name": "Berlin Circus Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-07-30T05:00:00.000Z",
+      "end": "2025-08-10T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 30 - August 10, 2025"
     },
     "description": "The Berlin Circus Festival on Tempelhofer Feld celebrates the diversity of contemporary circus.",
     "href": "https://www.berlin.de/en/events/4974630-2842498-berlin-circus-festival.en.html",
@@ -2321,6 +2317,13 @@
     "onMonth": 9
   },
   {
+    "name": "Fotogaga: Max Ernst and Photography",
+    "date": {},
+    "description": "Max Ernst repeatedly broke with artistic conventions and experimented with new techniques. However, he was not a photographer. This special exhibition is the first to look for points of contact between his work and photography.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/fotogaga-max-ernst-and-photography-dc599082-0935-42a1-bf24-4b8c06b2f90a/",
+    "onMonth": 9
+  },
+  {
     "name": "Bar Convent Berlin",
     "date": {
       "start": "2025-10-06T05:00:00.000Z",
@@ -2466,6 +2469,18 @@
     "onMonth": 10
   },
   {
+    "name": "Italian Film Festival",
+    "date": {
+      "start": "2025-11-11T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 11 - 16, 2025"
+    },
+    "description": "Subtle humor, joie de vivre and sometimes blunt realism: The Italian Film Festival brings Italian cinema to Berlin.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7061734-7812887-italian-film-festival.en.html",
+    "onMonth": 10
+  },
+  {
     "name": "Lithuanian Cinema Goes Berlin",
     "date": {
       "originalString": "Date not yet known"
@@ -2484,12 +2499,15 @@
     "onMonth": 10
   },
   {
-    "name": "Around the World in 14 Films",
+    "name": "Nan Goldin: This Will Not End Well",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 23, 2024 - April 6, 2025"
     },
-    "description": "In 2025, the independent festival \"Around the World in 14 Films\" is going on a cinematic journey across the globe for the 20th time.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2080036-7812887-around-the-world-in-14-days-festival.en.html",
+    "description": "Stories about love, intimacy, addiction and loss: the exhibition \"This Will Not End Well\" at the Neue Nationalgalerie presents a retrospective of the extraordinary photographer and filmmaker Nan Goldin.",
+    "href": "https://www.berlin.de/en/exhibitions/8559936-5202331-nan-goldin-this-will-not-end-well.en.html",
     "onMonth": 10
   },
   {
@@ -2725,6 +2743,18 @@
     },
     "description": "At this public wine fair at Markthalle Neun in Kreuzberg, organic winemakers from all over the world present their wines.",
     "href": "https://www.berlin.de/en/trade-fairs/3968362-7918797-raw-wine-berlin.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Terraristikbörse Berlin",
+    "date": {
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 6, 2025"
+    },
+    "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
+    "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
     "onMonth": 11
   },
   {

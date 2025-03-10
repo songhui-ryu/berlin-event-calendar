@@ -23,10 +23,7 @@
   {
     "name": "CTM Festival",
     "date": {
-      "start": "2025-01-24T05:00:00.000Z",
-      "end": "2025-02-02T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "24. Januar bis 02. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das «CTM Festival for Adventurous Music and Art» befasst sich mit experimenteller, zeitgenössischer und elektronischer Musik an besonderen Orten des Berliner Nacht- und Kulturlebens.",
     "href": "https://www.berlin.de/events/4289254-2229501-ctm-festival.html",
@@ -141,6 +138,15 @@
     "onMonth": 0
   },
   {
+    "name": "Joseph Beuys: Sammlungspräsentation",
+    "date": {
+      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
+    },
+    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.mehrzu: Joseph Beuys: Sammlungspräsentation",
+    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 0
+  },
+  {
     "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {
       "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
@@ -156,15 +162,6 @@
     },
     "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...mehrzu: Der zweite Blick: Spielarten der Liebe",
     "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
-    "onMonth": 0
-  },
-  {
-    "name": "Altes Ägypten",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.mehrzu: Altes Ägypten",
-    "href": "https://www.berlin.de/tickets/ausstellungen/altes-aegypten-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
     "onMonth": 0
   },
   {
@@ -222,6 +219,13 @@
     "onMonth": 0
   },
   {
+    "name": "Food-Events",
+    "date": {},
+    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
+    "href": "https://www.berlin.de/restaurants/food-events/",
+    "onMonth": 0
+  },
+  {
     "name": "Wochenend-Tipps",
     "date": {},
     "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
@@ -250,19 +254,9 @@
     "onMonth": 0
   },
   {
-    "name": "Food-Events",
-    "date": {},
-    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
-    "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
     "name": "Berlinale - Internationale Filmfestspiele Berlin",
     "date": {
-      "start": "2025-02-13T05:00:00.000Z",
-      "end": "2025-02-23T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "13. bis 23. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die Internationalen Filmfestspiele Berlin sind weltweit eines der bedeutendsten Ereignisse der Filmbranche. Es werden bis zu 400 Filme gezeigt.",
     "href": "https://www.berlin.de/events/2021144-2229501-berlinale.html",
@@ -271,10 +265,7 @@
   {
     "name": "Brecht-Tage",
     "date": {
-      "start": "2025-02-10T05:00:00.000Z",
-      "end": "2025-02-14T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "10. bis 14. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die Brecht-Tage finden traditionell rund um den Geburtstag Bertolt Brechts am 10. Februar statt.",
     "href": "https://www.berlin.de/events/3743296-2229501-brecht-tage.html",
@@ -283,22 +274,19 @@
   {
     "name": "Biennale der Berliner Philharmoniker",
     "date": {
-      "start": "2025-02-13T05:00:00.000Z",
-      "end": "2025-03-01T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "13. Februar bis 01. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
-    "description": "Die Biennale der Berliner Philharmoniker steht 2025 unter dem Motto «Paradise lost? – Von der Bedrohung der Natur» und stellt die Gefahren des Klimawandels und Artensterbens in den Mittelpunkt.",
+    "description": "Die Biennale der Berliner Philharmoniker stand 2025 unter dem Motto «Paradise lost? – Von der Bedrohung der Natur» und stellte die Gefahren des Klimawandels und Artensterbens in den Mittelpunkt.",
     "href": "https://www.berlin.de/events/7976916-2229501-biennale-der-berliner-philharmoniker.html",
     "onMonth": 1
   },
   {
     "name": "Berlin Independent Film Festival",
     "date": {
-      "start": "2025-02-12T05:00:00.000Z",
-      "end": "2025-02-16T05:00:00.000Z",
+      "start": "2026-02-16T05:00:00.000Z",
+      "end": "2026-02-23T05:00:00.000Z",
       "locale": "de",
-      "originalString": "12. bis 16. Februar 2025"
+      "originalString": "16. bis 23. Februar 2026"
     },
     "description": "Auch in diesem Jahr präsentiert das Independent Filmfestival im Moviemento Filmpremieren des unabhängigen Kinos.",
     "href": "https://www.berlin.de/kino/filmfestivals/3319931-2020379-berlin-independent-film-festival.html",
@@ -307,10 +295,7 @@
   {
     "name": "Transmediale",
     "date": {
-      "start": "2025-01-29T05:00:00.000Z",
-      "end": "2025-02-02T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "29. Januar bis 02. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die Transmediale ist ein Festival und ganzjähriges Projekt in Berlin, das neue Verbindungen zwischen Kunst, Kultur und Technologie herausstellt.",
     "href": "https://www.berlin.de/events/2322875-2229501-transmediale.html",
@@ -319,10 +304,7 @@
   {
     "name": "Tanzolymp - Internationales Jugendtanzfestival",
     "date": {
-      "start": "2025-02-20T05:00:00.000Z",
-      "end": "2025-02-25T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "20. bis 25. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Berlin als internationale Begegnungsstätte der Kulturen - dies ist der Grundgedanke für das internationale Tanzfestival Tanzolymp.",
     "href": "https://www.berlin.de/events/2268249-2229501-tanzolymp-internationales-jugendtanzfest.html",
@@ -343,10 +325,7 @@
   {
     "name": "Schall & Rausch",
     "date": {
-      "start": "2025-02-07T05:00:00.000Z",
-      "end": "2025-02-16T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "07. bis 16. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Neuköllner «Schall & Rausch»-Festival will das Berliner Musiktheater gehörig aufmischen.",
     "href": "https://www.berlin.de/events/7986827-2229501-schall-rausch.html",
@@ -355,10 +334,10 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-01-31T05:00:00.000Z",
-      "end": "2025-02-03T05:00:00.000Z",
+      "start": "2025-06-30T05:00:00.000Z",
+      "end": "2025-07-03T05:00:00.000Z",
       "locale": "de",
-      "originalString": "31. Januar bis 03. Februar 2025"
+      "originalString": "30. Juni bis 03. Juli 2025"
     },
     "description": "Zur Berlin Fashion Week versammelt sich zweimal im Jahr die internationale Modeszene in Berlin.",
     "href": "https://www.berlin.de/events/8279442-2229501-berlin-fashion-week-2025.html",
@@ -367,10 +346,10 @@
   {
     "name": "One Billion Rising",
     "date": {
-      "start": "2025-02-14T05:00:00.000Z",
-      "end": "2025-02-14T05:00:00.000Z",
+      "start": "2026-02-14T05:00:00.000Z",
+      "end": "2026-02-14T05:00:00.000Z",
       "locale": "de",
-      "originalString": "14. Februar 2025"
+      "originalString": "14. Februar 2026"
     },
     "description": "Die Kampagne «One Billion Rising» möchte Frauen und Männer an öffentlichen Orten zusammenbringen, um gegen Gewalt gegen Frauen und damit für Respekt für alle zu tanzen.",
     "href": "https://www.berlin.de/events/3351612-2229501-one-billion-rising.html",
@@ -379,12 +358,9 @@
   {
     "name": "Eat Berlin",
     "date": {
-      "start": "2025-02-20T05:00:00.000Z",
-      "end": "2025-03-02T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "20. Februar bis 02. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
-    "description": "2025 findet das Feinschmeckerfestival - Eat Berlin - bereits zum 14. Mal statt. Die vielfältigen Food-Veranstaltungen laufen an verschiedenen Orten der Hauptstadt.",
+    "description": "2026 findet das Feinschmeckerfestival - Eat Berlin - bereits zum 15. Mal statt. Die vielfältigen Food-Veranstaltungen laufen an verschiedenen Orten der Hauptstadt.",
     "href": "https://www.berlin.de/restaurants/food-events/6286536-5146458-eat-berlin.html",
     "onMonth": 1
   },
@@ -467,10 +443,7 @@
   {
     "name": "Made in Potsdam",
     "date": {
-      "start": "2025-01-11T05:00:00.000Z",
-      "end": "2025-02-16T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "11. Januar bis 16. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Festival Made in Potsdam hebt die Trennung zwischen Tanz, Performance und Musik kunstvoll auf. Die Produktionen entstehen unter Beteiligung von Potsdamer Künstlern.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4330012-3479097-made-in-potsdam.html",
@@ -491,10 +464,7 @@
   {
     "name": "Falkensee kreativ",
     "date": {
-      "start": "2025-02-09T05:00:00.000Z",
-      "end": "2025-02-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "08. und 09. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "In der Stadthalle Falkensee dreht sich zwei Tage lang alles um DIY-Projekte und Selbermachen.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/8016881-3479097-falkensee-kreativ.html",
@@ -715,15 +685,15 @@
     "onMonth": 2
   },
   {
-    "name": "Final Girls Berlin",
+    "name": "St Patrick's Filmfestival",
     "date": {
-      "start": "2025-03-05T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-17T05:00:00.000Z",
       "locale": "de",
-      "originalString": "05. bis 09. März 2025"
+      "originalString": "15. bis 17. März 2025"
     },
-    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
-    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
+    "description": "Im Babylon Berlin wird der St. Patrick's Day mit irischen Filmen und Live-Musik gefeiert.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9519529-2020379-st-patricks-irish-festival.html",
     "onMonth": 2
   },
   {
@@ -736,6 +706,18 @@
     },
     "description": "Das Griechische Filmfestival möchte das vielfach noch unbekannte griechische Filmschaffen in den Fokus des deutschen Publikums rücken.",
     "href": "https://www.berlin.de/kino/filmfestivals/4222694-2020379-griechisches-filmfestival.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Final Girls Berlin",
+    "date": {
+      "start": "2025-03-05T05:00:00.000Z",
+      "end": "2025-03-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "05. bis 09. März 2025"
+    },
+    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
+    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
     "onMonth": 2
   },
   {
@@ -957,9 +939,7 @@
   },
   {
     "name": "Schiffstour \"Citytour\": Durch die Mitte Berlins zum Westhafen",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Von der Friedrichstraße bis zum größten Hafen der Stadt und zurück: Der Rundkurs \"Citytour\" führt durch das historische und moderne Zentrum Berlins.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3847512-5433923-schiffstour-citytour-durch-die-mitte-ber.html",
     "onMonth": 3
@@ -1373,9 +1353,7 @@
   },
   {
     "name": "Brückenfahrt durch Berlin",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Berlin vom Wasser aus: Auf der Schiffstour Brückenfahrt erleben Sie nicht nur Berlins wichtigste Sehenswürdigkeiten, sondern auch über 60 Brücken.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/2484915-5433923-schiffstour-brueckenfahrt-23-kilometer-k.html",
     "onMonth": 4
@@ -1443,6 +1421,18 @@
     "onMonth": 4
   },
   {
+    "name": "Akzeptanzfestival",
+    "date": {
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "10. und 11. Mai 2025"
+    },
+    "description": "Auf dem Waschhausgelände in Potsdam findet zwei Tage lang das Akzeptanzfestival für Menschen mit und ohne Handicap statt.",
+    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/8847520-3479097-akzeptanzfestival-.html",
+    "onMonth": 4
+  },
+  {
     "name": "Gartenfestival Park & Schloss Branitz",
     "date": {
       "start": "2025-05-16T05:00:00.000Z",
@@ -1452,18 +1442,6 @@
     },
     "description": "Pflanzenmarkt, Fachvorträge, Konzerte und Duftexpeditionen: Das Gartenfestival im Branitzer Park ist ein Fest für Hobbygärtner und Naturliebhaber.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4673042-3479097-gartenfestival-park-schloss-branitz.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Ritterfest im Schlosspark Oranienburg",
-    "date": {
-      "start": "2025-06-07T05:00:00.000Z",
-      "end": "2025-06-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "07. bis 09. Juni 2025"
-    },
-    "description": "Jedes Jahr im Mai findet der Drachenbootcup Königs Wusterhausen statt.",
-    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/7512048-3479097-ritterfest-im-schlosspark-oranienburg.html",
     "onMonth": 4
   },
   {
@@ -1629,7 +1607,10 @@
   {
     "name": "Tage der offenen Tür im Hamburger Bahnhof",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-13T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. bis 15. Juni 2025"
     },
     "description": "Der Hamburger Bahnhof feiert zum zweiten Mal die Tage der Offenen Tür mit einen bunten und kostenlosen Programm.",
     "href": "https://www.berlin.de/events/8234831-2229501-tage-der-offenen-tuer-im-hamburger-bahnh.html",
@@ -1713,13 +1694,6 @@
     "onMonth": 5
   },
   {
-    "name": "Joseph Beuys: Sammlungspräsentation",
-    "date": {},
-    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 5
-  },
-  {
     "name": "Vamos a la playa",
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
@@ -1740,18 +1714,14 @@
   },
   {
     "name": "East-Side-Tour: Der Osten und das Regierungsviertel",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Die Schiffstour zeigt die bekanntesten Sehenswürdigkeiten entlang der Spree im Ostteil der Stadt sowie das Regierungsviertel.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3196028-5433923-schiffstour-eastsidetour-auf-der-spree-d.html",
     "onMonth": 5
   },
   {
     "name": "Rund um die Müggelberge",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Die Rundfahrt im Südosten Berlins beginnt am Treptower Park und bietet entlang von Flüssen und Seen Ausblick auf die Landschaft der Müggelberge in Köpenick.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3846371-5433923-schiffstour-rund-um-die-mueggelberge.html",
     "onMonth": 5
@@ -1769,12 +1739,15 @@
     "onMonth": 5
   },
   {
-    "name": "Futurework",
+    "name": "Affordable Art Fair",
     "date": {
-      "originalString": "Nächster Termin noch nicht bekannt"
+      "start": "2025-06-13T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. bis 15. Juni 2025"
     },
-    "description": "Auf der Messe Futurework dreht sich einen Tag lang alles um die Zukunft der Arbeit in Deutschland.",
-    "href": "https://www.berlin.de/messen/8849629-7918641-futurework.html",
+    "description": "Die Kunstmesse Affordable Art Fair in Berlin präsentiert drei Tage lang erschwingliche zeitgenössische Kunst.",
+    "href": "https://www.berlin.de/messen/8135978-7918641-affordable-art-fair.html",
     "onMonth": 5
   },
   {
@@ -1785,7 +1758,7 @@
       "locale": "de",
       "originalString": "21. Juni 2025"
     },
-    "description": "Auf der Karrieremesse für Schwule, Lesben und Heteros können Besucher neue Arbeitgeber kennenlernen, geschäftliche Kontakte knüpfen und Karrierevorträge besuchen.",
+    "description": "Auf der Karrieremesse können alle queeren und Vielfalt feiernden Menschen Arbeitgebende kennenlernen, geschäftliche Kontakte knüpfen und Karrierevorträge besuchen.",
     "href": "https://www.berlin.de/messen/1729611-7918641-sticks-and-stones.html",
     "onMonth": 5
   },
@@ -1964,18 +1937,14 @@
   },
   {
     "name": "Schiffstour: Auf der Havel von Tegel ins Land Brandenburg",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Die Rundfahrt beginnt am Tegeler See im Norden Berlins und führt entlang der Insellandschaften der Oberhavel bis nach Hennigsdorf.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3842446-5433923-schiffstour-auf-der-havel-von-tegel-ins-.html",
     "onMonth": 6
   },
   {
     "name": "Dampferfahrt: Durch die Mitte Berlins zum Westhafen",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Von der Friedrichstraße bis zum größten Hafen der Stadt und zurück: Der Rundkurs \"Citytour\" führt durch das historische und moderne Zentrum Berlins.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3847512-5433923-schiffstour-citytour-durch-die-mitte-ber.html",
     "onMonth": 6
@@ -2102,7 +2071,10 @@
   {
     "name": "Berlin Circus Festival",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-07-30T05:00:00.000Z",
+      "end": "2025-08-10T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "30. Juli bis 10. August 2025"
     },
     "description": "Das Berlin Circus Festival auf dem Tempelhofer Feld feiert die Vielfalt des zeitgenössischen Zirkus'.",
     "href": "https://www.berlin.de/events/4974630-2229501-berlin-circus-festival.html",
@@ -2221,9 +2193,7 @@
   },
   {
     "name": "Schiffstour: Weltkulturerbe zwischen Wannsee und Potsdam",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Die Schiffstour von Wannsee nach Potsdam eröffnet schöne Blicke auf preussische Prachtbauten am Ufer der Havel, die heute zum Unesco-Welterbe gehören.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3835319-5433923-schiffstour-weltkulturerbe-zwischen-wann.html",
     "onMonth": 7
@@ -2585,6 +2555,15 @@
     "onMonth": 8
   },
   {
+    "name": "Festival: Stummfilm Live",
+    "date": {
+      "originalString": "Termin noch nicht bekannt"
+    },
+    "description": "Unter dem Motto «100 Jahre Stummfilm!» zeigt das Kino Babylon Filme, die in diesem Jahr ihr 100-jähriges Jubiläum feiern.",
+    "href": "https://www.berlin.de/kino/filmfestivals/8407782-2020379-100-jahre-stummfilm.html",
+    "onMonth": 8
+  },
+  {
     "name": "Prenzlauerberginale",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -2600,18 +2579,6 @@
     },
     "description": "Australian & New Zealand Film Festival: Das Ziel des Down Under ist die multiperspektivische Vermittlung australasiatischer Kultur und Filmkultur - quer durch alle Genregrenzen und Filmformate.",
     "href": "https://www.berlin.de/kino/filmfestivals/2783913-2020379-down-under-australian-film-festival.html",
-    "onMonth": 8
-  },
-  {
-    "name": "FilmPolska",
-    "date": {
-      "start": "2024-09-11T05:00:00.000Z",
-      "end": "2024-09-18T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "11. bis 18. September 2024"
-    },
-    "description": "Das Festival des polnischen Films in Berlin zeigt die spannendsten polnischen Produktionen des vergangenen Jahres.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2463197-2020379-filmpolska.html",
     "onMonth": 8
   },
   {
@@ -2683,9 +2650,7 @@
   },
   {
     "name": "Schiffstour: Romantische Mondscheinfahrt",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Was kann es Schöneres geben, als mit seinem Lieblingsmenschen zusammen in einer Mondscheinnacht leise über die Spree zu gleiten?",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/6848191-5433923-romantische-mondscheinfahrt-mit-dem-sola.html",
     "onMonth": 8
@@ -2927,9 +2892,7 @@
   },
   {
     "name": "Schiffstour: Spreefahrt zum Müggelsee mit Köpenicker Altstadt",
-    "date": {
-      "originalString": "Winterpause"
-    },
+    "date": {},
     "description": "Auf der Rundfahrt verlässt das Schiff die hektische Innenstadt und schippert vorbei an der wunderschönen Köpenicker Altstadt gemütlich bis zum Müggelsee.",
     "href": "https://www.berlin.de/tourismus/dampferfahrten/x/3847217-5433923-schiffstour-spreefahrt-zum-mueggelsee.html",
     "onMonth": 9
