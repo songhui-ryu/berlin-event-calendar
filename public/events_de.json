@@ -56,10 +56,7 @@
   {
     "name": "Berliner Sechstagerennen",
     "date": {
-      "start": "2025-01-31T05:00:00.000Z",
-      "end": "2025-02-01T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "31. Januar bis 01. Februar 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Sechstagerennen wird von einem Showprogramm begleitet, bei dem zahlreiche Künstler auftreten.",
     "href": "https://www.berlin.de/events/2097425-2229501-berliner-sechstagerennen.html",
@@ -219,17 +216,10 @@
     "onMonth": 0
   },
   {
-    "name": "Food-Events",
+    "name": "Frühling in Berlin",
     "date": {},
-    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
-    "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/",
+    "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
+    "href": "https://www.berlin.de/special/fruehling/",
     "onMonth": 0
   },
   {
@@ -251,6 +241,20 @@
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
     "href": "https://www.berlin.de/events/volksfeste/",
+    "onMonth": 0
+  },
+  {
+    "name": "Food-Events",
+    "date": {},
+    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
+    "href": "https://www.berlin.de/restaurants/food-events/",
+    "onMonth": 0
+  },
+  {
+    "name": "Wochenend-Tipps",
+    "date": {},
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/",
     "onMonth": 0
   },
   {
@@ -540,7 +544,7 @@
       "locale": "de",
       "originalString": "14. und 15. März 2025"
     },
-    "description": "Der Charlottenwalk wieder dazu ein, Galerien in Charlottenburg und Wilmersdorf zu entdecken.",
+    "description": "Der Charlottenwalk lädt wieder dazu ein, Galerien in Charlottenburg und Wilmersdorf zu entdecken.",
     "href": "https://www.berlin.de/events/5803848-2229501-charlottenwalk-galerienrundgang-in-charl.html",
     "onMonth": 2
   },
@@ -609,13 +613,6 @@
     "date": {},
     "description": "Der Internationale Frauentag am 8. März ist ein arbeitsfreier gesetzlicher Feiertag in Berlin: Tipps für einen unterhaltsamen und ereignisreichen Frauentag in der Hauptstadt.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/frauentag/",
-    "onMonth": 2
-  },
-  {
-    "name": "Frühling in Berlin",
-    "date": {},
-    "description": "Frühlingsfeste, Flohmärkte, Biergärten, Open-Air-Veranstaltungen und mehr Tipps für schöne Frühlingstage in Berlin.",
-    "href": "https://www.berlin.de/special/fruehling/",
     "onMonth": 2
   },
   {
@@ -721,15 +718,15 @@
     "onMonth": 2
   },
   {
-    "name": "Kolektif Berlin",
+    "name": "Transform",
     "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2025-03-20T05:00:00.000Z",
+      "end": "2025-03-20T05:00:00.000Z",
       "locale": "de",
-      "originalString": "14. bis 16. März 2025"
+      "originalString": "19. und 20. März 2025"
     },
-    "description": "Auf der Fahrradmesse Kolektif Berlin im Motorwerk Berlin dreht sich alles um Zweiräder und den Lifestyle drum herum.",
-    "href": "https://www.berlin.de/messen/5647199-7918641-kolektif-berlin.html",
+    "description": "Auf der Transform dreht es sich zwei Tage lang darum, wie digitale Visionen in die Realität umgesetzt werden können.",
+    "href": "https://www.berlin.de/messen/7427046-7918641-hubberlin.html",
     "onMonth": 2
   },
   {
@@ -745,15 +742,15 @@
     "onMonth": 2
   },
   {
-    "name": "Transform",
+    "name": "Weinmesse Savoir Vivre",
     "date": {
-      "start": "2025-03-20T05:00:00.000Z",
-      "end": "2025-03-20T05:00:00.000Z",
+      "start": "2025-03-30T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
       "locale": "de",
-      "originalString": "19. und 20. März 2025"
+      "originalString": "29. und 30. März 2025"
     },
-    "description": "Auf der Transform dreht es sich zwei Tage lang darum, wie digitale Visionen in die Realität umgesetzt werden können.",
-    "href": "https://www.berlin.de/messen/7427046-7918641-hubberlin.html",
+    "description": "In der Großen Orangerie am Schloss Charlottenburg können Besucher Weine, Sekt und edle Brände von über 20 Winzern und Händlern probieren.",
+    "href": "https://www.berlin.de/messen/5067478-7918641-weinmesse-savoir-vivre.html",
     "onMonth": 2
   },
   {
@@ -831,6 +828,18 @@
     "onMonth": 3
   },
   {
+    "name": "Nacht der Bibliotheken",
+    "date": {
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "04. April 2025"
+    },
+    "description": "Bibliotheken in ganz Berlin öffnen ihre Türen und laden zu einem abwechslungsreichen Programm mit Workshops, Lesungen und Führungen ein.",
+    "href": "https://www.berlin.de/events/9532102-2229501-nacht-der-bibliotheken.html",
+    "onMonth": 3
+  },
+  {
     "name": "Europäische Tage des Kunsthandwerks",
     "date": {
       "start": "2025-04-04T05:00:00.000Z",
@@ -867,6 +876,18 @@
     "onMonth": 3
   },
   {
+    "name": "Frühlingsfest Marzahn-Hellersdorf",
+    "date": {
+      "start": "2025-04-25T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "25. bis 27. April 2025"
+    },
+    "description": "Das Frühlingsfest Marzahn-Hellersdorf verspricht Spaß und Unterhaltung für die ganze Familie – mit Fahrgeschäften, Spielattraktionen und kulinarischen Highlights.",
+    "href": "https://www.berlin.de/events/9521899-2229501-fruehlingsfest-marzahnhellersdorf-.html",
+    "onMonth": 3
+  },
+  {
     "name": "Oster-Ritterfest",
     "date": {
       "start": "2025-04-19T05:00:00.000Z",
@@ -874,7 +895,7 @@
       "locale": "de",
       "originalString": "19. bis 21. April 2025"
     },
-    "description": "Auf die Besucher der Zitadelle Spandau warten ein historischer Markt, Ritterlager mit Ritterturnieren und eine Nachtfeuershow zu Pferde.",
+    "description": "Beim Oster-Ritterfest auf der Zitadelle Spandau erwartet die Besucher ein historischer Markt, Feuershows und Ritterlager mit Ritterturnieren.",
     "href": "https://www.berlin.de/events/3792023-2229501-oster-ritter-fest-spectaculum.html",
     "onMonth": 3
   },
@@ -888,15 +909,6 @@
     },
     "description": "Mit unzähligen zartrosa Kirschblüten heißen die Gärten der Welt in Marzahn den lang ersehnten Frühling willkommen.",
     "href": "https://www.berlin.de/events/4375689-2229501-kirschbluetenfest-in-den-gaerten-der-wel.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Frühlingsfest im Bahnbetriebswerk Schöneweide",
-    "date": {
-      "originalString": "Termin noch nicht bekannt"
-    },
-    "description": "Bei dem Frühlingsfest der Dampflokfreunde Berlin auf dem Betriebsbahnhof Schöneweide kommen Kinder und Erwachsene auf ihre Kosten.",
-    "href": "https://www.berlin.de/events/3460147-2229501-fruehlingsfest-im-bahnbetriebswerk-schoe.html",
     "onMonth": 3
   },
   {
@@ -952,18 +964,6 @@
     "onMonth": 3
   },
   {
-    "name": "Alfilm - Arabisches Filmfestival",
-    "date": {
-      "start": "2025-04-23T05:00:00.000Z",
-      "end": "2025-04-29T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. bis 29. April 2025"
-    },
-    "description": "Das Arabische Filmfestival «Alfilm» präsentiert Filme aus der arabischen Welt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2133808-2020379-alfilm-arabisches-filmfestival.html",
-    "onMonth": 3
-  },
-  {
     "name": "Achtung Berlin - New Berlin Film Award",
     "date": {
       "start": "2025-04-02T05:00:00.000Z",
@@ -973,6 +973,18 @@
     },
     "description": "Das Filmfestival für neues deutsches Kino aus Berlin und Brandenburg präsentiert eine Woche lang in mehreren Berliner Kinos aktuelle Werke von Berliner und Brandenburger Filmschaffenden.",
     "href": "https://www.berlin.de/kino/filmfestivals/2122932-2020379-achtung-berlin-new-berlin-film-award.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Alfilm - Arabisches Filmfestival",
+    "date": {
+      "start": "2025-04-23T05:00:00.000Z",
+      "end": "2025-04-29T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "23. bis 29. April 2025"
+    },
+    "description": "Das Arabische Filmfestival «Alfilm» präsentiert Filme aus der arabischen Welt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2133808-2020379-alfilm-arabisches-filmfestival.html",
     "onMonth": 3
   },
   {
@@ -988,24 +1000,17 @@
     "onMonth": 3
   },
   {
+    "name": "Nan Goldin: This Will Not End Well",
+    "date": {},
+    "description": "Die Neue Nationalgalerie präsentiert in der oberen Halle Nan Goldin mit der Retrospektive „This Will Not End Well\". Sechs Räume zeigen ihre Werke in Form von Diashows und Filmprojektionen, die mit Ton und Musik unterlegt sind.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/nan-goldin-this-will-not-end-well-0637cb17-0cb2-4b9f-a86a-9519f5c87498/",
+    "onMonth": 3
+  },
+  {
     "name": "Von Odesa nach Berlin",
     "date": {},
     "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
     "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
-    "onMonth": 3
-  },
-  {
-    "name": "Balloon Museum Berlin: Pop Air, Art is inflatable",
-    "date": {},
-    "description": "Der Besuch im Balloon Museum in der Arena Berlin ist wie eine Reise durch überdimensionale, emotionale und immersive Installationen mit unerwarteten Formen, bei denen die Interaktion mit den Besuchern im Mittelpunkt steht.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
-    "onMonth": 3
-  },
-  {
-    "name": "Mark Bradford: Keep Walking",
-    "date": {},
-    "description": "Die Ausstellung in den Rieckhallen im Hamburger Bahnhof zeigt Malerei, Skulptur, Installation und Video zu gesellschaftlichen Themen wie Gewalt und städtisches Leben.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
     "onMonth": 3
   },
   {
@@ -1021,12 +1026,15 @@
     "onMonth": 3
   },
   {
-    "name": "Getränkemarkt Prosit",
+    "name": "Naschmarkt International",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-04-13T05:00:00.000Z",
+      "end": "2025-04-13T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. April 2025"
     },
-    "description": "Der Getränkemarkt zeigt die flüssige Vielfalt handwerklich hergestellter Getränke, die alkoholfrei sind.",
-    "href": "https://www.berlin.de/restaurants/food-events/8741867-5146458-getraenkemarkt.html",
+    "description": "Beim Naschmarkt International in der Markthalle Neun in Kreuzberg wird die Vielfalt süßer Traditionen gefeiert.",
+    "href": "https://www.berlin.de/restaurants/food-events/2097174-5146458-naschmarkt-international.html",
     "onMonth": 3
   },
   {
@@ -1123,7 +1131,10 @@
   {
     "name": "Internationaler Museumstag",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-05-18T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "18. Mai 2025"
     },
     "description": "Seit 1992 wird der Internationale Museumstag von einem jährlich wechselnden Motto begleitet und steht unter der Schirmherrschaft des Präsidenten des Bundesrates.",
     "href": "https://www.berlin.de/events/3225758-2229501-internationaler-museumstag.html",
@@ -1277,6 +1288,18 @@
     "onMonth": 4
   },
   {
+    "name": "Frühlingsfest im Bahnbetriebswerk Schöneweide",
+    "date": {
+      "start": "2025-05-18T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "17. und 18. Mai 2025"
+    },
+    "description": "Bei dem Frühlingsfest der Dampflokfreunde Berlin auf dem Betriebsbahnhof Schöneweide kommen Kinder und Erwachsene auf ihre Kosten.",
+    "href": "https://www.berlin.de/events/3460147-2229501-fruehlingsfest-im-bahnbetriebswerk-schoe.html",
+    "onMonth": 4
+  },
+  {
     "name": "Feenfest im Britzer Garten",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -1366,10 +1389,10 @@
     "onMonth": 4
   },
   {
-    "name": "Göttinnen und Gattinnen: Frauen im antiken Mythos",
+    "name": "Mark Bradford: Keep Walking",
     "date": {},
-    "description": "Monströs wie Medusa, schön wie Aphrodite, treu wie Penelope – viele Frauen der antiken Mythologie sind vor allem durch Stereotype weiblicher Rollenbilder bekannt. Inspiriert von einem Boom aktueller Lesarten der Mythen wirft die Antikensammlung einen...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/goettinnen-und-gattinnen-frauen-im-antiken-mythos-40475477-b5f6-49ff-912f-ea70803ac86a/",
+    "description": "Die Ausstellung in den Rieckhallen im Hamburger Bahnhof zeigt Malerei, Skulptur, Installation und Video zu gesellschaftlichen Themen wie Gewalt und städtisches Leben.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
     "onMonth": 4
   },
   {
@@ -1691,13 +1714,6 @@
     },
     "description": "Auf der Olympia-Regattastrecke in Berlin-Grünau findet der 25. Berlin Dragonboat City Cup statt. Mehr als 70 Teams aus ganz Deutschland treten an.",
     "href": "https://www.berlin.de/events/4445178-2229501-berlin-dragon-boat-city-cup.html",
-    "onMonth": 5
-  },
-  {
-    "name": "Vamos a la playa",
-    "date": {},
-    "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen. Franco war als Sieger aus dem Spanischen Bürgerkrieg (1936-1939)...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-2655d681-77f9-4182-9b4a-202179b15376/",
     "onMonth": 5
   },
   {
@@ -3190,18 +3206,6 @@
     },
     "description": "500 Kurzfilme wählt das Team des Interfilm Kurzfilmfestival Berlin jedes Jahr aus 6000 Einreichungen aus über 120 Ländern aus.",
     "href": "https://www.berlin.de/kino/filmfestivals/2122682-2020379-internationales-kurzfilmfestival-berlin.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Nan Goldin: This Will Not End Well",
-    "date": {
-      "start": "2024-11-23T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. November 2024 bis 6. April 2025"
-    },
-    "description": "Geschichten über Liebe, Intimität, Sucht und Verlust: Die Ausstellung «This Will Not End Well» in der Neuen Nationalgalerie zeigt eine Retrospektive der außergewöhnlichen Fotografin Nan Goldin.",
-    "href": "https://www.berlin.de/ausstellungen/8559936-2739799-nan-goldin-this-will-not-end-well.html",
     "onMonth": 10
   },
   {

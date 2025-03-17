@@ -235,13 +235,6 @@
     "onMonth": 0
   },
   {
-    "name": "River Cruises",
-    "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
-    "onMonth": 0
-  },
-  {
     "name": "Berlin's Districts",
     "date": {},
     "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
@@ -260,6 +253,13 @@
     "date": {},
     "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
     "href": "https://www.berlin.de/en/exhibitions/",
+    "onMonth": 0
+  },
+  {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
     "onMonth": 0
   },
   {
@@ -417,6 +417,13 @@
     "onMonth": 1
   },
   {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 1
+  },
+  {
     "name": "MaerzMusik",
     "date": {
       "start": "2025-03-21T05:00:00.000Z",
@@ -453,24 +460,24 @@
     "onMonth": 2
   },
   {
-    "name": "Opera Festival at the Berlin State Opera",
-    "date": {
-      "start": "2025-04-11T05:00:00.000Z",
-      "end": "2025-04-21T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 11 - 21, 2025"
-    },
-    "description": "The Festival Days at the Berlin State Opera present great music each year around the Easter holidays.",
-    "href": "https://www.berlin.de/en/events/2199237-2842498-opera-festival-days-festtage.en.html",
-    "onMonth": 2
-  },
-  {
     "name": "Charlottenwalk - Gallery Tour in Charlottenburg",
     "date": {
       "originalString": "Date not yet known"
     },
     "description": "This March, the Charlottenwalk invites you to discover art galleries in the district of Charlottenburg-Wilmersdorf.",
     "href": "https://www.berlin.de/en/events/5803848-2842498-charlottenwalk-gallery-tour.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Forecast Festival",
+    "date": {
+      "start": "2025-03-14T05:00:00.000Z",
+      "end": "2025-03-15T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 14 and 15, 2025"
+    },
+    "description": "The Forecast Festival at Radialsystem presents the results of the transdisciplinary, international mentoring program \"Forecast\".",
+    "href": "https://www.berlin.de/en/events/7989452-2842498-forecast-festival.en.html",
     "onMonth": 2
   },
   {
@@ -486,27 +493,15 @@
     "onMonth": 2
   },
   {
-    "name": "Run Around the Müggelturm",
+    "name": "Klavierfest Weißensee",
     "date": {
-      "start": "2025-03-23T05:00:00.000Z",
-      "end": "2025-03-23T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 23, 2025"
-    },
-    "description": "The run around the Müggelturm ushers in the firsts signs of spring in Berlin and attracts many runners with its beautiful route in the midst of nature.",
-    "href": "https://www.berlin.de/en/sports-leisure/running/7186537-7813334-rund-um-den-mueggelturm.en.html",
-    "onMonth": 2
-  },
-  {
-    "name": "Bélaplume Design Market",
-    "date": {
-      "start": "2025-03-16T05:00:00.000Z",
+      "start": "2025-03-14T05:00:00.000Z",
       "end": "2025-03-16T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 16, 2025"
+      "originalString": "March 14 - 16, 2025"
     },
-    "description": "At this art design market, you will find handmade originals by Berlin artists and creators to look at and take home.",
-    "href": "https://www.berlin.de/en/shopping/markets/design-markets/7355036-7981482-belaplume-design-market.en.html",
+    "description": "This year, the piano festival in Berlin-Weißsensee is dedicated to none other than the composer Johann Sebastian Bach.",
+    "href": "https://www.berlin.de/en/events/8708016-2842498-klavierfest-weissensee.en.html",
     "onMonth": 2
   },
   {
@@ -522,15 +517,27 @@
     "onMonth": 2
   },
   {
-    "name": "Final Girls Berlin",
+    "name": "Bélaplume Design Market",
     "date": {
-      "start": "2025-03-05T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
+      "start": "2025-03-16T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 05 - 09, 2025"
+      "originalString": "March 16, 2025"
     },
-    "description": "Where, if not in Berlin, does a feminist, queer and non-binary horror film festival belong? The Final Girls film festival promises dark and daring entertainment.",
-    "href": "https://www.berlin.de/en/events/film-festivals/8701302-7812887-final-girls-berlin.en.html",
+    "description": "At this art design market, you will find handmade originals by Berlin artists and creators to look at and take home.",
+    "href": "https://www.berlin.de/en/shopping/markets/design-markets/7355036-7981482-belaplume-design-market.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Run Around the Müggelturm",
+    "date": {
+      "start": "2025-03-23T05:00:00.000Z",
+      "end": "2025-03-23T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 23, 2025"
+    },
+    "description": "The run around the Müggelturm ushers in the firsts signs of spring in Berlin and attracts many runners with its beautiful route in the midst of nature.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/7186537-7813334-rund-um-den-mueggelturm.en.html",
     "onMonth": 2
   },
   {
@@ -546,31 +553,36 @@
     "onMonth": 2
   },
   {
-    "name": "From Odesa to Berlin",
-    "date": {},
-    "description": "The Gemäldegalerie is showcasing 60 paintings from the Museum of Western and Eastern Art in Odesa, the famous port city in the south of Ukraine that has in recent years been ravaged by war.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/from-odesa-to-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "name": "Vierte Welle Film Festival",
+    "date": {
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 15 and 16, 2025"
+    },
+    "description": "The Vierte Welle Film Festival brings new perspectives to the screen - with short films on diversity, equality and social change.",
+    "href": "https://www.berlin.de/en/events/film-festivals/9527071-7812887-vierte-welle-film-festival.en.html",
     "onMonth": 2
   },
   {
-    "name": "Balloon Museum Berlin: Pop Air, Art is inflatable",
+    "name": "Helmut Newton: Polaroids",
     "date": {},
-    "description": "A journey through oversized, emotional and impressive immersive installations with unexpected forms in which interaction with the visitors takes center stage.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
+    "description": "The technology of the Polaroid camera revolutionised photography. Anybody who has ever used one of these cameras will never forget the smell of the developing emulsion and the fascination inspired by its instant photographs.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/helmut-newton-polaroids-96402c0a-98b8-4287-a726-5c4141d192b6/",
     "onMonth": 2
   },
   {
-    "name": "Mark Bradford: Keep Walking",
+    "name": "The Cosmos of “Der Blaue Reiter”: From Kandinsky to Campendonk",
     "date": {},
-    "description": "Spanning painting, sculpture, installation, and video, the exhibition delves into societal issues such as violence and urban life.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
+    "description": "The Berlin Kupferstichkabinett is home to an impressive collection of modern art, including works by Edvard Munch, Käthe Kollwitz and Ernst Ludwig Kirchner.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/the-cosmos-of-der-blaue-reiter-from-kandinsky-to-campendonk-df3a6107-317b-4fb9-86a8-1d3434355834/",
     "onMonth": 2
   },
   {
-    "name": "Spring in Berlin",
+    "name": "Käthe Kruse: It's All Good Now",
     "date": {},
-    "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
-    "href": "https://www.berlin.de/en/events/spring/",
+    "description": "The artist Käthe Kruse (*1958) has been an integral part of the West Berlin art scene since the early 1980s.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/kaethe-kruse-it-s-all-good-now-9b623fae-52bf-4ded-b814-8656fdcc5355/",
     "onMonth": 2
   },
   {
@@ -578,6 +590,13 @@
     "date": {},
     "description": "International Women's Day on March 8 is a public holiday in Berlin. Tips for an entertaining and eventful Women's Day in the capital.",
     "href": "https://www.berlin.de/en/events/specials/womens-day/",
+    "onMonth": 2
+  },
+  {
+    "name": "Spring in Berlin",
+    "date": {},
+    "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
+    "href": "https://www.berlin.de/en/events/spring/",
     "onMonth": 2
   },
   {
@@ -605,23 +624,28 @@
     "onMonth": 2
   },
   {
-    "name": "Kolektif Berlin",
+    "name": "Savoir Vivre Wine Fair",
     "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2025-03-29T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 14-16, 2025"
+      "originalString": "March 29-30, 2025"
     },
-    "description": "At the Kolektif Berlin bike show at Motorwerk Berlin, everything revolves around two-wheelers, cycling and the lifestyle around the sport.",
-    "href": "https://www.berlin.de/en/trade-fairs/sector/health-sports/5647199-7968912-kolektif-berlin.en.html",
+    "description": "Inside the Great Orangery at Charlottenburg Palace, visitors can sample wines, sparkling wines and fine spirits from more than 20 vintners and merchants.",
+    "href": "https://www.berlin.de/en/trade-fairs/5067478-7918797-savoir-vivre-wine-fair.en.html",
     "onMonth": 2
   },
   {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 2
+    "name": "Opera Festival at the Berlin State Opera",
+    "date": {
+      "start": "2025-04-11T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 11 - 21, 2025"
+    },
+    "description": "The Festival Days at the Berlin State Opera present great music each year around the Easter holidays.",
+    "href": "https://www.berlin.de/en/events/2199237-2842498-opera-festival-days-festtage.en.html",
+    "onMonth": 3
   },
   {
     "name": "European Arts and Crafts Days",
@@ -755,6 +779,18 @@
     "onMonth": 3
   },
   {
+    "name": "Sehsüchte",
+    "date": {
+      "start": "2025-04-23T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 23 - 27, 2025"
+    },
+    "description": "Sehsüchte student film festival: In 2025, the Sehsüchte festival will take place in Potsdam-Babelsberg for the 54th time.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2463798-7812887-sehsuechte.en.html",
+    "onMonth": 3
+  },
+  {
     "name": "Alfilm - Arabic Film Festival",
     "date": {
       "start": "2025-04-23T05:00:00.000Z",
@@ -764,6 +800,27 @@
     },
     "description": "The festival \"Alfilm\" presents the best and newest films from the Arab world.",
     "href": "https://www.berlin.de/en/events/film-festivals/2133808-7812887-alfilm-arabic-film-festival.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "From Odesa to Berlin",
+    "date": {},
+    "description": "The Gemäldegalerie is showcasing 60 paintings from the Museum of Western and Eastern Art in Odesa, the famous port city in the south of Ukraine that has in recent years been ravaged by war.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/from-odesa-to-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "onMonth": 3
+  },
+  {
+    "name": "Balloon Museum Berlin: Pop Air, Art is inflatable",
+    "date": {},
+    "description": "A journey through oversized, emotional and impressive immersive installations with unexpected forms in which interaction with the visitors takes center stage.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
+    "onMonth": 3
+  },
+  {
+    "name": "Mark Bradford: Keep Walking",
+    "date": {},
+    "description": "Spanning painting, sculpture, installation, and video, the exhibition delves into societal issues such as violence and urban life.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
     "onMonth": 3
   },
   {
@@ -1390,9 +1447,12 @@
   {
     "name": "Christopher Street Day 2025",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-07-26T05:00:00.000Z",
+      "end": "2025-07-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 26, 2025"
     },
-    "description": "On Christopher Street Day, hundreds of thousands of people take to the streets to fight for the rights of LGBTQI people with a great parade, colourful floats and lots of music.",
+    "description": "On Christopher Street Day, hundreds of thousands of people take to the streets to fight for the rights of LGBTQ+ people with a great parade, colourful floats and lots of music.",
     "href": "https://www.berlin.de/en/events/2096878-2842498-csd-christopher-street-day.en.html",
     "onMonth": 6
   },
