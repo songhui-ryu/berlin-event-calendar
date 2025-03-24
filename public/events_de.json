@@ -135,15 +135,6 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Sammlungspräsentation",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.mehrzu: Joseph Beuys: Sammlungspräsentation",
-    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
     "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {
       "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
@@ -162,12 +153,21 @@
     "onMonth": 0
   },
   {
+    "name": "Altes Ägypten",
+    "date": {
+      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
+    },
+    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.mehrzu: Altes Ägypten",
+    "href": "https://www.berlin.de/tickets/ausstellungen/altes-aegypten-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
+    "onMonth": 0
+  },
+  {
     "name": "JuBi Berlin",
     "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-15T05:00:00.000Z",
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-17T05:00:00.000Z",
       "locale": "de",
-      "originalString": "15. März 2025"
+      "originalString": "17. Mai 2025"
     },
     "description": "Die Jugendbildungsmesse informiert über die Themen Schüleraustausch, High School-Aufenthalte, Sprachreisen, Au-Pair sowie Praktika im Ausland.",
     "href": "https://www.berlin.de/messen/3485400-7918641-jubi-berlin.html",
@@ -563,10 +563,7 @@
   {
     "name": "Berlin Chocolate Festival",
     "date": {
-      "start": "2025-03-16T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "15. und 16. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Bei diesem zweitägigen Food-Festival tauchen große und kleine Besucherinnen und Besucher in die Welt von Schokolade und Kakao ein.",
     "href": "https://www.berlin.de/restaurants/food-events/8701164-5146458-berlin-chocolate-festival.html",
@@ -599,10 +596,10 @@
   {
     "name": "Bélaplume Design Market",
     "date": {
-      "start": "2025-03-16T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
-      "originalString": "16. März 2025"
+      "originalString": "06. April 2025"
     },
     "description": "Auf dem Kunst-Designmarkt Bélaplume gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
     "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-belaplume-design-market.html",
@@ -720,10 +717,7 @@
   {
     "name": "Transform",
     "date": {
-      "start": "2025-03-20T05:00:00.000Z",
-      "end": "2025-03-20T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "19. und 20. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Transform dreht es sich zwei Tage lang darum, wie digitale Visionen in die Realität umgesetzt werden können.",
     "href": "https://www.berlin.de/messen/7427046-7918641-hubberlin.html",
@@ -761,7 +755,7 @@
       "locale": "de",
       "originalString": "22. und 23. März 2025"
     },
-    "description": "Das Spreewaldmuseum Lübbenau ist zwei Wochen lang Schauplatz der 24. Ostereiermesse.",
+    "description": "Rund um das Ei: Im Spreewaldmuseum Lübbenau findet zwei Tage lang die Ostereiermesse statt.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/7997990-3479097-22-luebbenauer-ostereiermesse.html",
     "onMonth": 2
   },
@@ -816,18 +810,6 @@
     "onMonth": 3
   },
   {
-    "name": "Berliner Stiftungswoche",
-    "date": {
-      "start": "2025-04-01T05:00:00.000Z",
-      "end": "2025-04-11T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "01. bis 11. April 2025"
-    },
-    "description": "Die Stiftungswoche möchte mit verschiedenen Projekten und Workshops das Engagement der Berliner Stiftungen hervorheben.",
-    "href": "https://www.berlin.de/events/4380411-2229501-berliner-stiftungswoche.html",
-    "onMonth": 3
-  },
-  {
     "name": "Nacht der Bibliotheken",
     "date": {
       "start": "2025-04-04T05:00:00.000Z",
@@ -837,6 +819,18 @@
     },
     "description": "Bibliotheken in ganz Berlin öffnen ihre Türen und laden zu einem abwechslungsreichen Programm mit Workshops, Lesungen und Führungen ein.",
     "href": "https://www.berlin.de/events/9532102-2229501-nacht-der-bibliotheken.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Berliner Stiftungswoche",
+    "date": {
+      "start": "2025-04-01T05:00:00.000Z",
+      "end": "2025-04-11T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "01. bis 11. April 2025"
+    },
+    "description": "Die Stiftungswoche möchte mit verschiedenen Projekten und Workshops das Engagement der Berliner Stiftungen hervorheben.",
+    "href": "https://www.berlin.de/events/4380411-2229501-berliner-stiftungswoche.html",
     "onMonth": 3
   },
   {
@@ -909,6 +903,18 @@
     },
     "description": "Mit unzähligen zartrosa Kirschblüten heißen die Gärten der Welt in Marzahn den lang ersehnten Frühling willkommen.",
     "href": "https://www.berlin.de/events/4375689-2229501-kirschbluetenfest-in-den-gaerten-der-wel.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Osterfest Friedenau",
+    "date": {
+      "start": "2025-04-19T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "19. bis 21. April 2025"
+    },
+    "description": "An Ostern verwandelt sich die Schmiljanstraße in Friedenau in eine lebendige Festmeile. Drei Tage lang gibt es Live-Musik, Marktstände und Angebote für Kinder und Familien.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/ostern/9517918-2404530-osterfest-friedenau.html",
     "onMonth": 3
   },
   {
@@ -1000,17 +1006,24 @@
     "onMonth": 3
   },
   {
-    "name": "Nan Goldin: This Will Not End Well",
+    "name": "Yoko Ono: Music of the mind",
     "date": {},
-    "description": "Die Neue Nationalgalerie präsentiert in der oberen Halle Nan Goldin mit der Retrospektive „This Will Not End Well\". Sechs Räume zeigen ihre Werke in Form von Diashows und Filmprojektionen, die mit Ton und Musik unterlegt sind.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/nan-goldin-this-will-not-end-well-0637cb17-0cb2-4b9f-a86a-9519f5c87498/",
+    "description": "Die Ausstellung \"Music of the mind\" im Berliner Gropiusbau würdigt das wegweisende Schaffen der Künstlerin und Aktivistin Yoko Ono.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-music-of-the-mind-c1840b55-f71b-4031-b993-b81731c791ae/",
     "onMonth": 3
   },
   {
-    "name": "Von Odesa nach Berlin",
+    "name": "Tea and Dry Biscuits: 75 Jahre Kolbe Museum",
     "date": {},
-    "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "description": "Die Ausstellung richtet den Blick auf die Inszenierung von Erinnerung und untersucht das Erinnern in seinen unterschiedlichen – privaten wie auch öffentlichen – Formen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/tea-and-dry-biscuits-75-jahre-kolbe-museum-3a32771c-841d-47fa-9585-2325affbde3f/",
+    "onMonth": 3
+  },
+  {
+    "name": "Elegante Blüten",
+    "date": {},
+    "description": "Typische Blüten, Pflanzen oder Vögel signalisieren die aktuelle Jahreszeit, die Kombination mehrerer Motive deren Wandel und das Vergehen der Zeit.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/elegante-blueten-73bbb136-b84a-45b7-817b-10a1a90fc92b/",
     "onMonth": 3
   },
   {
@@ -1038,6 +1051,18 @@
     "onMonth": 3
   },
   {
+    "name": "Asian Streetfood Festival",
+    "date": {
+      "start": "2025-04-27T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "27. April 2025"
+    },
+    "description": "Beim Asian Streetfood Festival auf dem RAW-Gelände entfalten sich die Aromen der asiatischen Küche.",
+    "href": "https://www.berlin.de/restaurants/food-events/8416839-5146458-asian-streetfood-festival.html",
+    "onMonth": 3
+  },
+  {
     "name": "Berliner Comicmesse",
     "date": {
       "start": "2025-04-27T05:00:00.000Z",
@@ -1058,7 +1083,7 @@
       "originalString": "04. und 05. April 2025"
     },
     "description": "Die Messe (Halb)marathon Expo findet zeitgleich zu den großen Sportevents Berliner Halbmarathon und Berlin-Marathon statt.",
-    "href": "https://www.berlin.deundefined",
+    "href": "https://www.berlin.de/messen/62703-7918641-marathon-expo.html",
     "onMonth": 3
   },
   {
@@ -1200,10 +1225,10 @@
   {
     "name": "XJazz - Festival Berlin",
     "date": {
-      "start": "2025-05-12T05:00:00.000Z",
+      "start": "2025-05-14T05:00:00.000Z",
       "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
-      "originalString": "12. bis 18. Mai 2025"
+      "originalString": "14. bis 18. Mai 2025"
     },
     "description": "Das Festival XJazz ist mit 80 Acts das größte Jazzfestival Berlins und möchte mit innovativen Künstlern die Stilgrenzen überschreiten.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/3408143-1912555-xjazz-festival.html",
@@ -1386,6 +1411,13 @@
     "date": {},
     "description": "Die dreieinhalbstündige geführte Radtour lädt zu einer Entdeckungsreise durch den bunten und lebendigen Stadtteil Kreuzberg ein.",
     "href": "https://www.berlin.de/tourismus/fahrradtouren/x/3793620-5413476-fahrradtour-kreuzberg-und-spreeufer.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Von Odesa nach Berlin",
+    "date": {},
+    "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
     "onMonth": 4
   },
   {
@@ -1640,17 +1672,17 @@
     "onMonth": 5
   },
   {
+    "name": "Pfingsten in Berlin",
+    "date": {},
+    "description": "Tipps und Ratgeber für die Pfingstfeiertage 2025 in der Hauptstadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/pfingsten/",
+    "onMonth": 5
+  },
+  {
     "name": "Sommer in Berlin",
     "date": {},
     "description": "Parks, Seen, Freiluftkinos, Strandbars und Open-Air-Veranstaltungen: Um Sommer und Sonne in vollen Zügen zu genießen, verlagern Berliner:innen das Leben kurzerhand nach draußen.",
     "href": "https://www.berlin.de/special/sommer/",
-    "onMonth": 5
-  },
-  {
-    "name": "Freibäder",
-    "date": {},
-    "description": "Vom Wannsee in Zehlendorf bis zum Badeschiff in der Spree: Freibäder, Strandbäder und Sommerbäder in Berlin sorgen bei sommerlicher Hitze für Abkühlung.",
-    "href": "https://www.berlin.de/special/sport-und-fitness/schwimmbad/freibad/",
     "onMonth": 5
   },
   {
@@ -1677,9 +1709,12 @@
   {
     "name": "Spandauer Havelfest",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-05-29T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "29. Mai bis 01. Juni 2025"
     },
-    "description": "Drei Tage, zwei Bühnen, ein Dutzend Live-Bands sowie Fahrgeschäfte und andere Attraktionen werden die Besucher des Spandauer Havelfestes im August begeistern.",
+    "description": "Vier Tage, drei Bühnen, ein Dutzend Live-Bands sowie Fahrgeschäfte und andere Attraktionen werden die Besucher des Spandauer Havelfestes im Frühling begeistern.",
     "href": "https://www.berlin.de/events/3467999-2229501-spandauer-havelfest.html",
     "onMonth": 5
   },
@@ -2162,10 +2197,10 @@
   {
     "name": "Spandauer Altstadtfest",
     "date": {
-      "start": "2024-08-29T05:00:00.000Z",
-      "end": "2024-09-01T05:00:00.000Z",
+      "start": "2025-08-28T05:00:00.000Z",
+      "end": "2025-08-31T05:00:00.000Z",
       "locale": "de",
-      "originalString": "29. August bis 01. September 2024"
+      "originalString": "28. bis 31. August 2025"
     },
     "description": "Der ehemalige Weinsommer Spandau findet seit 2023 unter dem Namen Spandauer Altstadtfest statt.",
     "href": "https://www.berlin.de/events/8392605-2229501-spandauer-altstadtfest.html",
@@ -3206,6 +3241,18 @@
     },
     "description": "500 Kurzfilme wählt das Team des Interfilm Kurzfilmfestival Berlin jedes Jahr aus 6000 Einreichungen aus über 120 Ländern aus.",
     "href": "https://www.berlin.de/kino/filmfestivals/2122682-2020379-internationales-kurzfilmfestival-berlin.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Nan Goldin: This Will Not End Well",
+    "date": {
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "23. November 2024 bis 6. April 2025"
+    },
+    "description": "Geschichten über Liebe, Intimität, Sucht und Verlust: Die Ausstellung «This Will Not End Well» in der Neuen Nationalgalerie zeigt eine Retrospektive der außergewöhnlichen Fotografin Nan Goldin.",
+    "href": "https://www.berlin.de/ausstellungen/8559936-2739799-nan-goldin-this-will-not-end-well.html",
     "onMonth": 10
   },
   {

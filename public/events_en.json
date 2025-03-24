@@ -134,10 +134,10 @@
   {
     "name": "JuBi Berlin",
     "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-15T05:00:00.000Z",
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-17T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 15, 2025"
+      "originalString": "May 17, 2025"
     },
     "description": "The youth education fair JuBi provides information about student exchanges, language trips, au pairs and internships abroad.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/job-career/3485400-7988645-jubi-berlin.en.html",
@@ -165,13 +165,6 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Collection Presentation",
-    "date": {},
-    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
     "name": "Dinosaurs! Age of the Giant Lizards",
     "date": {},
     "description": "The new special exhibition \"Dinosaurs!\" lets you discover dinosaurs from the three geological eras - Triassic, Jurassic and Cretaceous - for the first time. The atar of the exhibition is Berlin's very own T-Rex \"Tristan Otto\".",
@@ -193,6 +186,20 @@
     "onMonth": 0
   },
   {
+    "name": "Joseph Beuys: Collection Presentation",
+    "date": {},
+    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 0
+  },
+  {
+    "name": "Toyin Ojih Odutola",
+    "date": {},
+    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "onMonth": 0
+  },
+  {
     "name": "Berlin Global",
     "date": {},
     "description": "Yesterday, today, tomorrow: much of what happens in Berlin has an impact on the world. And much of what happens in the world has an impact on Berlin.",
@@ -200,52 +207,31 @@
     "onMonth": 0
   },
   {
-    "name": "All Hands On: Basketry",
+    "name": "Cultural Contacts. Living in Europe",
     "date": {},
-    "description": "Basketry is a cultural technique that is thousands of years old, practised worldwide, regionally distinctive and still a handicraft in the truest sense of the word.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/all-hands-on-basketry-46db172f-9ef2-4636-b2fb-7806511fdcce/",
+    "description": "Spread over 700 square metres, the permanent exhibition 'Cultural Contacts. Living in Europe' is the first ever display of a cross-section of all the museum's diverse collections. It examines discussions on social movements and social boundaries. The...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/cultural-contacts-living-in-europe-0683c202-d74d-4c88-920d-cdb67582caa5/",
     "onMonth": 0
   },
   {
-    "name": "Endless Exhibition",
+    "name": "Petrit Halilaj",
     "date": {},
-    "description": "More than 15 installations, sculptures and interventions have been set up in and around the Hamburger Bahnhof since it opened as a museum of contemporary art in 1996.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/endless-exhibition-6548cb64-9d31-43d6-b5e9-56bc4aa7df88/",
+    "description": "Petrit Halilaj will present his first major institutional solo exhibition in Berlin at Hamburger Bahnhof.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/petrit-halilaj-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
     "onMonth": 0
   },
   {
-    "name": "The Second Glance: Women",
+    "name": "Treasures from the Rhine: The Barbarian Treasure of Neupotz",
     "date": {},
-    "description": "“Women” is the second integrated exhibition in the series The Second Glance, and was produced in collaboration with the organisation Frauentreff Olga, a drop-in and counselling centre for drug-using women, trans women, and sex workers.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/the-second-glance-women-66c13608-f172-4496-a9a9-1da38084f0de/",
+    "description": "For many years the sole occupant of the Neues Museum’s Bacchussaal was the Xanten Boy, a Roman bronze statue discovered in the Rhine near Xanten by fishermen in 1858. Now the bronze youth is being joined by a wealth of other exhibits: iron tools and waggon...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/treasures-from-the-rhine-the-barbarian-treasure-of-neupotz-3e51af49-6fb5-4c0f-a015-e5cb3cc22843/",
     "onMonth": 0
   },
   {
-    "name": "Back! Stone Age. Bronze Age. Iron Age",
+    "name": "Sculpture and Painting 13th-18th Century",
     "date": {},
-    "description": "On the upper floor, the 'Museum of Prehistory and Early History' takes visitors on a tour through the oldest eras of human history. With its unique collections on the prehistory and ancient history of Europe and near-lying regions of Asia, the museum...",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/back-stone-age-bronze-age-iron-age-97125fb2-d5f9-426e-b4f4-ed5afe41ac46/",
-    "onMonth": 0
-  },
-  {
-    "name": "The Scharf Collection: Goya – Monet – Degas – Bonnard – Grosse",
-    "date": {},
-    "description": "The Scharf Collection, a private German collection of 19th- and 20th-century French art and contemporary international art, is set to be presented in its entirety for the very first time.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/the-scharf-collection-goya-monet-degas-bonnard-grosse-a3d5811f-54ce-48cd-ae87-63bfb7f0e2b1/",
-    "onMonth": 0
-  },
-  {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/",
-    "onMonth": 0
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
+    "description": "The Skulpturensammlung is one of the largest collections of ancient sculpture in the world and is housed in the Bode-Museum on the Museumsinsel Berlin.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/sculpture-and-painting-13th-18th-century-3f64be57-3355-4399-9f3f-e9b6fc5353c6/",
     "onMonth": 0
   },
   {
@@ -260,6 +246,13 @@
     "date": {},
     "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
     "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 0
+  },
+  {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
     "onMonth": 0
   },
   {
@@ -417,10 +410,10 @@
     "onMonth": 1
   },
   {
-    "name": "River Cruises",
+    "name": "Attractions & Sights",
     "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 1
   },
   {
@@ -483,10 +476,7 @@
   {
     "name": "Berlin Chocolate Festival",
     "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 15 and 16, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "This two-day food festival immerses visitors of all ages in the world of chocolate and cocoa.",
     "href": "https://www.berlin.de/en/events/food-events/8701164-7974318-berlin-chocolate-festival.en.html",
@@ -519,10 +509,10 @@
   {
     "name": "Bélaplume Design Market",
     "date": {
-      "start": "2025-03-16T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 16, 2025"
+      "originalString": "April 06, 2025"
     },
     "description": "At this art design market, you will find handmade originals by Berlin artists and creators to look at and take home.",
     "href": "https://www.berlin.de/en/shopping/markets/design-markets/7355036-7981482-belaplume-design-market.en.html",
@@ -553,15 +543,15 @@
     "onMonth": 2
   },
   {
-    "name": "Vierte Welle Film Festival",
+    "name": "Greek Film Festival",
     "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2025-03-26T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 15 and 16, 2025"
+      "originalString": "March 26 - 30, 2025"
     },
-    "description": "The Vierte Welle Film Festival brings new perspectives to the screen - with short films on diversity, equality and social change.",
-    "href": "https://www.berlin.de/en/events/film-festivals/9527071-7812887-vierte-welle-film-festival.en.html",
+    "description": "The Greek Film Festival wants to bring often still unknown Greek filmmakers into the focus of the German audience.",
+    "href": "https://www.berlin.de/en/events/film-festivals/4222694-7812887-greek-film-festival.en.html",
     "onMonth": 2
   },
   {
@@ -614,10 +604,7 @@
   {
     "name": "Transform",
     "date": {
-      "start": "2025-03-19T05:00:00.000Z",
-      "end": "2025-03-20T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 19 and 20, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "For two days, the Transform will be all about how digital visions can be turned into reality.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/technology/7427046-7968909-hubberlin.en.html",
@@ -689,7 +676,7 @@
       "start": "2025-04-05T05:00:00.000Z",
       "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 05 - 06, 2025"
+      "originalString": "April 05 and 06, 2025"
     },
     "description": "Celebrate \"Hanami\" in Berlin: the Gardens of the World in Marzahn welcome the long-awaited spring with countless pale pink cherry blossoms and an exciting cultural program.",
     "href": "https://www.berlin.de/en/events/4375689-2842498-kirschbluetenfest-in-den-gaerten-der-wel.en.html",
@@ -862,9 +849,12 @@
   {
     "name": "Taste of Africa",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-04-05T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 05 and 06, 2025"
     },
-    "description": "The \"Taste of Africa\" food festival attracts visitors to Sage Beach with the culinary diversity of Africa and accompanying Afrobeats.",
+    "description": "The \"Taste of Africa\" food festival attracts visitors to RAW-Gelände with the culinary diversity of Africa and accompanying Afrobeats.",
     "href": "https://www.berlin.de/en/events/food-events/8113883-7974318-taste-of-africa.en.html",
     "onMonth": 3
   },
@@ -887,6 +877,13 @@
     },
     "description": "The Prosit drinks market showcases a wide variety of artisan drinks. This year, all drinks are completely alcohol-free.",
     "href": "https://www.berlin.de/en/events/food-events/8741867-7974318-prosit-drinks-market.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Berlin's Districts",
+    "date": {},
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
     "onMonth": 3
   },
   {
@@ -970,10 +967,10 @@
   {
     "name": "XJazz Festival Berlin",
     "date": {
-      "start": "2025-05-12T05:00:00.000Z",
+      "start": "2025-05-14T05:00:00.000Z",
       "end": "2025-05-18T05:00:00.000Z",
       "locale": "en",
-      "originalString": "May 12 - 18, 2025"
+      "originalString": "May 14 - 18, 2025"
     },
     "description": "With 80 acts, XJazz is Berlin's largest jazz festival and aims to cross stylistic boundaries with innovative artists.",
     "href": "https://www.berlin.de/en/events/3408143-2842498-xjazz-festival.en.html",
@@ -1327,7 +1324,10 @@
   {
     "name": "Spandau Havelfest",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-05-29T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 29 to June 01, 2025"
     },
     "description": "Three days, two stages, a dozen live music acts as well as amusement rides and other attractions will delight visitors of the Spandauer Havelfest.",
     "href": "https://www.berlin.de/en/tickets/3467999-5459794-spandauer-havelfest.en.html",
@@ -1582,7 +1582,10 @@
   {
     "name": "Kosher Street Food Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-07-06T05:00:00.000Z",
+      "end": "2025-07-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 6, 2025"
     },
     "description": "At the Jewish Community of Berlin's Kosher Street Food Festival, hungry visitors can sample sabich, falafel, Tel Aviv bowls and more.",
     "href": "https://www.berlin.de/en/events/food-events/8274779-7974318-kosher-street-food-festival.en.html",
@@ -1796,7 +1799,10 @@
   {
     "name": "Folk Festival in Altstadt Spandau",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-08-28T05:00:00.000Z",
+      "end": "2025-08-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 28 to 31, 2025"
     },
     "description": "The former Spandau Wine Summer returns to the historic center of the district under the name Spandauer Altstadtfest.",
     "href": "https://www.berlin.de/en/events/folk-festivals-fairs/8392605-7519779-spandauer-altstadtfest.en.html",
