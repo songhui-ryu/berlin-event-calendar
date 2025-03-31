@@ -136,28 +136,22 @@
   },
   {
     "name": "Dinosaurier! Zeitalter der Riesenechsen",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.mehrzu: Dinosaurier! Zeitalter der Riesenechsen",
+    "date": {},
+    "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.",
     "href": "https://www.berlin.de/tickets/ausstellungen/dinosaurier-zeitalter-der-riesenechsen-0797cec2-035c-4851-908d-d2e113eaea48/",
     "onMonth": 0
   },
   {
     "name": "Der zweite Blick: Spielarten der Liebe",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...mehrzu: Der zweite Blick: Spielarten der Liebe",
+    "date": {},
+    "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...",
     "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
     "onMonth": 0
   },
   {
     "name": "Altes Ägypten",
-    "date": {
-      "originalString": "\n            \n                \n                    Ausstellungen\n                \n                            \n        "
-    },
-    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.mehrzu: Altes Ägypten",
+    "date": {},
+    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.",
     "href": "https://www.berlin.de/tickets/ausstellungen/altes-aegypten-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
     "onMonth": 0
   },
@@ -202,9 +196,9 @@
     "onMonth": 0
   },
   {
-    "name": "Event-Highlights im Februar 2025",
+    "name": "Event-Highlights im Februar 2026",
     "date": {},
-    "description": "Die Berlin-Eventvorschau für Februar 2025. Berlinale, Tanzolymp und vieles",
+    "description": "Die Berlin-Eventvorschau für Februar 2026. Berlinale, Tanzolymp und vieles",
     "href": "https://www.berlin.de/events/jahresuebersicht/februar/",
     "onMonth": 0
   },
@@ -213,13 +207,6 @@
     "date": {},
     "description": "Die Berlin-Eventvorschau für März 2025. Maerzmusik, Frühlingsfest, Frauentag, EMOP und vieles",
     "href": "https://www.berlin.de/events/jahresuebersicht/maerz/",
-    "onMonth": 0
-  },
-  {
-    "name": "Frühling in Berlin",
-    "date": {},
-    "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
-    "href": "https://www.berlin.de/special/fruehling/",
     "onMonth": 0
   },
   {
@@ -255,6 +242,13 @@
     "date": {},
     "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
     "href": "https://www.berlin.de/wochenend-tipps/",
+    "onMonth": 0
+  },
+  {
+    "name": "Frühling in Berlin",
+    "date": {},
+    "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
+    "href": "https://www.berlin.de/special/fruehling/",
     "onMonth": 0
   },
   {
@@ -594,15 +588,15 @@
     "onMonth": 2
   },
   {
-    "name": "Bélaplume Design Market",
+    "name": "BeMarket",
     "date": {
       "start": "2025-04-06T05:00:00.000Z",
       "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "06. April 2025"
     },
-    "description": "Auf dem Kunst-Designmarkt Bélaplume gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
-    "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-belaplume-design-market.html",
+    "description": "Auf dem Kunst-Designmarkt BeMarket gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
+    "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-bemarket.html",
     "onMonth": 2
   },
   {
@@ -615,17 +609,14 @@
   {
     "name": "Rund um den Müggelturm",
     "date": {
-      "start": "2025-03-23T05:00:00.000Z",
-      "end": "2025-03-23T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Der Lauf um den Müggelturm läutet die Vorfreude auf den Frühling in Berlin ein und lockt mit schönen Laufstrecken inmitten der Natur.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/7186537-36032-rund-um-den-mueggelturm.html",
     "onMonth": 2
   },
   {
-    "name": "39. Frohnaulauf",
+    "name": "Frohnaulauf",
     "date": {
       "start": "2025-03-30T05:00:00.000Z",
       "end": "2025-03-30T05:00:00.000Z",
@@ -679,18 +670,6 @@
     "onMonth": 2
   },
   {
-    "name": "St Patrick's Filmfestival",
-    "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-17T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "15. bis 17. März 2025"
-    },
-    "description": "Im Babylon Berlin wird der St. Patrick's Day mit irischen Filmen und Live-Musik gefeiert.",
-    "href": "https://www.berlin.de/kino/filmfestivals/9519529-2020379-st-patricks-irish-festival.html",
-    "onMonth": 2
-  },
-  {
     "name": "Griechisches Filmfestival",
     "date": {
       "start": "2025-03-26T05:00:00.000Z",
@@ -703,15 +682,15 @@
     "onMonth": 2
   },
   {
-    "name": "Final Girls Berlin",
+    "name": "St Patrick's Filmfestival",
     "date": {
-      "start": "2025-03-05T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-17T05:00:00.000Z",
       "locale": "de",
-      "originalString": "05. bis 09. März 2025"
+      "originalString": "15. bis 17. März 2025"
     },
-    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
-    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
+    "description": "Im Babylon Berlin wird der St. Patrick's Day mit irischen Filmen und Live-Musik gefeiert.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9519529-2020379-st-patricks-irish-festival.html",
     "onMonth": 2
   },
   {
@@ -726,10 +705,7 @@
   {
     "name": "Jobmesse Berlin",
     "date": {
-      "start": "2025-03-22T05:00:00.000Z",
-      "end": "2025-03-22T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "21. und 22. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Jobmesse im Berliner Olympiastadion können Schulabgänger, Berufseinsteiger und Jobsuchende sich über Ausbildungsmöglichkeiten, Karrierewege und aktuelle Stellenangebote informieren.",
     "href": "https://www.berlin.de/messen/5499669-7918641-jobmesse-berlin.html",
@@ -1106,7 +1082,7 @@
       "locale": "de",
       "originalString": "12. und 13. April 2025"
     },
-    "description": "Zur Tulpenzeit präsentiert sich das holländische Viertel in Potsdam als \"Klein-Amsterdam\" - samt Poffertjes, Käse, Matjes und Tulpen in allen Farben des Regenbogens.",
+    "description": "Zur Tulpenzeit präsentiert sich das holländische Viertel in Potsdam als \"Klein-Amsterdam\" - samt Poffertjes, Käse, Matjes und Tulpen in allen Farben.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4835064-3479097-tulpenfest-in-potsdam.html",
     "onMonth": 3
   },
@@ -1244,6 +1220,18 @@
     "onMonth": 4
   },
   {
+    "name": "StadtLesen am Bebelplatz",
+    "date": {
+      "start": "2025-05-22T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "22. bis 25. Mai 2025"
+    },
+    "description": "StadtLesen verwandelt den Bebelplatz in ein gemütliches Lesewohnzimmer. Über 3000 Bücher aus allen Genres und bequeme Lesemöbel stehen bei freiem Eintritt zum Schmökern bereit.",
+    "href": "https://www.berlin.de/tickets/literatur/tipps/3033131-2916596-stadtlesen-am-bebelplatz.html",
+    "onMonth": 4
+  },
+  {
     "name": "Classic Days Berlin",
     "date": {
       "start": "2025-05-11T05:00:00.000Z",
@@ -1270,13 +1258,32 @@
   {
     "name": "Pictoplasma Festival",
     "date": {
-      "start": "2025-05-07T05:00:00.000Z",
-      "end": "2025-05-11T05:00:00.000Z",
+      "start": "2025-05-01T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "de",
-      "originalString": "07. bis 11. Mai 2025"
+      "originalString": "01. bis 04. Mai 2025"
     },
     "description": "Das Pictoplasma Berlin ist ein Festival über Figurendesign in Kunst und Grafik und bietet Vorträge, Ausstellungen, Filmvorführungen.",
     "href": "https://www.berlin.de/events/3011785-2229501-pictoplasma-festival.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Comic Invasion",
+    "date": {
+      "start": "2025-05-04T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "03. und 04. Mai 2025"
+    },
+    "description": "Alljährlich findet das größte Comicfestival Berlins mit Ausstellung, Büchertischen und Workshops statt.",
+    "href": "https://www.berlin.de/events/3453186-2229501-comic-invasion.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Berliner Europawochen",
+    "date": {},
+    "description": "Der Mai ist traditioneller Europamonat. Bundesweit finden in dieser Zeit die Europawochen statt. Auch in diesem Jahr finden wieder ausgewählte Angebote in allen 12 Berliner Bezirken statt.",
+    "href": "https://www.berlin.de/sen/europa/europa-in-berlin/berliner-europawoche/",
     "onMonth": 4
   },
   {
@@ -1325,21 +1332,27 @@
     "onMonth": 4
   },
   {
-    "name": "Feenfest im Britzer Garten",
+    "name": "Fest für Demokratie und Toleranz",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-17T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "17. Mai 2025"
     },
-    "description": "Ob Fee, Elf oder Ritter: Kleine und große Gäste sind in den Rhododendronhain des Britzer Gartens zum Feenfest mit Spiel und Spaß geladen.",
-    "href": "https://www.berlin.de/events/4413133-2229501-feenfest-im-britzer-garten.html",
+    "description": "Das Bündnis für Demokratie und Toleranz Treptow-Köpenick lädt nunmehr zum 20. Mal zum bunten Demokratiefest.",
+    "href": "https://www.berlin.de/events/8011055-2229501-fest-fuer-demokratie-und-toleranz.html",
     "onMonth": 4
   },
   {
-    "name": "Staakener Volks- und Kinderfest",
+    "name": "Biesdorfer Blütenfest",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "02. bis 04.  Mai 2025"
     },
-    "description": "In der Gartenstadt Staaken findet alljährlich im Mai das Staakener Volks- und Kinderfest statt.",
-    "href": "https://www.berlin.de/events/3045594-2229501-staakener-volks-und-kinderfest.html",
+    "description": "Zwischen blühenden Blumen und historischen Mauern lädt das Biesdorfer Blütenfest zu einem Wochenende voller Musik, Kunst und kulinarischen Leckerbissen ein.",
+    "href": "https://www.berlin.de/events/9537154-2229501-biesdorfer-bluetenfest.html",
     "onMonth": 4
   },
   {
@@ -1388,15 +1401,15 @@
     "onMonth": 4
   },
   {
-    "name": "Run of Spirit",
+    "name": "Berlin Triathlon",
     "date": {
-      "start": "2025-06-09T05:00:00.000Z",
-      "end": "2025-06-09T05:00:00.000Z",
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
       "locale": "de",
-      "originalString": "09. Juni 2025"
+      "originalString": "31. Mai und 01. Juni 2025"
     },
-    "description": "Der Run of Spirit des Evangelische Johannesstift Berlin ist ein gemeinsames Sportereignis für Menschen mit und ohne Handicap.",
-    "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/3473966-36032-run-of-spirit.html",
+    "description": "Zum 19. Mal findet der Berlin Triathlon Ende Mai 2025 mit Start an der Insel der Jugend im Treptower Park in Berlin statt.",
+    "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/4399613-36032-berlin-triathlon.html",
     "onMonth": 4
   },
   {
@@ -1519,6 +1532,18 @@
     "onMonth": 5
   },
   {
+    "name": "Karneval der Kulturen",
+    "date": {
+      "start": "2025-06-06T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "06. bis 09. Juni 2025"
+    },
+    "description": "Beim Karneval der Kulturen präsentiert sich das bunte und multikulturelle Berlin von seiner singenden und tanzenden Seite.",
+    "href": "https://www.berlin.de/events/2092491-2229501-karneval-der-kulturen.html",
+    "onMonth": 5
+  },
+  {
     "name": "Lange Nacht der Wissenschaften",
     "date": {
       "start": "2025-06-28T05:00:00.000Z",
@@ -1545,7 +1570,10 @@
   {
     "name": "Berliner Bücherfest",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-29T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "28. und 29. Juni 2025"
     },
     "description": "Der Berliner Bebelplatz verwandelt sich beim Bücherfest in eine riesige Freiluftbuchhandlung mit umfangreichem Bühnenprogramm.",
     "href": "https://www.berlin.de/events/7970337-2229501-berliner-buecherfest.html",
@@ -1590,28 +1618,22 @@
   {
     "name": "48 Stunden Neukölln",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-27T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "27. bis 29. Juni 2025"
     },
     "description": "Mit ihrem dezentralen, unkuratierten und für professionelle Künstler wie Quereinsteiger offenen Festival- Konzept sind die 48 Stunden Neukölln seit 1999 Vorreiter eines basisdemokratischen Kulturverständnisses.",
     "href": "https://www.berlin.de/events/2508806-2229501-48-stunden-neukoelln.html",
     "onMonth": 5
   },
   {
-    "name": "Theatertreffen der Jugend",
-    "date": {
-      "start": "2025-05-29T05:00:00.000Z",
-      "end": "2025-06-06T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "29. Mai bis 6. Juni 2025"
-    },
-    "description": "Das Theatertreffen der Jugend präsentiert beispielhafte und bemerkenswerte Inszenierungen junger Ensembles, die als Preisträger aus einem bundesweiten Wettbewerb hervorgegangen sind.",
-    "href": "https://www.berlin.de/events/2116856-2229501-theatertreffen-der-jugend.html",
-    "onMonth": 5
-  },
-  {
     "name": "Kunstfest Pankow",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-15T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "14. und 15. Juni 2025"
     },
     "description": "Auf dem Gelände des Schlosspark Schönhausen findet alljährlich das Kunstfest Pankow statt.",
     "href": "https://www.berlin.de/events/5983574-2229501-kunstfest-pankow.html",
@@ -1644,7 +1666,10 @@
   {
     "name": "Tag der Architektur in Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-29T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "28. und 29. Juni 2025"
     },
     "description": "Die Architektenkammer Berlin lädt am letzten Juniwochenende dazu ein, die Baukultur der Hauptstadt zu entdecken.",
     "href": "https://www.berlin.de/events/3107156-2229501-tag-der-architektur-in-berlin.html",
@@ -1653,7 +1678,10 @@
   {
     "name": "Jazzwoche Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-27T05:00:00.000Z",
+      "end": "2025-07-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "27. Juni bis 04. Juli 2025"
     },
     "description": "Mit rund 30 Konzerten an sieben Tagen verwandelt sich Berlin im Juni wieder in die Jazz-Hauptstadt.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/6257890-1912555-jazzwoche-berlin.html",
@@ -1686,21 +1714,24 @@
     "onMonth": 5
   },
   {
-    "name": "Berliner Volksfestsommer",
+    "name": "Berliner Wassersportfest",
     "date": {
-      "start": "2025-07-25T05:00:00.000Z",
-      "end": "2025-08-17T05:00:00.000Z",
+      "start": "2025-06-27T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
       "locale": "de",
-      "originalString": "25. Juli bis 17. August 2025"
+      "originalString": "27. bis 29. Juni 2025"
     },
-    "description": "Zahlreiche Schausteller und vieles mehr locken die Besucher:innen zum Berliner Volksfestsommer, dem ehemaligen Deutsch-Französischen Volksfest, auf den zentralen Festplatz am Kurt-Schumacher-Damm.",
-    "href": "https://www.berlin.de/events/2858022-2229501-deutsch-franzoesisches-volksfest.html",
+    "description": "Das Berliner Wassersportfest findet Anfang Mai in Grünau statt. Neben der Vorstellung der neuesten Wassersportprodukte gibt es auch viel Musik, Show und Unterhaltung.",
+    "href": "https://www.berlin.de/events/3017067-2229501-berliner-wassersportfest.html",
     "onMonth": 5
   },
   {
     "name": "Köpenicker Sommer",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-06-13T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. bis 15. Juni 2025"
     },
     "description": "Der Köpenicker Sommer wird bunt: Auf der Schlossinsel können sich Besucherinnen und Besucher auf Musik und Unterhaltung freuen.",
     "href": "https://www.berlin.de/events/3415964-2229501-koepenicker-sommer.html",
@@ -1716,18 +1747,6 @@
     },
     "description": "Vier Tage, drei Bühnen, ein Dutzend Live-Bands sowie Fahrgeschäfte und andere Attraktionen werden die Besucher des Spandauer Havelfestes im Frühling begeistern.",
     "href": "https://www.berlin.de/events/3467999-2229501-spandauer-havelfest.html",
-    "onMonth": 5
-  },
-  {
-    "name": "Berlin Triathlon",
-    "date": {
-      "start": "2025-06-01T05:00:00.000Z",
-      "end": "2025-06-01T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "31. Mai und 01. Juni 2025"
-    },
-    "description": "Zum 19. Mal findet der Berlin Triathlon Ende Mai 2025 mit Start an der Insel der Jugend im Treptower Park in Berlin statt.",
-    "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/4399613-36032-berlin-triathlon.html",
     "onMonth": 5
   },
   {
@@ -1878,7 +1897,10 @@
   {
     "name": "Tage der offenen Tür an der Universität der Künste",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-07-18T05:00:00.000Z",
+      "end": "2025-07-20T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "18. bis 20. Juli 2025"
     },
     "description": "Jedes Jahr im Sommer öffnet die Universität der Künste zum Abschluss des akademischen Jahres ihre Werkstätten, Ateliers und Probenräume für den beliebten Udk-Rundgang.",
     "href": "https://www.berlin.de/events/5725203-2229501-udk-rundgang-tage-der-offenen-tuer-an-de.html",
@@ -1887,7 +1909,7 @@
   {
     "name": "Botanische Nacht",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "originalString": "Findet 2025 nicht statt"
     },
     "description": "Zur Botanischen Nacht erstrahlen die botanischen Pfade im Lichterglanz, sind bevölkert mit Fabelwesen und es gibt ein Musik- und Unterhaltungsprogramm.",
     "href": "https://www.berlin.de/events/2962619-2229501-botanische-nacht.html",
@@ -1953,7 +1975,10 @@
   {
     "name": "Internationales Drehorgelfest",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-07-04T05:00:00.000Z",
+      "end": "2025-07-06T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "04. bis 06. Juli 2025"
     },
     "description": "Insgesamt werden über 140 Drehorgelspielerinnen und -spieler aus vielen Ländern die Besucher mit ihren Instrumenten unterhalten. Höhepunkt ist jedes Jahr eine große Parade.",
     "href": "https://www.berlin.de/events/3098933-2229501-internationales-drehorgelfest.html",
@@ -1962,7 +1987,10 @@
   {
     "name": "Tegeler Hafenfest",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-07-24T05:00:00.000Z",
+      "end": "2025-07-27T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "24. bis 27. Juli 2025"
     },
     "description": "Das Tegeler Hafenfest in Alt-Tegel entlang der Greenwichpromenade lädt ein zu Live-Musik, Fahrgeschäften und Rummel-Atmosphäre.",
     "href": "https://www.berlin.de/events/5979419-2229501-tegeler-hafenfest.html",
@@ -2017,6 +2045,30 @@
     },
     "description": "Auf dem Handwerker- und Bauernmarkt im Spreewald zeigen Böttcher, Korbflechter und Trachtenstickerinnen ihr Können auf dem Burger Festplatz. Einheimische Bauern bieten ihre Produkte an.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5463336-3479097-spreewaelder-handwerker-und-bauernmarkt.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Sommerdampf in Wittenberge",
+    "date": {
+      "start": "2025-07-06T05:00:00.000Z",
+      "end": "2025-07-06T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "05. und 06. Juli 2025"
+    },
+    "description": "Fahrten mit Dampf- und Diesellokomotiven, Draisinenfahrten und Lokomotivparade: Beim Sommerdampf im historischen Lockschuppen Wittenberge ist viel los.",
+    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5811513-3479097-dampftage-in-wittenberge.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Spreewaldfest in Lübbenau",
+    "date": {
+      "start": "2025-07-04T05:00:00.000Z",
+      "end": "2025-07-06T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "04. bis 06. Juli 2025"
+    },
+    "description": "Kultur, Tradition, Familienfest und Party: Lübbenau lädt im September zum großen Spreewaldfest ein.",
+    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4997122-3479097-spreewaldfest-in-luebben.html",
     "onMonth": 6
   },
   {
@@ -3033,9 +3085,9 @@
     "onMonth": 9
   },
   {
-    "name": "Event-Highlights im Januar 2025 in Berlin",
+    "name": "Event-Highlights im Januar 2026 in Berlin",
     "date": {},
-    "description": "Die Berlin-Eventvorschau für Januar 2025. CTM-Festival, Tanztage, British Shorts, Transmediale und",
+    "description": "Die Berlin-Eventvorschau für Januar 2026. CTM-Festival, Tanztage, British Shorts, Transmediale und",
     "href": "https://www.berlin.de/events/jahresuebersicht/januar/",
     "onMonth": 9
   },
