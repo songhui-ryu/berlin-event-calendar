@@ -107,10 +107,7 @@
   {
     "name": "Stummfilmfestival",
     "date": {
-      "start": "2025-01-17T05:00:00.000Z",
-      "end": "2025-03-22T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "17. Januar bis 22. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim alljährigen Stummfilmfestival kommen große Klassiker auf die Leinwand und werden von einem Live-Orchester vertont.",
     "href": "https://www.berlin.de/kino/filmfestivals/7374398-2020379-stummfilmfestival.html",
@@ -210,13 +207,6 @@
     "onMonth": 0
   },
   {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
-    "onMonth": 0
-  },
-  {
     "name": "Berlin für Kinder",
     "date": {},
     "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
@@ -249,6 +239,13 @@
     "date": {},
     "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
     "href": "https://www.berlin.de/special/fruehling/",
+    "onMonth": 0
+  },
+  {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
     "onMonth": 0
   },
   {
@@ -432,7 +429,10 @@
   {
     "name": "Liebe ist",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-10-26T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "25. und 26. Oktober 2025"
     },
     "description": "Auf der Hochzeitsmesse \"Liebe ist\" finden Paare Ideen und Dienstleister rund um das Thema Hochzeit.",
     "href": "https://www.berlin.de/messen/7300886-7918641-liebe-ist-.html",
@@ -485,10 +485,10 @@
   {
     "name": "MaerzMusik",
     "date": {
-      "start": "2025-03-21T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
+      "start": "2026-03-20T05:00:00.000Z",
+      "end": "2026-03-29T05:00:00.000Z",
       "locale": "de",
-      "originalString": "21. bis 30. März 2025"
+      "originalString": "20. bis 29. März 2026"
     },
     "description": "MaerzMusik, das Festival für aktuelle Musik, verknüpft die vielfältigen Strömungen innerhalb zeitgenössischer Musik zu einem kontrastreichen Panorama mit renommierten Künstler:innen aus aller Welt.",
     "href": "https://www.berlin.de/events/2093872-2229501-maerzmusik.html",
@@ -497,10 +497,7 @@
   {
     "name": "Europäischer Monat der Fotografie (EMOP)",
     "date": {
-      "start": "2025-03-01T05:00:00.000Z",
-      "end": "2025-03-31T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "01. bis 31. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Über 100 teilnehmende Institutionen – darunter Museen, Galerien, Botschaften, Fotoschulen und Projekträume – zeigen in Ausstellungen ein breites Spektrum fotografischer Positionen.",
     "href": "https://www.berlin.de/events/2745416-2229501-europaeischer-monat-der-fotografie-emop.html",
@@ -509,10 +506,7 @@
   {
     "name": "Berlin-Brandenburgische Poetry-Slam-Meisterschaften",
     "date": {
-      "start": "2025-03-19T05:00:00.000Z",
-      "end": "2025-03-22T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "19. bis 22. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Der Höhepunkt des Jahres für alle Slammer. In der Columbiahalle steigt das Finale um die Berlin-Brandenburgische Meisterschaft im Poetry-Slam.",
     "href": "https://www.berlin.de/events/4604309-2229501-berlin-brandenburgische-poetry-slam-meis.html",
@@ -521,10 +515,10 @@
   {
     "name": "Ostpro Berlin",
     "date": {
-      "start": "2025-03-28T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
+      "start": "2025-10-24T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
       "locale": "de",
-      "originalString": "28. bis 30. März 2025"
+      "originalString": "24. bis 26. Oktober 2025"
     },
     "description": "Auf der Verkaufsmesse für Ostprodukte präsentieren über 100 Unternehmen aus den neuen Bundesländern ihre Produkte und Dienstleistungen.",
     "href": "https://www.berlin.de/messen/1618464-7918641-ostpro-berlin.html",
@@ -533,10 +527,10 @@
   {
     "name": "Charlottenwalk",
     "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-15T05:00:00.000Z",
+      "start": "2025-11-29T05:00:00.000Z",
+      "end": "2025-11-29T05:00:00.000Z",
       "locale": "de",
-      "originalString": "14. und 15. März 2025"
+      "originalString": "29. November 2025"
     },
     "description": "Der Charlottenwalk lädt wieder dazu ein, Galerien in Charlottenburg und Wilmersdorf zu entdecken.",
     "href": "https://www.berlin.de/events/5803848-2229501-charlottenwalk-galerienrundgang-in-charl.html",
@@ -545,10 +539,10 @@
   {
     "name": "Forecast Festival",
     "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-15T05:00:00.000Z",
+      "start": "2026-03-21T05:00:00.000Z",
+      "end": "2026-03-21T05:00:00.000Z",
       "locale": "de",
-      "originalString": "14. bis 15. März 2025"
+      "originalString": "20. und 21. März 2026"
     },
     "description": "Das Forecast Festival im Radialsystem zeigt die Ergebnisse des transdisziplinären, internationalen Mentoringprogramms «Forecast».",
     "href": "https://www.berlin.de/events/7989452-2229501-forecast-festival.html",
@@ -566,12 +560,12 @@
   {
     "name": "Klavierfest Weißensee",
     "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2026-03-20T05:00:00.000Z",
+      "end": "2026-03-22T05:00:00.000Z",
       "locale": "de",
-      "originalString": "14. bis 16. März 2025"
+      "originalString": "20. bis 22. März 2026"
     },
-    "description": "In diesem Jahr widmet sich das Weißenseer Klavierfest keinem Geringeren als dem Komponisten Johann Sebastian Bach.",
+    "description": "Auch 2026 findet wieder das Klavierfest Weißensee statt.",
     "href": "https://www.berlin.de/events/8708016-2229501-klavierfest-weissensee.html",
     "onMonth": 2
   },
@@ -618,10 +612,7 @@
   {
     "name": "Frohnaulauf",
     "date": {
-      "start": "2025-03-30T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "30. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Mit Distanzen von fünf und zehn Kilometern, sowie kurzen Strecken für Kinder, ist der Frohnaulauf für die ganze Familie geeignet.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/9443011-36032-39-frohnaulauf.html",
@@ -670,24 +661,18 @@
     "onMonth": 2
   },
   {
-    "name": "Griechisches Filmfestival",
+    "name": "Final Girls Berlin",
     "date": {
-      "start": "2025-03-26T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "26. bis 30. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
-    "description": "Das Griechische Filmfestival möchte das vielfach noch unbekannte griechische Filmschaffen in den Fokus des deutschen Publikums rücken.",
-    "href": "https://www.berlin.de/kino/filmfestivals/4222694-2020379-griechisches-filmfestival.html",
+    "description": "Wo, wenn nicht nach Berlin, gehört ein feministisches, queeres und non-binary Horror-Filmfestival? Das Final Girls verspricht düsteres und gewagtes Entertainment.",
+    "href": "https://www.berlin.de/kino/filmfestivals/8701302-2020379-final-girls-berlin.html",
     "onMonth": 2
   },
   {
     "name": "St Patrick's Filmfestival",
     "date": {
-      "start": "2025-03-15T05:00:00.000Z",
-      "end": "2025-03-17T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "15. bis 17. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Im Babylon Berlin wird der St. Patrick's Day mit irischen Filmen und Live-Musik gefeiert.",
     "href": "https://www.berlin.de/kino/filmfestivals/9519529-2020379-st-patricks-irish-festival.html",
@@ -714,10 +699,7 @@
   {
     "name": "Weinmesse Savoir Vivre",
     "date": {
-      "start": "2025-03-30T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "29. und 30. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "In der Großen Orangerie am Schloss Charlottenburg können Besucher Weine, Sekt und edle Brände von über 20 Winzern und Händlern probieren.",
     "href": "https://www.berlin.de/messen/5067478-7918641-weinmesse-savoir-vivre.html",
@@ -726,10 +708,7 @@
   {
     "name": "Lübbenauer Ostereiermesse",
     "date": {
-      "start": "2025-03-23T05:00:00.000Z",
-      "end": "2025-03-23T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "22. und 23. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Rund um das Ei: Im Spreewaldmuseum Lübbenau findet zwei Tage lang die Ostereiermesse statt.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/7997990-3479097-22-luebbenauer-ostereiermesse.html",
@@ -738,10 +717,7 @@
   {
     "name": "Tag der offenen Töpferei in Brandenburg",
     "date": {
-      "start": "2025-03-09T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "08. und 09. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Zum Tag der offenen Töpferei laden auch zahlreiche Keramikerinnen und Keramiker in Brandenburg dazu ein, ihre Werkstätten, Studios und Ateliers zu besuchen.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4341397-3479097-tag-der-offenen-toepferei-in-brandenburg.html",
@@ -750,10 +726,7 @@
   {
     "name": "Karneval in Cottbus",
     "date": {
-      "start": "2025-03-02T05:00:00.000Z",
-      "end": "2025-03-02T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "02. März 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die Cottbuser Karnevalisten feiern beim Zug der fröhlichen Leute mit fantasievollen Kostümen, aufwendigem Make-up und Konfettiregen die fünfte Jahreszeit.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4322500-3479097-karneval-in-cottbus.html",
@@ -910,10 +883,10 @@
   {
     "name": "Berliner Halbmarathon",
     "date": {
-      "start": "2025-04-06T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
+      "start": "2026-03-29T05:00:00.000Z",
+      "end": "2026-03-29T05:00:00.000Z",
       "locale": "de",
-      "originalString": "06. April 2025"
+      "originalString": "29. März 2026"
     },
     "description": "Der Berliner Halbmarathon ist der Saisonauftakt für Läufer:innen, Inline-Skater:innen, Rollstuhlfahrer:innen und Handbiker:innen.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/1038850-36032-berliner-halbmarathon.html",
@@ -946,6 +919,18 @@
     "onMonth": 3
   },
   {
+    "name": "Sehsüchte",
+    "date": {
+      "start": "2025-04-23T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "23. bis 27. April 2025"
+    },
+    "description": "Studentenfilmfestival Sehsüchte: 2025 findet das Sehsüchte-Festival bereits zum 54. Mal in Potsdam-Babelsberg statt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2463798-2020379-sehsuechte.html",
+    "onMonth": 3
+  },
+  {
     "name": "Achtung Berlin - New Berlin Film Award",
     "date": {
       "start": "2025-04-02T05:00:00.000Z",
@@ -967,18 +952,6 @@
     },
     "description": "Das Arabische Filmfestival «Alfilm» präsentiert Filme aus der arabischen Welt.",
     "href": "https://www.berlin.de/kino/filmfestivals/2133808-2020379-alfilm-arabisches-filmfestival.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Sehsüchte",
-    "date": {
-      "start": "2025-04-23T05:00:00.000Z",
-      "end": "2025-04-27T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. bis 27. April 2025"
-    },
-    "description": "Studentenfilmfestival Sehsüchte: 2025 findet das Sehsüchte-Festival bereits zum 54. Mal in Potsdam-Babelsberg statt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2463798-2020379-sehsuechte.html",
     "onMonth": 3
   },
   {
@@ -1194,7 +1167,7 @@
     "date": {
       "originalString": "Termin noch nicht bestätigt"
     },
-    "description": "Das «Myfest» hat in Berlin-Kreuzberg lange Tradition. Noch ist nicht bekannt, ob das Fest 2025 stattfindet.",
+    "description": "Das «Myfest» hat in Berlin-Kreuzberg lange Tradition. Dieses Jahr findet es nicht statt.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/maifeiertag/2971249-2970764-myfest-berlin.html",
     "onMonth": 4
   },
@@ -1431,13 +1404,6 @@
     "date": {},
     "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
     "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
-    "onMonth": 4
-  },
-  {
-    "name": "Mark Bradford: Keep Walking",
-    "date": {},
-    "description": "Die Ausstellung in den Rieckhallen im Hamburger Bahnhof zeigt Malerei, Skulptur, Installation und Video zu gesellschaftlichen Themen wie Gewalt und städtisches Leben.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
     "onMonth": 4
   },
   {
@@ -2012,6 +1978,13 @@
     },
     "description": "Gemütlichkeit pur verspricht die Hafenmeile im beschaulichen Kladow. Manche Gäste stellen beim Besuch des Spandauer Stadtteils gar in Frage, noch in Berlin zu sein.",
     "href": "https://www.berlin.de/events/8765338-2229501-kladower-hafenfest.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Yoko Ono: Dream Together",
+    "date": {},
+    "description": "Die Ausstellung versammelt Werke aus allen Phasen von Onos bahnbrechender künstlerischer Laufbahn.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-dream-together-78179a9f-c13c-440c-b617-de63d7369757/",
     "onMonth": 6
   },
   {
@@ -3375,7 +3348,10 @@
   {
     "name": "Games Ground",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-11-13T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. bis 16. November 2025"
     },
     "description": "Die Games Ground versteht sich als Gaming-Messe und Festival gleichermaßen.",
     "href": "https://www.berlin.de/messen/8467619-7918641-games-ground.html",

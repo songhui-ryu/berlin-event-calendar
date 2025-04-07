@@ -95,10 +95,7 @@
   {
     "name": "Silent Film Festival",
     "date": {
-      "start": "2025-01-17T05:00:00.000Z",
-      "end": "2025-03-22T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "January 17 - March 22, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "At the annual silent film festival, classics of silent cinema come to the big screen in Berlin accompanied by a live orchestra.",
     "href": "https://www.berlin.de/en/events/film-festivals/7374398-7812887-silent-film-festival.en.html",
@@ -186,6 +183,13 @@
     "onMonth": 0
   },
   {
+    "name": "Delcy Morelos: Madre",
+    "date": {},
+    "description": "Delcy Morelos' first solo exhibition in Germany presents a new, expansive installation at the Hamburger Bahnhof that explores the themes of the earth, indigenous knowledge, regeneration and the connection between nature and humanity.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/delcy-morelos-madre-ebf3de1e-9561-4b92-91b7-15022d7ec6ae/",
+    "onMonth": 0
+  },
+  {
     "name": "Joseph Beuys: Collection Presentation",
     "date": {},
     "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
@@ -228,10 +232,24 @@
     "onMonth": 0
   },
   {
-    "name": "Sculpture and Painting 13th-18th Century",
+    "name": "River Cruises",
     "date": {},
-    "description": "The Skulpturensammlung is one of the largest collections of ancient sculpture in the world and is housed in the Bode-Museum on the Museumsinsel Berlin.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/sculpture-and-painting-13th-18th-century-3f64be57-3355-4399-9f3f-e9b6fc5353c6/",
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin's Districts",
+    "date": {},
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
+    "onMonth": 0
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 0
   },
   {
@@ -239,20 +257,6 @@
     "date": {},
     "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
     "href": "https://www.berlin.de/en/exhibitions/",
-    "onMonth": 0
-  },
-  {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 0
-  },
-  {
-    "name": "River Cruises",
-    "date": {},
-    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
-    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
     "onMonth": 0
   },
   {
@@ -291,12 +295,9 @@
   {
     "name": "Biennale of the Berlin Philharmonic Orchestra",
     "date": {
-      "start": "2025-02-13T05:00:00.000Z",
-      "end": "2025-03-01T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "February 13 - March 01, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "The motto of the 2025 Berlin Philharmonic Biennale is \"Paradise lost? - On the threat to nature\" and focuses on the dangers of climate change and species extinction.",
+    "description": "The motto of the 2025 Berlin Philharmonic Biennale was \"Paradise lost? - On the threat to nature\" and focused on the dangers of climate change and species extinction.",
     "href": "https://www.berlin.de/en/events/7976916-2842498-biennale-berlin-philharmonic-orchestra.en.html",
     "onMonth": 1
   },
@@ -384,7 +385,10 @@
   {
     "name": "Liebe ist",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-10-25T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 25-26, 2025"
     },
     "description": "At this fair, couples will find ideas and service providers on the subject of weddings as well as the latest wedding trends.",
     "href": "https://www.berlin.de/en/trade-fairs/7300886-7918797-liebe-ist.en.html",
@@ -410,12 +414,19 @@
     "onMonth": 1
   },
   {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 1
+  },
+  {
     "name": "MaerzMusik",
     "date": {
-      "start": "2025-03-21T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
+      "start": "2026-03-20T05:00:00.000Z",
+      "end": "2026-03-29T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 21 - 30, 2025"
+      "originalString": "March 20 - 29, 2026"
     },
     "description": "MaerzMusik is a music festival that combines the diverse currents within contemporary music into a panorama rich in contrasts with renowned artists from all over the world.",
     "href": "https://www.berlin.de/en/events/2093872-2842498-maerzmusik.en.html",
@@ -424,46 +435,19 @@
   {
     "name": "European Month of Photography",
     "date": {
-      "start": "2025-03-01T05:00:00.000Z",
-      "end": "2025-03-31T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 01 - 31, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Every other year, more than 100 museums and galleries in Berlin present photographic art at the largest photo festival in Germany, the European Month of Photography.",
     "href": "https://www.berlin.de/en/events/2745416-2842498-european-month-of-photography.en.html",
     "onMonth": 2
   },
   {
-    "name": "Ostpro Berlin",
-    "date": {
-      "start": "2025-03-28T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 28-30, 2025"
-    },
-    "description": "More than 100 companies from the new federal states present their products and services at the sales fair for eastern products.",
-    "href": "https://www.berlin.de/en/trade-fairs/1618464-7918797-ostpro-berlin.en.html",
-    "onMonth": 2
-  },
-  {
-    "name": "Charlottenwalk - Gallery Tour in Charlottenburg",
-    "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-15T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 14 and 15, 2025"
-    },
-    "description": "This March, the Charlottenwalk invites you to discover art galleries in the district of Charlottenburg-Wilmersdorf.",
-    "href": "https://www.berlin.de/en/events/5803848-2842498-charlottenwalk-gallery-tour.en.html",
-    "onMonth": 2
-  },
-  {
     "name": "Forecast Festival",
     "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-15T05:00:00.000Z",
+      "start": "2026-03-20T05:00:00.000Z",
+      "end": "2026-03-21T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 14 and 15, 2025"
+      "originalString": "March 20 and 21, 2026"
     },
     "description": "The Forecast Festival at Radialsystem presents the results of the transdisciplinary, international mentoring program \"Forecast\".",
     "href": "https://www.berlin.de/en/events/7989452-2842498-forecast-festival.en.html",
@@ -481,10 +465,10 @@
   {
     "name": "Klavierfest Weißensee",
     "date": {
-      "start": "2025-03-14T05:00:00.000Z",
-      "end": "2025-03-16T05:00:00.000Z",
+      "start": "2026-03-20T05:00:00.000Z",
+      "end": "2026-03-22T05:00:00.000Z",
       "locale": "en",
-      "originalString": "March 14 - 16, 2025"
+      "originalString": "March 20 - 22, 2026"
     },
     "description": "This year, the piano festival in Berlin-Weißsensee is dedicated to none other than the composer Johann Sebastian Bach.",
     "href": "https://www.berlin.de/en/events/8708016-2842498-klavierfest-weissensee.en.html",
@@ -503,18 +487,6 @@
     "onMonth": 2
   },
   {
-    "name": "BeMarket",
-    "date": {
-      "start": "2025-04-06T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 06, 2025"
-    },
-    "description": "At this art design market, you will find handmade originals by Berlin artists and creators to look at and take home.",
-    "href": "https://www.berlin.de/en/shopping/markets/design-markets/7355036-7981482-bemarket.en.html",
-    "onMonth": 2
-  },
-  {
     "name": "Run Around the Müggelturm",
     "date": {
       "originalString": "Date not yet known"
@@ -526,10 +498,7 @@
   {
     "name": "Greek Film Festival",
     "date": {
-      "start": "2025-03-26T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 26 - 30, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The Greek Film Festival wants to bring often still unknown Greek filmmakers into the focus of the German audience.",
     "href": "https://www.berlin.de/en/events/film-festivals/4222694-7812887-greek-film-festival.en.html",
@@ -538,34 +507,10 @@
   {
     "name": "Final Girls Berlin",
     "date": {
-      "start": "2025-03-05T05:00:00.000Z",
-      "end": "2025-03-09T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 05 - 09, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Where, if not in Berlin, does a feminist, queer and non-binary horror film festival belong? The Final Girls film festival promises dark and daring entertainment.",
     "href": "https://www.berlin.de/en/events/film-festivals/8701302-7812887-final-girls-berlin.en.html",
-    "onMonth": 2
-  },
-  {
-    "name": "Helmut Newton: Polaroids",
-    "date": {},
-    "description": "The technology of the Polaroid camera revolutionised photography. Anybody who has ever used one of these cameras will never forget the smell of the developing emulsion and the fascination inspired by its instant photographs.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/helmut-newton-polaroids-96402c0a-98b8-4287-a726-5c4141d192b6/",
-    "onMonth": 2
-  },
-  {
-    "name": "The Cosmos of “Der Blaue Reiter”: From Kandinsky to Campendonk",
-    "date": {},
-    "description": "The Berlin Kupferstichkabinett is home to an impressive collection of modern art, including works by Edvard Munch, Käthe Kollwitz and Ernst Ludwig Kirchner.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/the-cosmos-of-der-blaue-reiter-from-kandinsky-to-campendonk-df3a6107-317b-4fb9-86a8-1d3434355834/",
-    "onMonth": 2
-  },
-  {
-    "name": "Käthe Kruse: It's All Good Now",
-    "date": {},
-    "description": "The artist Käthe Kruse (*1958) has been an integral part of the West Berlin art scene since the early 1980s.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/kaethe-kruse-it-s-all-good-now-9b623fae-52bf-4ded-b814-8656fdcc5355/",
     "onMonth": 2
   },
   {
@@ -606,10 +551,7 @@
   {
     "name": "Savoir Vivre Wine Fair",
     "date": {
-      "start": "2025-03-29T05:00:00.000Z",
-      "end": "2025-03-30T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 29-30, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Inside the Great Orangery at Charlottenburg Palace, visitors can sample wines, sparkling wines and fine spirits from more than 20 vintners and merchants.",
     "href": "https://www.berlin.de/en/trade-fairs/5067478-7918797-savoir-vivre-wine-fair.en.html",
@@ -716,10 +658,10 @@
   {
     "name": "Berlin Half Marathon",
     "date": {
-      "start": "2025-04-06T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
+      "start": "2026-03-29T05:00:00.000Z",
+      "end": "2026-03-29T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 06, 2025"
+      "originalString": "March 29, 2026"
     },
     "description": "The Berlin Half Marathon is the season opener for runners, walkers, inline skaters, wheelchair users and hand cyclists.",
     "href": "https://www.berlin.de/en/events/1038850-2842498-berlin-half-marathon.en.html",
@@ -755,7 +697,7 @@
       "start": "2025-04-02T05:00:00.000Z",
       "end": "2025-04-09T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 02-09, 2025"
+      "originalString": "April 02 - 09, 2025"
     },
     "description": "This film festival for new German cinema presents current works by Berlin and Brandenburg filmmakers for one week in several Berlin cinemas.",
     "href": "https://www.berlin.de/en/events/film-festivals/2122932-7812887-achtung-berlin-new-berlin-film-award.en.html",
@@ -783,6 +725,18 @@
     },
     "description": "The festival \"Alfilm\" presents the best and newest films from the Arab world.",
     "href": "https://www.berlin.de/en/events/film-festivals/2133808-7812887-alfilm-arabic-film-festival.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "11 mm - International Football Film Festival",
+    "date": {
+      "start": "2025-04-24T05:00:00.000Z",
+      "end": "2025-04-28T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 24 - 28, 2025"
+    },
+    "description": "The festival shows over 60 international feature, documentary and short film productions on the theme of football.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2122631-7812887-11-mm-international-football-film-festiv.en.html",
     "onMonth": 3
   },
   {
@@ -845,10 +799,7 @@
   {
     "name": "Taste of Africa",
     "date": {
-      "start": "2025-04-05T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 05 and 06, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The \"Taste of Africa\" food festival attracts visitors to RAW-Gelände with the culinary diversity of Africa and accompanying Afrobeats.",
     "href": "https://www.berlin.de/en/events/food-events/8113883-7974318-taste-of-africa.en.html",
@@ -950,9 +901,9 @@
   {
     "name": "Myfest",
     "date": {
-      "originalString": "Date not yet confirmed"
+      "originalString": "Will not take place in 2025"
     },
-    "description": "The \"Myfest\" has a long tradition in Berlin-Kreuzberg. It is not yet known whether the festival will take place in 2025.",
+    "description": "The \"Myfest\" has a long tradition in Berlin-Kreuzberg.",
     "href": "https://www.berlin.de/en/events/may-day/2971249-7451616-myfest-berlin.en.html",
     "onMonth": 4
   },
@@ -1132,6 +1083,13 @@
     },
     "description": "The 19th Berlin Triathlon will take place in June 2025 with a start at the Island of Youth in Treptower Park in Berlin.",
     "href": "https://www.berlin.de/en/sports-leisure/running/4399613-7813334-berlin-triathlon.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "The Cosmos of “Der Blaue Reiter”: From Kandinsky to Campendonk",
+    "date": {},
+    "description": "The Berlin Kupferstichkabinett is home to an impressive collection of modern art, including works by Edvard Munch, Käthe Kollwitz and Ernst Ludwig Kirchner.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/the-cosmos-of-der-blaue-reiter-from-kandinsky-to-campendonk-df3a6107-317b-4fb9-86a8-1d3434355834/",
     "onMonth": 4
   },
   {
@@ -1435,20 +1393,6 @@
     "onMonth": 5
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/",
-    "onMonth": 5
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
-    "onMonth": 5
-  },
-  {
     "name": "Lesbian and Gay City Festival",
     "date": {
       "start": "2025-07-19T05:00:00.000Z",
@@ -1592,10 +1536,10 @@
   {
     "name": "Bite Club",
     "date": {
-      "start": "2025-05-10T05:00:00.000Z",
-      "end": "2025-05-10T05:00:00.000Z",
+      "start": "2025-05-25T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
       "locale": "en",
-      "originalString": "May 10, 2025"
+      "originalString": "May 25, 2025"
     },
     "description": "The Bite Club street food market at Arena Berlin invites you to feast and celebrate with international delicacies, cool drinks and good music.",
     "href": "https://www.berlin.de/en/shopping/markets/street-food-markets/3862843-7974330-bite-club.en.html",
@@ -2606,7 +2550,10 @@
   {
     "name": "Games Ground",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-11-13T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 13 - 16, 2025"
     },
     "description": "Games Ground is a trade fair for gaming professionals and a festival for the gaming community in equal measure.",
     "href": "https://www.berlin.de/en/trade-fairs/8467619-7918797-games-ground.en.html",
