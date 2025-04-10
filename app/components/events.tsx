@@ -86,7 +86,7 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
             const duration = endTime.diff(startTime, "day");
 
             parsed.start = startTime.toISOString();
-            parsed.end = endTime.toISOString();
+            parsed.end = endTime.add(1, "day").toISOString(); // fullcalendar's end date is exclusive
             parsed.allDay = duration > 0 ? true : false; // oneday event work as timed event
 
             parsed.color =
