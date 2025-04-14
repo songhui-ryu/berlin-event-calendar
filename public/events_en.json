@@ -197,10 +197,10 @@
     "onMonth": 0
   },
   {
-    "name": "Toyin Ojih Odutola",
+    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
     "date": {},
     "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
     "onMonth": 0
   },
   {
@@ -232,6 +232,20 @@
     "onMonth": 0
   },
   {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
+    "onMonth": 0
+  },
+  {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 0
+  },
+  {
     "name": "River Cruises",
     "date": {},
     "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
@@ -243,20 +257,6 @@
     "date": {},
     "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
     "href": "https://www.berlin.de/en/districts/",
-    "onMonth": 0
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
-    "onMonth": 0
-  },
-  {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
     "onMonth": 0
   },
   {
@@ -414,13 +414,6 @@
     "onMonth": 1
   },
   {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
-    "onMonth": 1
-  },
-  {
     "name": "MaerzMusik",
     "date": {
       "start": "2026-03-20T05:00:00.000Z",
@@ -558,7 +551,7 @@
     "onMonth": 2
   },
   {
-    "name": "Opera Festival at the Berlin State Opera",
+    "name": "Festtage Opera Festival at the Berlin State Opera",
     "date": {
       "start": "2025-04-11T05:00:00.000Z",
       "end": "2025-04-21T05:00:00.000Z",
@@ -775,10 +768,10 @@
   {
     "name": "Paper Positions",
     "date": {
-      "start": "2025-04-04T05:00:00.000Z",
-      "end": "2025-04-05T05:00:00.000Z",
+      "start": "2025-09-18T05:00:00.000Z",
+      "end": "2025-09-20T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 4-5, 2025"
+      "originalString": "September 18-20, 2025"
     },
     "description": "The (Half)marathon Expo is held biannually in spring and fall as a complementary trade show to the Berlin Half Marathon and the Berlin Marathon. This is where the race number distribution for the races takes place.",
     "href": "https://www.berlin.de/en/trade-fairs/62703-7918797-marathon-expo.en.html",
@@ -832,7 +825,7 @@
       "start": "2025-05-02T05:00:00.000Z",
       "end": "2025-05-04T05:00:00.000Z",
       "locale": "en",
-      "originalString": "May 2 - 4, 2025"
+      "originalString": "May 02 - 04, 2025"
     },
     "description": "The Gallery Weekend Berlin is one of the leading events for contemporary art in Germany and invites visitors to take a tour of Berlin's creative scene.",
     "href": "https://www.berlin.de/en/events/2895892-2842498-gallery-weekend-berlin.en.html",
@@ -1114,6 +1107,13 @@
     },
     "description": "This visitor fair presents current products and trends from the gardening and plant sector. Garden lovers can get tips on plant care at workshops and lectures.",
     "href": "https://www.berlin.de/en/trade-fairs/2928096-7918797-gartentraeume-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 4
   },
   {
@@ -2530,7 +2530,7 @@
       "originalString": "November 23, 2024 - April 6, 2025"
     },
     "description": "Stories about love, intimacy, addiction and loss: the exhibition \"This Will Not End Well\" at the Neue Nationalgalerie presents a retrospective of the extraordinary photographer and filmmaker Nan Goldin.",
-    "href": "https://www.berlin.de/en/exhibitions/8559936-5202331-nan-goldin-this-will-not-end-well.en.html",
+    "href": "https://www.berlin.de/en/culture-entertainment/archive/8559936-5437163-nan-goldin-this-will-not-end-well.en.html",
     "onMonth": 10
   },
   {
@@ -2774,10 +2774,10 @@
   {
     "name": "Terraristikbörse Berlin",
     "date": {
-      "start": "2025-04-06T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
+      "start": "2025-07-13T05:00:00.000Z",
+      "end": "2025-07-13T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 6, 2025"
+      "originalString": "July 13, 2025"
     },
     "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
     "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",

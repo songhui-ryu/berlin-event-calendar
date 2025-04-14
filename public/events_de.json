@@ -584,10 +584,10 @@
   {
     "name": "BeMarket",
     "date": {
-      "start": "2025-04-06T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
+      "start": "2025-05-18T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
-      "originalString": "06. April 2025"
+      "originalString": "18. Mai 2025"
     },
     "description": "Auf dem Kunst-Designmarkt BeMarket gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
     "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-bemarket.html",
@@ -1026,10 +1026,10 @@
   {
     "name": "(Halb)marathon Expo",
     "date": {
-      "start": "2025-04-05T05:00:00.000Z",
-      "end": "2025-04-05T05:00:00.000Z",
+      "start": "2025-09-18T05:00:00.000Z",
+      "end": "2025-09-20T05:00:00.000Z",
       "locale": "de",
-      "originalString": "04. und 05. April 2025"
+      "originalString": "18. bis 20. September 2025"
     },
     "description": "Die Messe (Halb)marathon Expo findet zeitgleich zu den großen Sportevents Berliner Halbmarathon und Berlin-Marathon statt.",
     "href": "https://www.berlin.de/messen/62703-7918641-marathon-expo.html",
@@ -1165,7 +1165,7 @@
   {
     "name": "Myfest",
     "date": {
-      "originalString": "Termin noch nicht bestätigt"
+      "originalString": "Findet 2025 nicht statt"
     },
     "description": "Das «Myfest» hat in Berlin-Kreuzberg lange Tradition. Dieses Jahr findet es nicht statt.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/maifeiertag/2971249-2970764-myfest-berlin.html",
@@ -1981,10 +1981,34 @@
     "onMonth": 6
   },
   {
-    "name": "Yoko Ono: Dream Together",
+    "name": "Lygia Clark: Retrospektive",
     "date": {},
-    "description": "Die Ausstellung versammelt Werke aus allen Phasen von Onos bahnbrechender künstlerischer Laufbahn.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-dream-together-78179a9f-c13c-440c-b617-de63d7369757/",
+    "description": "Die Neue Nationalgalerie zeigt ab Mai 2025 die erste Retrospektive der brasilianischen Künstlerin Lygia Clark in Deutschland.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/lygia-clark-retrospektive-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "onMonth": 6
+  },
+  {
+    "name": "YouthCon",
+    "date": {
+      "start": "2025-07-03T05:00:00.000Z",
+      "end": "2025-07-03T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "02. und 03. Juli 2025"
+    },
+    "description": "Auf der YouthCon dreht sich zwei Tage lang alles um Themen wie Nachhaltigkeit, Diversität und Demokratiebildung.",
+    "href": "https://www.berlin.de/messen/7564083-7918641-jugendfestival-youthcon22.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Droidcon Berlin",
+    "date": {
+      "start": "2025-07-02T05:00:00.000Z",
+      "end": "2025-07-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "02. bis 04. Juli 2025"
+    },
+    "description": "Auf der droidcon Berlin treffen sich Android-Experten, um das Betriebssystem weiterzuentwickeln und ein starkes Netzwerk aufzubauen.",
+    "href": "https://www.berlin.de/messen/5695399-7918641-droidcon-berlin.html",
     "onMonth": 6
   },
   {
@@ -2241,6 +2265,13 @@
     "onMonth": 7
   },
   {
+    "name": "Yoko Ono: Dream Together",
+    "date": {},
+    "description": "Die Ausstellung versammelt Werke aus allen Phasen von Onos bahnbrechender künstlerischer Laufbahn.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-dream-together-78179a9f-c13c-440c-b617-de63d7369757/",
+    "onMonth": 7
+  },
+  {
     "name": "British Shorts Summer Edition",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -2315,10 +2346,10 @@
   {
     "name": "Bite Club",
     "date": {
-      "start": "2025-05-10T05:00:00.000Z",
-      "end": "2025-05-10T05:00:00.000Z",
+      "start": "2025-05-25T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
       "locale": "de",
-      "originalString": "10. Mai 2025"
+      "originalString": "25. Mai 2025"
     },
     "description": "Streetfood-Fans aufgepasst: Der Bite Club in der Arena Berlin lädt mit internationalen Köstlichkeiten, kühlen Drinks und guter Musik zum Schlemmen und Feiern ein.",
     "href": "https://www.berlin.de/restaurants/food-events/3862843-5146458-bite-club.html",
@@ -2658,10 +2689,10 @@
     "onMonth": 8
   },
   {
-    "name": "Holy Smokes - Cannabis Convention",
+    "name": "33. Tattoo Convention Berlin",
     "date": {},
-    "description": "",
-    "href": "https://www.berlin.deundefined",
+    "description": "Bereit für Tinte, Talent und Tattoo-Kunst auf höchstem Niveau? Dann sei dabei, wenn sich die internationale Tattoo-Szene zum 33. Mal in Berlin versammelt! Über 300 nationale und internationale Artists zeigen live ihr Können – hautnah und direkt vor Ort....",
+    "href": "https://www.berlin.de/tickets/ausstellungen/33-tattoo-convention-berlin-e0330624-abcd-41ca-a7cf-b9496e8ba88b/",
     "onMonth": 8
   },
   {
@@ -2792,7 +2823,10 @@
   {
     "name": "Cottbuser Töpferfest",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-09-14T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. und 14. September 2025"
     },
     "description": "Beim Töpferfest in Cottbus gibt es Getöpfertes in allen Formen, Farben und Stilrichtungen, Musik, Essen und ein buntes Kinderprogramm.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4989059-3479097-cottbuser-toepferfest.html",
@@ -3277,7 +3311,7 @@
       "originalString": "23. November 2024 bis 6. April 2025"
     },
     "description": "Geschichten über Liebe, Intimität, Sucht und Verlust: Die Ausstellung «This Will Not End Well» in der Neuen Nationalgalerie zeigt eine Retrospektive der außergewöhnlichen Fotografin Nan Goldin.",
-    "href": "https://www.berlin.de/ausstellungen/8559936-2739799-nan-goldin-this-will-not-end-well.html",
+    "href": "https://www.berlin.de/ausstellungen/archiv/8559936-3238788-nan-goldin-this-will-not-end-well.html",
     "onMonth": 10
   },
   {
