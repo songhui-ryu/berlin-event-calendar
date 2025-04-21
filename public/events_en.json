@@ -232,13 +232,6 @@
     "onMonth": 0
   },
   {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/",
-    "onMonth": 0
-  },
-  {
     "name": "Flea Markets",
     "date": {},
     "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
@@ -257,6 +250,13 @@
     "date": {},
     "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
     "href": "https://www.berlin.de/en/districts/",
+    "onMonth": 0
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 0
   },
   {
@@ -551,6 +551,13 @@
     "onMonth": 2
   },
   {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
+    "onMonth": 2
+  },
+  {
     "name": "Festtage Opera Festival at the Berlin State Opera",
     "date": {
       "start": "2025-04-11T05:00:00.000Z",
@@ -637,7 +644,7 @@
   {
     "name": "Easter",
     "date": {},
-    "description": "From carnivals and Easter markets to bonfires and Easter egg hunts: Here are the best events on Easter 2025 in Berlin.",
+    "description": "From carnivals and Easter markets to Easter egg hunts: Here are the best events on Easter 2025 in Berlin.",
     "href": "https://www.berlin.de/en/events/easter/",
     "onMonth": 3
   },
@@ -685,18 +692,6 @@
     "onMonth": 3
   },
   {
-    "name": "Achtung Berlin",
-    "date": {
-      "start": "2025-04-02T05:00:00.000Z",
-      "end": "2025-04-09T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 02 - 09, 2025"
-    },
-    "description": "This film festival for new German cinema presents current works by Berlin and Brandenburg filmmakers for one week in several Berlin cinemas.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2122932-7812887-achtung-berlin-new-berlin-film-award.en.html",
-    "onMonth": 3
-  },
-  {
     "name": "Sehsüchte",
     "date": {
       "start": "2025-04-23T05:00:00.000Z",
@@ -730,6 +725,18 @@
     },
     "description": "The festival shows over 60 international feature, documentary and short film productions on the theme of football.",
     "href": "https://www.berlin.de/en/events/film-festivals/2122631-7812887-11-mm-international-football-film-festiv.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Achtung Berlin",
+    "date": {
+      "start": "2025-04-02T05:00:00.000Z",
+      "end": "2025-04-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 02 - 09, 2025"
+    },
+    "description": "This film festival for new German cinema presents current works by Berlin and Brandenburg filmmakers for one week in several Berlin cinemas.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2122932-7812887-achtung-berlin-new-berlin-film-award.en.html",
     "onMonth": 3
   },
   {
@@ -801,10 +808,7 @@
   {
     "name": "Beachfood Festival",
     "date": {
-      "start": "2025-04-12T05:00:00.000Z",
-      "end": "2025-04-13T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 12 and 13, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The Beachfood Festival at the Wendenschloss lido brings beach vibes and international delicacies to Berlin-Köpenick.",
     "href": "https://www.berlin.de/en/events/food-events/8376378-7974318-beachfood-festival.en.html",
@@ -858,10 +862,10 @@
   {
     "name": "Berlin Design Week",
     "date": {
-      "start": "2025-05-10T05:00:00.000Z",
+      "start": "2025-05-15T05:00:00.000Z",
       "end": "2025-05-18T05:00:00.000Z",
       "locale": "en",
-      "originalString": "May 10 - 18, 2025"
+      "originalString": "May 15 - 18, 2025"
     },
     "description": "Design as a driving force for social and ecological change: Every spring, designers, artists, companies and universities present new ways of thinking and fresh ideas at the Berlin Design Week.",
     "href": "https://www.berlin.de/en/events/6620287-2842498-berlin-design-week.en.html",
@@ -892,15 +896,6 @@
     "onMonth": 4
   },
   {
-    "name": "Myfest",
-    "date": {
-      "originalString": "Will not take place in 2025"
-    },
-    "description": "The \"Myfest\" has a long tradition in Berlin-Kreuzberg.",
-    "href": "https://www.berlin.de/en/events/may-day/2971249-7451616-myfest-berlin.en.html",
-    "onMonth": 4
-  },
-  {
     "name": "XJazz Festival Berlin",
     "date": {
       "start": "2025-05-14T05:00:00.000Z",
@@ -910,27 +905,6 @@
     },
     "description": "With 80 acts, XJazz is Berlin's largest jazz festival and aims to cross stylistic boundaries with innovative artists.",
     "href": "https://www.berlin.de/en/events/3408143-2842498-xjazz-festival.en.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Open Day at the Philharmonie",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "On Sunday, the Berliner Philharmoniker Foundation invites the curious and music lovers to a varied programme in the Philharmonie.",
-    "href": "https://www.berlin.de/en/events/5407980-2842498-open-day-berliner-philharmonie.en.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Classic Days Berlin",
-    "date": {
-      "start": "2025-05-10T05:00:00.000Z",
-      "end": "2025-05-11T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "May 10 and 11, 2025"
-    },
-    "description": "With the presentation of around 2000 historic vehicles, the Classic Days Berlin offer the opportunity to see some of the classics of automotive history.",
-    "href": "https://www.berlin.de/en/events/2902692-2842498-classic-days-berlin.en.html",
     "onMonth": 4
   },
   {
@@ -965,6 +939,13 @@
     "onMonth": 4
   },
   {
+    "name": "May 08: Day of Liberation",
+    "date": {},
+    "description": "Events and memorial sites in Berlin to commemorate the Day of Liberation from National Socialism and the end of the Second World War.",
+    "href": "https://www.berlin.de/en/events/specials/day-of-liberation/",
+    "onMonth": 4
+  },
+  {
     "name": "Father's Day in Berlin",
     "date": {
       "start": "2025-05-29T05:00:00.000Z",
@@ -977,6 +958,20 @@
     "onMonth": 4
   },
   {
+    "name": "Beer Gardens",
+    "date": {},
+    "description": "In the spring and summer months, Berliners are drawn to one of the many beer gardens.",
+    "href": "https://www.berlin.de/en/tourism/insider-tips/beer-gardens/",
+    "onMonth": 4
+  },
+  {
+    "name": "Outdoor Swimming Pools",
+    "date": {},
+    "description": "Whether you're in Wedding, Mariendorf, Neukölln or Charlottenburg, Berlin's public outdoor pools provide refreshment and fun in the summer heat. An overview of outdoor swimming pools in Berlin with addresses, directions and ticket information.",
+    "href": "https://www.berlin.de/en/sports-leisure/swimming-pools/outdoor-pools/",
+    "onMonth": 4
+  },
+  {
     "name": "Steglitzer Woche",
     "date": {
       "start": "2025-05-23T05:00:00.000Z",
@@ -986,15 +981,6 @@
     },
     "description": "Every year in spring, the folk festival Steglitzer Woche invites visitors to enjoy themselves in the green Bäkepark.",
     "href": "https://www.berlin.de/en/events/3484528-2842498-steglitzer-woche.en.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Railway Festival at the Schöneweide Depot",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "The railway festival invites all locomotive fans to get to know the Schöneweide railway depot.",
-    "href": "https://www.berlin.de/en/events/5006532-2842498-railway-festival-at-the-schoeneweide-dep.en.html",
     "onMonth": 4
   },
   {
@@ -1022,12 +1008,15 @@
     "onMonth": 4
   },
   {
-    "name": "Viva Victoria: Neighborhood Festival in Lichtenberg",
+    "name": "Spring Festival at Späth'sche Baumschulen",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 10 and 11, 2025"
     },
-    "description": "The Victoriastadt neighborhood is inviting you to its family and district festival for the 25th time this year. The annual highlight is the wild rubber duck race.",
-    "href": "https://www.berlin.de/en/events/7467849-2842498-viva-victoria-neighborhood-festival-in-l.en.html",
+    "description": "More than 100 exhibitors invite visitors and plant lovers to the spring festival at the Späth'sche Baumschulen tree nurseries in Treptow-Köpenick.",
+    "href": "https://www.berlin.de/en/events/3045821-2842498-spring-festival-spaethsche-baumschulen.en.html",
     "onMonth": 4
   },
   {
@@ -1086,6 +1075,13 @@
     "onMonth": 4
   },
   {
+    "name": "Takehito Koganezawa: One on Two, Two from One",
+    "date": {},
+    "description": "Takehito Koganezawa (b. 1974 Tokyo, Japan) is an artist who makes drawings, videos, installations and performances.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/takehito-koganezawa-one-on-two-two-from-one-3dec20eb-844b-4cad-b7e8-c067aaa9ea23/",
+    "onMonth": 4
+  },
+  {
     "name": "VeloBerlin",
     "date": {
       "start": "2025-05-10T05:00:00.000Z",
@@ -1107,13 +1103,6 @@
     },
     "description": "This visitor fair presents current products and trends from the gardening and plant sector. Garden lovers can get tips on plant care at workshops and lectures.",
     "href": "https://www.berlin.de/en/trade-fairs/2928096-7918797-gartentraeume-berlin.en.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Attractions & Sights",
-    "date": {},
-    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
-    "href": "https://www.berlin.de/en/attractions-and-sights/",
     "onMonth": 4
   },
   {
@@ -1340,13 +1329,6 @@
     "date": {},
     "description": "Parks, lakes, open-air events, beach bars, beer gardens and festivals: To enjoy summer to the fullest, life in Berlin takes place outside during the warmer months.",
     "href": "https://www.berlin.de/en/events/summer/",
-    "onMonth": 5
-  },
-  {
-    "name": "Outdoor Swimming Pools",
-    "date": {},
-    "description": "Whether you're in Wedding, Mariendorf, Neukölln or Charlottenburg, Berlin's public outdoor pools provide refreshment and fun in the summer heat. An overview of outdoor swimming pools in Berlin with addresses, directions and ticket information.",
-    "href": "https://www.berlin.de/en/sports-leisure/swimming-pools/outdoor-pools/",
     "onMonth": 5
   },
   {
@@ -2022,6 +2004,15 @@
     },
     "description": "High Sky, Anubis and more: Expect lots of fun rides at the Berlin Autumn Carvival on the fairground at Kurt-Schumacher-Damm.",
     "href": "https://www.berlin.de/en/events/6279065-2842498-berliner-herbst-rummel.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Railway Festival at the Schöneweide Depot",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The railway festival invites all locomotive fans to get to know the Schöneweide railway depot.",
+    "href": "https://www.berlin.de/en/events/5006532-2842498-railway-festival-at-the-schoeneweide-dep.en.html",
     "onMonth": 8
   },
   {

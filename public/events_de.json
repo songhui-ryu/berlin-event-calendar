@@ -207,6 +207,27 @@
     "onMonth": 0
   },
   {
+    "name": "Frühling in Berlin",
+    "date": {},
+    "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
+    "href": "https://www.berlin.de/special/fruehling/",
+    "onMonth": 0
+  },
+  {
+    "name": "Pfingsten",
+    "date": {},
+    "description": "Das Pfingstwochenende wird in Berlin gebührend gefeiert.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/pfingsten/",
+    "onMonth": 0
+  },
+  {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
+    "onMonth": 0
+  },
+  {
     "name": "Berlin für Kinder",
     "date": {},
     "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
@@ -225,27 +246,6 @@
     "date": {},
     "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
     "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/",
-    "onMonth": 0
-  },
-  {
-    "name": "Frühling in Berlin",
-    "date": {},
-    "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
-    "href": "https://www.berlin.de/special/fruehling/",
-    "onMonth": 0
-  },
-  {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
     "onMonth": 0
   },
   {
@@ -690,7 +690,10 @@
   {
     "name": "Jobmesse Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-10-11T05:00:00.000Z",
+      "end": "2025-10-11T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "10. und 11. Oktober 2025"
     },
     "description": "Auf der Jobmesse im Berliner Olympiastadion können Schulabgänger, Berufseinsteiger und Jobsuchende sich über Ausbildungsmöglichkeiten, Karrierewege und aktuelle Stellenangebote informieren.",
     "href": "https://www.berlin.de/messen/5499669-7918641-jobmesse-berlin.html",
@@ -744,6 +747,13 @@
     "date": {},
     "description": "Die Berlin WelcomeCard bietet als offizielles Touristenticket Rabatte für Attraktionen in Berlin und für 48 Stunden, 72 Stunden oder 5 Tage freie Fahrt mit den öffentlichen Nahverkehrsmitteln.",
     "href": "https://www.berlin.de/tourismus/infos/nahverkehr/1895467-1721041-berlin-welcomecard.html#/",
+    "onMonth": 2
+  },
+  {
+    "name": "Wochenend-Tipps",
+    "date": {},
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/",
     "onMonth": 2
   },
   {
@@ -869,7 +879,7 @@
   {
     "name": "Ostern",
     "date": {},
-    "description": "Rummel, Ostermärkte und Osterfeuer: Die Hauptstadt bietet zahlreiche Veranstaltungen für Groß und Klein, um Ostern in Berlin zu einem großen Vergnügen für die ganze Familie zu machen.",
+    "description": "Rummel, Ostermärkte und Osterferien: Die Hauptstadt bietet zahlreiche Veranstaltungen für Groß und Klein, um Ostern in Berlin zu einem großen Vergnügen für die ganze Familie zu machen.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/ostern/",
     "onMonth": 3
   },
@@ -978,10 +988,7 @@
   {
     "name": "Beachfood Festival",
     "date": {
-      "start": "2025-04-13T05:00:00.000Z",
-      "end": "2025-04-13T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "12. und 13. April 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Beachfood Festival im Strandbad Wendenschloss heißt es wieder Schlemmen am Strand.",
     "href": "https://www.berlin.de/restaurants/food-events/8376378-5146458-beachfood-festival.html",
@@ -990,10 +997,7 @@
   {
     "name": "Naschmarkt International",
     "date": {
-      "start": "2025-04-13T05:00:00.000Z",
-      "end": "2025-04-13T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "13. April 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Naschmarkt International in der Markthalle Neun in Kreuzberg wird die Vielfalt süßer Traditionen gefeiert.",
     "href": "https://www.berlin.de/restaurants/food-events/2097174-5146458-naschmarkt-international.html",
@@ -1019,7 +1023,7 @@
       "locale": "de",
       "originalString": "27. April 2025"
     },
-    "description": "Die Comicmesse ist ein Treffpunkt für Fans, Verlage und Zeichner der grafischen Literatur. Sowohl antiquarische Comics als auch Neuerscheinungen sind auf der Besuchermesse dabei.",
+    "description": "Die Comicmesse ist ein Treffpunkt für Fans, Verleger und Zeichner der grafischen Literatur. Auf der Besuchermesse werden antiquarischen Comics und Neuerscheinungen präsentiert und angeboten.",
     "href": "https://www.berlin.de/messen/3022792-7918641-berliner-comicmesse.html",
     "onMonth": 3
   },
@@ -1129,10 +1133,10 @@
   {
     "name": "Berlin Design Week",
     "date": {
-      "start": "2025-05-10T05:00:00.000Z",
+      "start": "2025-05-15T05:00:00.000Z",
       "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
-      "originalString": "10. bis 18. Mai 2025"
+      "originalString": "15. bis 18. Mai 2025"
     },
     "description": "Die Design Week begreift Design als treibende Kraft für gesellschaftliche und ökologische Veränderungen. Jeden Frühling präsentieren Designer, Künstler, Unternehmen und Universitäten neue Denkansätze und frische Ideen.",
     "href": "https://www.berlin.de/events/6620287-2229501-berlin-design-week.html",
@@ -1163,15 +1167,6 @@
     "onMonth": 4
   },
   {
-    "name": "Myfest",
-    "date": {
-      "originalString": "Findet 2025 nicht statt"
-    },
-    "description": "Das «Myfest» hat in Berlin-Kreuzberg lange Tradition. Dieses Jahr findet es nicht statt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/maifeiertag/2971249-2970764-myfest-berlin.html",
-    "onMonth": 4
-  },
-  {
     "name": "XJazz - Festival Berlin",
     "date": {
       "start": "2025-05-14T05:00:00.000Z",
@@ -1181,15 +1176,6 @@
     },
     "description": "Das Festival XJazz ist mit 80 Acts das größte Jazzfestival Berlins und möchte mit innovativen Künstlern die Stilgrenzen überschreiten.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/3408143-1912555-xjazz-festival.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Tag der offenen Tür in der Philharmonie",
-    "date": {
-      "originalString": "Termin noch nicht bekannt"
-    },
-    "description": "Am Sonntag lädt die Stiftung Berliner Philharmoniker zu einem vielfältigen Programm in die Philharmonie ein.",
-    "href": "https://www.berlin.de/events/5407980-2229501-tag-der-offenen-tuer-in-der-philharmonie.html",
     "onMonth": 4
   },
   {
@@ -1224,7 +1210,7 @@
       "locale": "de",
       "originalString": "10. Mai 2025"
     },
-    "description": "Am Tag der Städtebauförderung werden unter dem Motto «Deine Stadt. Dein Kiez. Dein Tag» die vielfältigen Berliner Projekte in den Kiezen vorgestellt.",
+    "description": "Am Tag der Städtebauförderung werden unter dem Motto «Lebendige Orte, starke Gemeinschaften» die vielfältigen Berliner Projekte in den Kiezen vorgestellt.",
     "href": "https://www.berlin.de/events/8173457-2229501-tag-der-staedtebaufoerderung.html",
     "onMonth": 4
   },
@@ -1253,13 +1239,6 @@
     "onMonth": 4
   },
   {
-    "name": "Berliner Europawochen",
-    "date": {},
-    "description": "Der Mai ist traditioneller Europamonat. Bundesweit finden in dieser Zeit die Europawochen statt. Auch in diesem Jahr finden wieder ausgewählte Angebote in allen 12 Berliner Bezirken statt.",
-    "href": "https://www.berlin.de/sen/europa/europa-in-berlin/berliner-europawoche/",
-    "onMonth": 4
-  },
-  {
     "name": "1. Mai",
     "date": {},
     "description": "Straßenfeste, Partys und Konzerte. Der 1. Mai in Berlin ist ein aufregender Tag. Das Zentrum der Feierlichkeiten rund um den \"Tag der Arbeit\" ist traditionell Kreuzberg.",
@@ -1267,10 +1246,31 @@
     "onMonth": 4
   },
   {
+    "name": "Tag der Befreiung",
+    "date": {},
+    "description": "Veranstaltungen und Gedenkorte in Berlin zum Gedenken an den Tag der Befreiung vom Nationalsozialismus und dem Ende des Zweiten Weltkriegs.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/tag-der-befreiung/",
+    "onMonth": 4
+  },
+  {
+    "name": "Berliner Europawochen",
+    "date": {},
+    "description": "Der Mai ist traditioneller Europamonat. Bundesweit finden in dieser Zeit die Europawochen statt. Auch in diesem Jahr finden wieder ausgewählte Angebote in allen 12 Berliner Bezirken statt.",
+    "href": "https://www.berlin.de/sen/europa/europa-in-berlin/berliner-europawoche/",
+    "onMonth": 4
+  },
+  {
     "name": "Freiluftkinos in Berlin",
     "date": {},
     "description": "Kinogenuss unter freiem Himmel: Von Mai bis September zeigen zahlreiche Open Air-Kinos ein spannendes Programm unter den Sternen.",
     "href": "https://www.berlin.de/kino/freiluftkinos/",
+    "onMonth": 4
+  },
+  {
+    "name": "Freibäder",
+    "date": {},
+    "description": "Vom Wannsee in Zehlendorf bis zum Badeschiff in der Spree: Freibäder, Strandbäder und Sommerbäder in Berlin sorgen bei sommerlicher Hitze für Abkühlung.",
+    "href": "https://www.berlin.de/special/sport-und-fitness/schwimmbad/freibad/",
     "onMonth": 4
   },
   {
@@ -1329,12 +1329,15 @@
     "onMonth": 4
   },
   {
-    "name": "Viva Victoria: Stadtteilfest in Lichtenberg",
+    "name": "Frühlingsfest: Späth'er Frühling",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "10. und 11. Mai 2025"
     },
-    "description": "Die Victoriastadt lädt in diesem Jahr bereits zum 25. Mal zum Familien- und Stadtteilfest ein. Highlight ist jedes Jahr das wilde Schwimmentenrennen.",
-    "href": "https://www.berlin.de/events/7467849-2229501-viva-victoria-stadtteilfest-in-lichtenbe.html",
+    "description": "Über 100 Aussteller laden zum Gärtnerwochenende mitSpaziergang in die Späth'schen Baumschulen in Treptow-Köpenick.",
+    "href": "https://www.berlin.de/events/3045821-2229501-fruehlingsfest-spaether-fruehling.html",
     "onMonth": 4
   },
   {
@@ -1404,6 +1407,13 @@
     "date": {},
     "description": "Die Gemäldegalerie zeigt 60 Gemälde aus dem Museum für Westliche und Östliche Kunst in Odesa (in Anlehnung an die ukrainische Schreibweise), der berühmten, vom Krieg bedrohten Hafenstadt in der Südukraine.",
     "href": "https://www.berlin.de/tickets/ausstellungen/von-odesa-nach-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "onMonth": 4
+  },
+  {
+    "name": "Takehito Koganezawa: Eins auf Zwei, Zwei aus Eins",
+    "date": {},
+    "description": "Takehito Koganezawa ist Zeichner, Video- und Installationskünstler und Performer. Seine konzeptuellen wie experimentellen Arbeiten, in denen er die verschiedenen Medien in Dialog miteinander bringt, kreisen um Fragen der Zeit- und Raumwahrnehmung.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/takehito-koganezawa-eins-auf-zwei-zwei-aus-eins-3dec20eb-844b-4cad-b7e8-c067aaa9ea23/",
     "onMonth": 4
   },
   {
@@ -1493,7 +1503,7 @@
       "locale": "de",
       "originalString": "21. Juni 2025"
     },
-    "description": "Am Tag des Sommeranfangs, dem 21. Juni, feiert Berlin die Fête de la Musique. Auf Bühnen und in vielen Straßen in der ganzen Stadt beteiligen sich Musiker kostenlos an der Feier und bieten ihre Musik dar.",
+    "description": "Am Tag des Sommeranfangs, dem 21. Juni 2025, feiert Berlin zum 30. Mal die Fête de la Musique. Auf Bühnen und in vielen Straßen in der ganzen Stadt beteiligen sich Musiker kostenlos an der Feier und bieten ihre Musik dar.",
     "href": "https://www.berlin.de/events/2102143-2229501-fete-de-la-musique.html",
     "onMonth": 5
   },
@@ -1981,13 +1991,6 @@
     "onMonth": 6
   },
   {
-    "name": "Lygia Clark: Retrospektive",
-    "date": {},
-    "description": "Die Neue Nationalgalerie zeigt ab Mai 2025 die erste Retrospektive der brasilianischen Künstlerin Lygia Clark in Deutschland.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/lygia-clark-retrospektive-dbf26354-0fba-4397-9f6e-624dbccd817d/",
-    "onMonth": 6
-  },
-  {
     "name": "YouthCon",
     "date": {
       "start": "2025-07-03T05:00:00.000Z",
@@ -2265,10 +2268,10 @@
     "onMonth": 7
   },
   {
-    "name": "Yoko Ono: Dream Together",
+    "name": "Fujiko Nakaya: Nebelskulptur im Skulpturengarten",
     "date": {},
-    "description": "Die Ausstellung versammelt Werke aus allen Phasen von Onos bahnbrechender künstlerischer Laufbahn.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-dream-together-78179a9f-c13c-440c-b617-de63d7369757/",
+    "description": "Nakayas Nebelskulpturen überschreiten die traditionellen Grenzen der Bildhauerei, indem sie vorübergehende und grenzenlose Transformationen erschaffen, die das Publikum einbeziehen und der Atmosphäre eine formbare Gestalt verleihen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/fujiko-nakaya-nebelskulptur-im-skulpturengarten-ce3799be-708b-4889-9a49-f216d464ec01/",
     "onMonth": 7
   },
   {
@@ -2689,10 +2692,10 @@
     "onMonth": 8
   },
   {
-    "name": "33. Tattoo Convention Berlin",
+    "name": "Klára Hosnedlová: Embrace",
     "date": {},
-    "description": "Bereit für Tinte, Talent und Tattoo-Kunst auf höchstem Niveau? Dann sei dabei, wenn sich die internationale Tattoo-Szene zum 33. Mal in Berlin versammelt! Über 300 nationale und internationale Artists zeigen live ihr Können – hautnah und direkt vor Ort....",
-    "href": "https://www.berlin.de/tickets/ausstellungen/33-tattoo-convention-berlin-e0330624-abcd-41ca-a7cf-b9496e8ba88b/",
+    "description": "Mit einer monumentalen Installation, die um die Heimat, Utopien und den Alltag in unterschiedlichen politischen Systemen kreist, bespielt Klára Hosnedlová die historische Halle im Hamburger Bahnhof.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/klra-hosnedlov-embrace-f0958a46-f223-45d5-a9a8-654bc5e0477b/",
     "onMonth": 8
   },
   {
