@@ -132,24 +132,24 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Sammlungspräsentation",
-    "date": {},
-    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
-    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
-    "date": {},
-    "description": "Der Hamburger Bahnhof zeigt figurative Zeichnungen von Toyin Ojih Odutola, die Einblicke in das Zusammenspiel von Geschichte und Repräsentation geben.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
-    "onMonth": 0
-  },
-  {
     "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {},
     "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.",
     "href": "https://www.berlin.de/tickets/ausstellungen/dinosaurier-zeitalter-der-riesenechsen-0797cec2-035c-4851-908d-d2e113eaea48/",
+    "onMonth": 0
+  },
+  {
+    "name": "Der zweite Blick: Spielarten der Liebe",
+    "date": {},
+    "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...",
+    "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
+    "onMonth": 0
+  },
+  {
+    "name": "Altes Ägypten",
+    "date": {},
+    "description": "In bislang nie gezeigtem Ausmaß von über 2 500 Exponaten präsentiert sich das Ägyptische Museum und Papyrussammlung im Nordflügel des Neuen Museums über drei Ebenen auf einer Fläche von 3 600 Quadratmetern.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/altes-aegypten-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
     "onMonth": 0
   },
   {
@@ -207,6 +207,27 @@
     "onMonth": 0
   },
   {
+    "name": "Pfingsten",
+    "date": {},
+    "description": "Das Pfingstwochenende wird in Berlin gebührend gefeiert.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/pfingsten/",
+    "onMonth": 0
+  },
+  {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/",
+    "onMonth": 0
+  },
+  {
     "name": "Volksfeste und Straßenfeste",
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
@@ -225,27 +246,6 @@
     "date": {},
     "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
     "href": "https://www.berlin.de/restaurants/food-events/",
-    "onMonth": 0
-  },
-  {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/",
-    "onMonth": 0
-  },
-  {
-    "name": "Frühling in Berlin",
-    "date": {},
-    "description": "Frühlingsfeste, Dampferfahrten, Festivals und",
-    "href": "https://www.berlin.de/special/fruehling/",
-    "onMonth": 0
-  },
-  {
-    "name": "Tag der Nachbarschaft",
-    "date": {},
-    "description": "Ein Hoch auf Nachbarn! Ende Mai findet das Nachbarschaftsfest statt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/tag-der-nachbarschaft/",
     "onMonth": 0
   },
   {
@@ -388,13 +388,6 @@
     "onMonth": 1
   },
   {
-    "name": "A World In Common: Contemporary African Photography",
-    "date": {},
-    "description": "Die Ausstellung im CO Berlin versammelt Werke von mehr als 20 Künstler:innen und verfolgt das Ziel, die Vorstellung von Afrika in der globalen Wahrnehmung neu zu definieren.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/a-world-in-common-contemporary-african-photography-10fbc254-b53b-4fa9-9598-ede501a23ace/",
-    "onMonth": 1
-  },
-  {
     "name": "Ull Hohn: Revisions",
     "date": {},
     "description": "Für Ull Hohn war die Malerei weit mehr als nur ein künstlerisches Medium – sie war ein Feld, in dem Diskurse, malerische Techniken und persönliche Reflexionen ineinandergriffen.",
@@ -480,13 +473,6 @@
     "date": {},
     "description": "Kulturprogramm für Berlin: Events, Feste, Festivals und große Open-Air-Veranstaltungen in Berlin.",
     "href": "https://www.berlin.de/events/",
-    "onMonth": 1
-  },
-  {
-    "name": "Pfingsten",
-    "date": {},
-    "description": "Das Pfingstwochenende wird in Berlin gebührend gefeiert.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/pfingsten/",
     "onMonth": 1
   },
   {
@@ -605,6 +591,13 @@
     "date": {},
     "description": "Der Internationale Frauentag am 8. März ist ein arbeitsfreier gesetzlicher Feiertag in Berlin: Tipps für einen unterhaltsamen und ereignisreichen Frauentag in der Hauptstadt.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/frauentag/",
+    "onMonth": 2
+  },
+  {
+    "name": "Frühling in Berlin",
+    "date": {},
+    "description": "Frühlingsfeste, Flohmärkte, Biergärten, Open-Air-Veranstaltungen und mehr Tipps für schöne Frühlingstage in Berlin.",
+    "href": "https://www.berlin.de/special/fruehling/",
     "onMonth": 2
   },
   {
@@ -757,10 +750,10 @@
     "onMonth": 2
   },
   {
-    "name": "Berlin für Kinder",
+    "name": "Wochenend-Tipps",
     "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/",
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/",
     "onMonth": 2
   },
   {
@@ -794,30 +787,6 @@
     },
     "description": "Die Stiftungswoche möchte mit verschiedenen Projekten und Workshops das Engagement der Berliner Stiftungen hervorheben.",
     "href": "https://www.berlin.de/events/4380411-2229501-berliner-stiftungswoche.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Europäische Tage des Kunsthandwerks",
-    "date": {
-      "start": "2026-03-27T05:00:00.000Z",
-      "end": "2026-03-29T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "27. bis 29. März 2026"
-    },
-    "description": "Die Kunsthandwerker und Designer präsentieren ihre Arbeiten und öffnen ihre Ateliers für Workshops, Modenschauen und Vorträge.",
-    "href": "https://www.berlin.de/events/4302996-2229501-europaeische-tage-des-kunsthandwerks.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Berliner Staudenmarkt",
-    "date": {
-      "start": "2025-09-07T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "06. und 07. September 2025"
-    },
-    "description": "Beim Berliner Staudenmarkt im Frühling können sich Besucherinnen und Besucher mit Pflanzen eindecken.",
-    "href": "https://www.berlin.de/events/4336892-2229501-staudenmarkt-im-botanischen-garten.html",
     "onMonth": 3
   },
   {
@@ -1013,10 +982,10 @@
   {
     "name": "International Cannabis Business Conference",
     "date": {
-      "start": "2025-04-30T05:00:00.000Z",
-      "end": "2025-04-30T05:00:00.000Z",
+      "start": "2026-04-15T05:00:00.000Z",
+      "end": "2026-04-15T05:00:00.000Z",
       "locale": "de",
-      "originalString": "29. und 30. April 2025"
+      "originalString": "14. und 15. April 2026"
     },
     "description": "Auf der Messe ICBC in Berlin treffen sich Industrie, Politik, Medizin und Handel um sich über die neusten Entwicklungen zum medizinischen Cannabis auszutauschen.",
     "href": "https://www.berlin.de/messen/6853438-7918641-international-cannabis-business-conferen.html",
@@ -1025,10 +994,7 @@
   {
     "name": "Tulpenfest in Potsdam",
     "date": {
-      "start": "2025-04-13T05:00:00.000Z",
-      "end": "2025-04-13T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "12. und 13. April 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Zur Tulpenzeit präsentiert sich das holländische Viertel in Potsdam als \"Klein-Amsterdam\" - samt Poffertjes, Käse, Matjes und Tulpen in allen Farben.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4835064-3479097-tulpenfest-in-potsdam.html",
@@ -1037,10 +1003,7 @@
   {
     "name": "Beelitzer Frühlings- und Ostermarkt",
     "date": {
-      "start": "2025-04-13T05:00:00.000Z",
-      "end": "2025-04-13T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "12. und 13. April 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Der Frühlings- und Ostermarkt in Beelitz läutet am Wochenende vor Ostern den Frühling ein.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/7999976-3479097-beelitzer-fruehlings-und-ostermarkt.html",
@@ -1049,10 +1012,7 @@
   {
     "name": "Osterspektakel auf Burg Rabenstein",
     "date": {
-      "start": "2025-04-18T05:00:00.000Z",
-      "end": "2025-04-21T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "18. bis 21. April 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Burg Rabenstein laden Rittersleute über die Ostertage zum großen Osterspektakel.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/8027993-3479097-osterspektakel-auf-burg-rabenstein.html",
@@ -1066,22 +1026,22 @@
     "onMonth": 3
   },
   {
-    "name": "Ab nach draußen!",
+    "name": "Tag der Nachbarschaft",
     "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/",
+    "description": "Ein Hoch auf Nachbarn! Ende Mai findet das Nachbarschaftsfest statt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/tag-der-nachbarschaft/",
     "onMonth": 3
   },
   {
-    "name": "Gallery Weekend Berlin 2025",
+    "name": "Inselfest: 200 Jahre Museumsinsel",
     "date": {
-      "start": "2025-05-02T05:00:00.000Z",
-      "end": "2025-05-04T05:00:00.000Z",
+      "start": "2025-05-30T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
       "locale": "de",
-      "originalString": "02. bis 04. Mai 2025"
+      "originalString": "30. Mai bis 01. Juni 2025"
     },
-    "description": "Das Gallery Weekend Berlin ist eine der führenden Veranstaltungen für zeitgenössische Kunst in Deutschland und lädt zu einem Rundgang durch die Berliner Kreativszene ein.",
-    "href": "https://www.berlin.de/events/2895892-2229501-gallery-weekend-berlin.html",
+    "description": "Die Museumsinsel feiert ihr 200-jähriges Bestehen mit einem großen Festwochenende voller Kunst und Kultur.",
+    "href": "https://www.berlin.de/events/9630421-2229501-inselfest-200-jahre-museumsinsel.html",
     "onMonth": 4
   },
   {
@@ -1109,63 +1069,15 @@
     "onMonth": 4
   },
   {
-    "name": "Berlin Design Week",
+    "name": "Tag der Städtebauförderung",
     "date": {
-      "start": "2025-05-15T05:00:00.000Z",
-      "end": "2025-05-18T05:00:00.000Z",
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-10T05:00:00.000Z",
       "locale": "de",
-      "originalString": "15. bis 18. Mai 2025"
+      "originalString": "10. Mai 2025"
     },
-    "description": "Die Design Week begreift Design als treibende Kraft für gesellschaftliche und ökologische Veränderungen. Jeden Frühling präsentieren Designer, Künstler, Unternehmen und Universitäten neue Denkansätze und frische Ideen.",
-    "href": "https://www.berlin.de/events/6620287-2229501-berlin-design-week.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Re:publica",
-    "date": {
-      "start": "2025-05-26T05:00:00.000Z",
-      "end": "2025-05-28T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "26. bis 28. Mai 2025"
-    },
-    "description": "Auf der Internetkonferenz tauschen Akteure aus der Netzgemeinde, Wissenschaft, Politik und Kultur sich über aktuelle Themen der digitalen Gesellschaft aus.",
-    "href": "https://www.berlin.de/messen/1663128-7918641-republica.html",
-    "onMonth": 4
-  },
-  {
-    "name": "DFB-Pokalfinale in Berlin",
-    "date": {
-      "start": "2025-05-24T05:00:00.000Z",
-      "end": "2025-05-24T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "24. Mai 2025"
-    },
-    "description": "Das Fußball-Highlight des Jahres ist das DFB-Pokal-Endspiel im Berliner Olympiastadion. Alle wichtigen Informationen zum DFB-Pokalfinale 2025.",
-    "href": "https://www.berlin.de/events/36778-2229501-dfb-pokalfinale.html",
-    "onMonth": 4
-  },
-  {
-    "name": "XJazz - Festival Berlin",
-    "date": {
-      "start": "2025-05-14T05:00:00.000Z",
-      "end": "2025-05-18T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "14. bis 18. Mai 2025"
-    },
-    "description": "Das Festival XJazz ist mit 80 Acts das größte Jazzfestival Berlins und möchte mit innovativen Künstlern die Stilgrenzen überschreiten.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/3408143-1912555-xjazz-festival.html",
-    "onMonth": 4
-  },
-  {
-    "name": "StadtLesen am Bebelplatz",
-    "date": {
-      "start": "2025-05-22T05:00:00.000Z",
-      "end": "2025-05-25T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "22. bis 25. Mai 2025"
-    },
-    "description": "StadtLesen verwandelt den Bebelplatz in ein gemütliches Lesewohnzimmer. Über 3000 Bücher aus allen Genres und bequeme Lesemöbel stehen bei freiem Eintritt zum Schmökern bereit.",
-    "href": "https://www.berlin.de/tickets/literatur/tipps/3033131-2916596-stadtlesen-am-bebelplatz.html",
+    "description": "Am Tag der Städtebauförderung werden unter dem Motto «Städtebauförderung bewegt Berlin.» die vielfältigen Berliner Projekte in den Kiezen vorgestellt.",
+    "href": "https://www.berlin.de/events/8173457-2229501-tag-der-staedtebaufoerderung.html",
     "onMonth": 4
   },
   {
@@ -1181,15 +1093,75 @@
     "onMonth": 4
   },
   {
-    "name": "Tag der Städtebauförderung",
+    "name": "XJazz - Festival Berlin",
     "date": {
-      "start": "2025-05-10T05:00:00.000Z",
-      "end": "2025-05-10T05:00:00.000Z",
+      "start": "2025-05-14T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
-      "originalString": "10. Mai 2025"
+      "originalString": "14. bis 18. Mai 2025"
     },
-    "description": "Am Tag der Städtebauförderung werden unter dem Motto «Städtebauförderung bewegt Berlin.» die vielfältigen Berliner Projekte in den Kiezen vorgestellt.",
-    "href": "https://www.berlin.de/events/8173457-2229501-tag-der-staedtebaufoerderung.html",
+    "description": "Das Festival XJazz ist mit 80 Acts das größte Jazzfestival Berlins und möchte mit innovativen Künstlern die Stilgrenzen überschreiten.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/3408143-1912555-xjazz-festival.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Berlin Design Week",
+    "date": {
+      "start": "2025-05-15T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "15. bis 18. Mai 2025"
+    },
+    "description": "Die Design Week begreift Design als treibende Kraft für gesellschaftliche und ökologische Veränderungen. Jeden Frühling präsentieren Designer, Künstler, Unternehmen und Universitäten neue Denkansätze und frische Ideen.",
+    "href": "https://www.berlin.de/events/6620287-2229501-berlin-design-week.html",
+    "onMonth": 4
+  },
+  {
+    "name": "DFB-Pokalfinale in Berlin",
+    "date": {
+      "start": "2025-05-24T05:00:00.000Z",
+      "end": "2025-05-24T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "24. Mai 2025"
+    },
+    "description": "Das Fußball-Highlight des Jahres ist das DFB-Pokal-Endspiel im Berliner Olympiastadion. Alle wichtigen Informationen zum DFB-Pokalfinale 2025.",
+    "href": "https://www.berlin.de/events/36778-2229501-dfb-pokalfinale.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Re:publica",
+    "date": {
+      "start": "2025-05-26T05:00:00.000Z",
+      "end": "2025-05-28T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "26. bis 28. Mai 2025"
+    },
+    "description": "Auf der Internetkonferenz tauschen Akteure aus der Netzgemeinde, Wissenschaft, Politik und Kultur sich über aktuelle Themen der digitalen Gesellschaft aus.",
+    "href": "https://www.berlin.de/messen/1663128-7918641-republica.html",
+    "onMonth": 4
+  },
+  {
+    "name": "StadtLesen am Bebelplatz",
+    "date": {
+      "start": "2025-05-22T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "22. bis 25. Mai 2025"
+    },
+    "description": "StadtLesen verwandelt den Bebelplatz in ein gemütliches Lesewohnzimmer. Über 3000 Bücher aus allen Genres und bequeme Lesemöbel stehen bei freiem Eintritt zum Schmökern bereit.",
+    "href": "https://www.berlin.de/tickets/literatur/tipps/3033131-2916596-stadtlesen-am-bebelplatz.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Gallery Weekend Berlin 2025",
+    "date": {
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "02. bis 04. Mai 2025"
+    },
+    "description": "Das Gallery Weekend Berlin ist eine der führenden Veranstaltungen für zeitgenössische Kunst in Deutschland und lädt zu einem Rundgang durch die Berliner Kreativszene ein.",
+    "href": "https://www.berlin.de/events/2895892-2229501-gallery-weekend-berlin.html",
     "onMonth": 4
   },
   {
@@ -1202,18 +1174,6 @@
     },
     "description": "Das Pictoplasma Berlin ist ein Festival über Figurendesign in Kunst und Grafik und bietet Vorträge, Ausstellungen, Filmvorführungen.",
     "href": "https://www.berlin.de/events/3011785-2229501-pictoplasma-festival.html",
-    "onMonth": 4
-  },
-  {
-    "name": "Inselfest: 200 Jahre Museumsinsel",
-    "date": {
-      "start": "2025-05-30T05:00:00.000Z",
-      "end": "2025-06-01T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "30. Mai bis 01. Juni 2025"
-    },
-    "description": "Die Museumsinsel feiert ihr 200-jähriges Bestehen mit einem großen Festwochenende voller Kunst und Kultur.",
-    "href": "https://www.berlin.de/events/9630421-2229501-inselfest-200-jahre-museumsinsel.html",
     "onMonth": 4
   },
   {
@@ -1397,10 +1357,7 @@
   {
     "name": "Paper Positions",
     "date": {
-      "start": "2025-05-01T05:00:00.000Z",
-      "end": "2025-05-04T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "01. bis 04. Mai 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Zahlreiche ausgewählte internationale Galerien zeigen auf der Berliner Kunstmesse Paper Positions ihre wichtigsten Positionen aus zeitgenössischer und moderner Kunst mit Fokus auf dem Material Papier.",
     "href": "https://www.berlin.de/messen/5215340-7918641-paper-positions.html",
@@ -1712,7 +1669,7 @@
       "originalString": "14. bis 22. Juni 2025"
     },
     "description": "Die internationale Elite im Damen-Tennis kehrt nach Berlin zurück. Die Berlin Tennis Open werden auf der Anlage des LTTC Rot-Weiß ausgetragen.",
-    "href": "https://www.berlin.de/events/5948369-2229501-rasenturnier-berlin-ladies-open.html",
+    "href": "https://www.berlin.de/events/5948369-2229501-rasenturnier-berlin-tennis-open.html",
     "onMonth": 5
   },
   {
@@ -1725,15 +1682,39 @@
     "onMonth": 5
   },
   {
-    "name": "Xposed: Queer Film Festival",
+    "name": "Prevyou",
     "date": {
-      "start": "2025-05-29T05:00:00.000Z",
-      "end": "2025-06-01T05:00:00.000Z",
+      "start": "2025-06-13T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
       "locale": "de",
-      "originalString": "29. Mai bis 01. Juni 2025"
+      "originalString": "13. bis 15. Juni 2025"
     },
-    "description": "Das Filmfestival zeigt Aktuelles und Klassiker queerer Filme, um die Entwicklung des queeren Lebens aufzuzeigen. Das internationale Filmfestival findet 2025 zum 19. Mal statt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2836322-2020379-xposed-queer-film-festival.html",
+    "description": "Das «PrevYou» Festival bietet jungen Filmschaffenden eine Plattform, ihre kreativen Kurzfilme einem breiten Publikum zu präsentieren.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9602296-2020379-prevyou.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Dokumentale",
+    "date": {
+      "start": "2025-06-12T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "12. bis 22. Juni 2025"
+    },
+    "description": "Die Dokumentale präsentiert eine spannende Auswahl an Dokumentarfilmen, Medienprojekten, VR-Erlebnissen und Lesungen.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9537523-2020379-dokumentale-.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Zebra Poetry Filmfestival",
+    "date": {
+      "start": "2025-06-05T05:00:00.000Z",
+      "end": "2025-06-08T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "05. bis 08. Juni 2025"
+    },
+    "description": "Seit 2002 präsentiert das Zebra Poetry Film Festival den aktuellen Stand eines dynamischen Kurzfilmgenres zwischen Poesie, Film und Neuen Medien.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2133953-2020379-zebra-poetry-filmfestival.html",
     "onMonth": 5
   },
   {
@@ -2401,6 +2382,18 @@
     "onMonth": 8
   },
   {
+    "name": "Berliner Staudenmarkt",
+    "date": {
+      "start": "2025-09-07T05:00:00.000Z",
+      "end": "2025-09-07T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "06. und 07. September 2025"
+    },
+    "description": "Beim Berliner Staudenmarkt im Frühling können sich Besucherinnen und Besucher mit Pflanzen eindecken.",
+    "href": "https://www.berlin.de/events/4336892-2229501-staudenmarkt-im-botanischen-garten.html",
+    "onMonth": 8
+  },
+  {
     "name": "Berlin Biennale",
     "date": {
       "start": "2025-06-14T05:00:00.000Z",
@@ -2550,13 +2543,13 @@
   {
     "name": "Berliner Demokratietag",
     "date": {
-      "start": "2024-09-15T05:00:00.000Z",
-      "end": "2024-09-15T05:00:00.000Z",
+      "start": "2025-09-15T05:00:00.000Z",
+      "end": "2025-09-15T05:00:00.000Z",
       "locale": "de",
-      "originalString": "15. September 2024"
+      "originalString": "15. September 2025"
     },
     "description": "Am Internationalen Tag der Demokratie können Berlinerinnen und Berliner das gemeinsame Engagement für eine lebendige Demokratie feiern.",
-    "href": "https://www.berlin.de/kultur-und-tickets/archiv/9062784-2805649-berliner-demokratietag.html",
+    "href": "https://www.berlin.de/events/9062784-2229501-berliner-demokratietag.html",
     "onMonth": 8
   },
   {
@@ -3013,18 +3006,6 @@
     "onMonth": 9
   },
   {
-    "name": "Zebra Poetry Filmfestival",
-    "date": {
-      "start": "2025-06-05T05:00:00.000Z",
-      "end": "2025-06-08T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "05. bis 08. Juni 2025"
-    },
-    "description": "Seit 2002 präsentiert das Zebra Poetry Film Festival den aktuellen Stand eines dynamischen Kurzfilmgenres zwischen Poesie, Film und Neuen Medien.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2133953-2020379-zebra-poetry-filmfestival.html",
-    "onMonth": 9
-  },
-  {
     "name": "FrauenWelten",
     "date": {
       "start": "2025-10-29T05:00:00.000Z",
@@ -3043,6 +3024,15 @@
     },
     "description": "Beim Punkfilmfest werden unter dem Motto «Too Drunk to Watch» Filme gezeigt, die sich mit Punk, Anarchie und Widerstand befassen.",
     "href": "https://www.berlin.de/kino/filmfestivals/7742361-2020379-punkfilmfest.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Hive Film Days",
+    "date": {
+      "originalString": "Termin noch nicht bekannt"
+    },
+    "description": "Die International Short Film Days finden in diesem Jahr zum fünften Mal statt und zelebrieren die Diversität.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7742157-2020379-hive-film-days.html",
     "onMonth": 9
   },
   {
@@ -3315,13 +3305,6 @@
     "onMonth": 10
   },
   {
-    "name": "Andrea Pichl: Wertewirtschaft",
-    "date": {},
-    "description": "Für die Ausstellung konzipiert Andrea Pichl eine architektonische Installation, die sich mit dem ökonomischen Transfer zwischen West- und Ostdeutschland sowie der Transformation nach 1989 befasst.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/andrea-pichl-wertewirtschaft-27fe828a-73c5-41b9-aae1-bb7d138e0b16/",
-    "onMonth": 10
-  },
-  {
     "name": "After Images",
     "date": {},
     "description": "Die Gruppenausstellung \"After Images\" der Julia Stoschek Foundation beschäftigt sich mit einer Neujustierung des Verhältnisses zur zeitgenössischen Bildkultur.",
@@ -3530,13 +3513,6 @@
     "date": {},
     "description": "Der Hamburger Bahnhof widmetder türkischen Malerin und Opernsängerin Semiha Berksoy eine große Retrospektive im Ostflügel des Museums.",
     "href": "https://www.berlin.de/tickets/ausstellungen/semiha-berksoy-retrospektive-4a2e84a4-183c-41b3-bade-1b8b9d954d95/",
-    "onMonth": 11
-  },
-  {
-    "name": "Böse Blumen",
-    "date": {},
-    "description": "Ausgehend von Odilon Redons Kohlezeichnung „Fleur du mal“, unternimmt die Ausstellung einen Streifzug durch die Kunst der beginnenden Moderne bis hin zu zeitgenössischen Werken und beleuchtet den Einfluss des berühmten gleichnamigen Gedichtband von Charles...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/boese-blumen-f3fe29cb-544e-4de3-bb70-2e6421d7b5f6/",
     "onMonth": 11
   },
   {

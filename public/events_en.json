@@ -162,20 +162,6 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Collection Presentation",
-    "date": {},
-    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
-    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
-    "date": {},
-    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
-    "onMonth": 0
-  },
-  {
     "name": "Dinosaurs! Age of the Giant Lizards",
     "date": {},
     "description": "The new special exhibition \"Dinosaurs!\" lets you discover dinosaurs from the three geological eras - Triassic, Jurassic and Cretaceous - for the first time. The atar of the exhibition is Berlin's very own T-Rex \"Tristan Otto\".",
@@ -204,6 +190,20 @@
     "onMonth": 0
   },
   {
+    "name": "Joseph Beuys: Collection Presentation",
+    "date": {},
+    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 0
+  },
+  {
+    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
+    "date": {},
+    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "onMonth": 0
+  },
+  {
     "name": "Berlin Global",
     "date": {},
     "description": "Yesterday, today, tomorrow: much of what happens in Berlin has an impact on the world. And much of what happens in the world has an impact on Berlin.",
@@ -211,24 +211,24 @@
     "onMonth": 0
   },
   {
-    "name": "All Hands On: Basketry",
+    "name": "Cultural Contacts. Living in Europe",
     "date": {},
-    "description": "Basketry is a cultural technique that is thousands of years old, practised worldwide, regionally distinctive and still a handicraft in the truest sense of the word.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/all-hands-on-basketry-46db172f-9ef2-4636-b2fb-7806511fdcce/",
+    "description": "Spread over 700 square metres, the permanent exhibition 'Cultural Contacts. Living in Europe' is the first ever display of a cross-section of all the museum's diverse collections. It examines discussions on social movements and social boundaries. The...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/cultural-contacts-living-in-europe-0683c202-d74d-4c88-920d-cdb67582caa5/",
     "onMonth": 0
   },
   {
-    "name": "Endless Exhibition",
+    "name": "Petrit Halilaj",
     "date": {},
-    "description": "More than 15 installations, sculptures and interventions have been set up in and around the Hamburger Bahnhof since it opened as a museum of contemporary art in 1996.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/endless-exhibition-6548cb64-9d31-43d6-b5e9-56bc4aa7df88/",
+    "description": "Petrit Halilaj will present his first major institutional solo exhibition in Berlin at Hamburger Bahnhof.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/petrit-halilaj-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
     "onMonth": 0
   },
   {
-    "name": "The Second Glance: Women",
+    "name": "Treasures from the Rhine: The Barbarian Treasure of Neupotz",
     "date": {},
-    "description": "“Women” is the second integrated exhibition in the series The Second Glance, and was produced in collaboration with the organisation Frauentreff Olga, a drop-in and counselling centre for drug-using women, trans women, and sex workers.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/the-second-glance-women-66c13608-f172-4496-a9a9-1da38084f0de/",
+    "description": "For many years the sole occupant of the Neues Museum’s Bacchussaal was the Xanten Boy, a Roman bronze statue discovered in the Rhine near Xanten by fishermen in 1858. Now the bronze youth is being joined by a wealth of other exhibits: iron tools and waggon...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/treasures-from-the-rhine-the-barbarian-treasure-of-neupotz-3e51af49-6fb5-4c0f-a015-e5cb3cc22843/",
     "onMonth": 0
   },
   {
@@ -442,6 +442,18 @@
     "onMonth": 2
   },
   {
+    "name": "European Arts and Crafts Days",
+    "date": {
+      "start": "2026-03-27T05:00:00.000Z",
+      "end": "2026-03-29T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 27 - 29, 2026"
+    },
+    "description": "Artisans and designers present their work and open their studios for workshops, fashion shows and lectures.",
+    "href": "https://www.berlin.de/en/events/4302996-2842498-european-arts-crafts-days.en.html",
+    "onMonth": 2
+  },
+  {
     "name": "Forecast Festival",
     "date": {
       "start": "2026-03-20T05:00:00.000Z",
@@ -451,6 +463,18 @@
     },
     "description": "The Forecast Festival at Radialsystem presents the results of the transdisciplinary, international mentoring program \"Forecast\".",
     "href": "https://www.berlin.de/en/events/7989452-2842498-forecast-festival.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Festtage at the Berlin State Opera",
+    "date": {
+      "start": "2026-03-28T05:00:00.000Z",
+      "end": "2026-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 28 - April 06, 2026"
+    },
+    "description": "The Festival Days at the Berlin State Opera present great music each year around the Easter holidays.",
+    "href": "https://www.berlin.de/en/events/2199237-2842498-opera-festival-days-festtage.en.html",
     "onMonth": 2
   },
   {
@@ -558,30 +582,6 @@
     "onMonth": 2
   },
   {
-    "name": "Festtage Opera Festival at the Berlin State Opera",
-    "date": {
-      "start": "2026-03-28T05:00:00.000Z",
-      "end": "2026-04-06T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 28 - April 06, 2026"
-    },
-    "description": "The Festival Days at the Berlin State Opera present great music each year around the Easter holidays.",
-    "href": "https://www.berlin.de/en/events/2199237-2842498-opera-festival-days-festtage.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "European Arts and Crafts Days",
-    "date": {
-      "start": "2026-03-27T05:00:00.000Z",
-      "end": "2026-03-29T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "March 27 - 29, 2026"
-    },
-    "description": "Artisans and designers present their work and open their studios for workshops, fashion shows and lectures.",
-    "href": "https://www.berlin.de/en/events/4302996-2842498-european-arts-crafts-days.en.html",
-    "onMonth": 3
-  },
-  {
     "name": "Staudenmarkt: Berlin Perennial Market",
     "date": {
       "start": "2025-09-06T05:00:00.000Z",
@@ -603,39 +603,39 @@
     "onMonth": 3
   },
   {
+    "name": "Spring Festival Marzahn-Hellersdorf",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Marzahn-Hellersdorf Spring Festival promises fun and entertainment for the whole family - with rides, play attractions and culinary highlights.",
+    "href": "https://www.berlin.de/en/events/9521899-2842498-spring-festival-marzahnhellersdorf.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Medieval Fair: Easter Knight Spectaculum",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "A historical market, knights tournaments and a fire show on horseback await visitors at the Spandau Citadel.",
+    "href": "https://www.berlin.de/en/events/3792023-2842498-easter-knights-spectaculum.en.html",
+    "onMonth": 3
+  },
+  {
     "name": "Cherry Blossom Festival in the Gardens of the World",
     "date": {
-      "start": "2025-04-05T05:00:00.000Z",
-      "end": "2025-04-06T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 05 and 06, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Celebrate \"Hanami\" in Berlin: the Gardens of the World in Marzahn welcome the long-awaited spring with countless pale pink cherry blossoms and an exciting cultural program.",
     "href": "https://www.berlin.de/en/events/4375689-2842498-kirschbluetenfest-in-den-gaerten-der-wel.en.html",
     "onMonth": 3
   },
   {
-    "name": "Spring Festival at the Schöneweide Railroad Depot",
+    "name": "Easter Festival in Friedenau",
     "date": {
-      "start": "2025-05-17T05:00:00.000Z",
-      "end": "2025-05-18T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "May 17 and 18, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "At the spring festival at the Schöneweide railroad depot, children and adults can check out locomotives from the inside and take a ride on an old steam train.",
-    "href": "https://www.berlin.de/en/events/3460147-2842498-summer-festival-schoeneweide-depot.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Medieval Fair: Easter Knight Spectaculum",
-    "date": {
-      "start": "2025-04-19T05:00:00.000Z",
-      "end": "2025-04-21T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 19 - 21, 2025"
-    },
-    "description": "A historical market, knights tournaments and a fire show on horseback await visitors at the Spandau Citadel.",
-    "href": "https://www.berlin.de/en/events/3792023-2842498-easter-knights-spectaculum.en.html",
+    "description": "At Easter, Schmiljanstrasse in Friedenau is transformed into a lively festival mile. For three days, there will be live music, market stalls and activities for children and families.",
+    "href": "https://www.berlin.de/en/events/easter/9517918-6131143-easter-festival-in-friedenau.en.html",
     "onMonth": 3
   },
   {
@@ -685,12 +685,9 @@
   {
     "name": "Sehsüchte",
     "date": {
-      "start": "2025-04-23T05:00:00.000Z",
-      "end": "2025-04-27T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 23 - 27, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "Sehsüchte student film festival: In 2025, the Sehsüchte festival will take place in Potsdam-Babelsberg for the 54th time.",
+    "description": "Sehsüchte student film festival: In 2026, the Sehsüchte festival will take place in Potsdam-Babelsberg for the 55th time.",
     "href": "https://www.berlin.de/en/events/film-festivals/2463798-7812887-sehsuechte.en.html",
     "onMonth": 3
   },
@@ -706,39 +703,37 @@
   {
     "name": "11 mm - International Football Film Festival",
     "date": {
-      "start": "2025-04-24T05:00:00.000Z",
-      "end": "2025-04-28T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 24 - 28, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The festival shows over 60 international feature, documentary and short film productions on the theme of football.",
     "href": "https://www.berlin.de/en/events/film-festivals/2122631-7812887-11-mm-international-football-film-festiv.en.html",
     "onMonth": 3
   },
   {
-    "name": "Achtung Berlin",
+    "name": "Beachfood Festival",
     "date": {
-      "start": "2025-04-02T05:00:00.000Z",
-      "end": "2025-04-09T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "April 02 - 09, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "This film festival for new German cinema presents current works by Berlin and Brandenburg filmmakers for one week in several Berlin cinemas.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2122932-7812887-achtung-berlin-new-berlin-film-award.en.html",
+    "description": "The Beachfood Festival at the Wendenschloss lido brings beach vibes and international delicacies to Berlin-Köpenick.",
+    "href": "https://www.berlin.de/en/events/food-events/8376378-7974318-beachfood-festival.en.html",
     "onMonth": 3
   },
   {
-    "name": "From Odesa to Berlin",
-    "date": {},
-    "description": "The Gemäldegalerie is showcasing 60 paintings from the Museum of Western and Eastern Art in Odesa, the famous port city in the south of Ukraine that has in recent years been ravaged by war.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/from-odesa-to-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
+    "name": "Naschmarkt International",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the Naschmarkt in Markthalle Neun in Kreuzberg, Berlin confectioners offer international sweet treats such as cakes, cookies and chocolates.",
+    "href": "https://www.berlin.de/en/events/food-events/2097174-7974318-naschmarkt-international.en.html",
     "onMonth": 3
   },
   {
-    "name": "Mark Bradford: Keep Walking",
-    "date": {},
-    "description": "Spanning painting, sculpture, installation, and video, the exhibition delves into societal issues such as violence and urban life.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
+    "name": "Asian Streetfood Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The diversity of Asian culture unfolds at the Asian Streetfood Festival on the RAW site.",
+    "href": "https://www.berlin.de/en/events/food-events/8416839-7974318-asian-streetfood-festival.en.html",
     "onMonth": 3
   },
   {
@@ -765,40 +760,13 @@
   {
     "name": "International Cannabis Business Conference",
     "date": {
-      "start": "2025-04-29T05:00:00.000Z",
-      "end": "2025-04-30T05:00:00.000Z",
+      "start": "2026-04-14T05:00:00.000Z",
+      "end": "2026-04-15T05:00:00.000Z",
       "locale": "en",
-      "originalString": "April 29-30, 2025"
+      "originalString": "April 14 and 15, 2026"
     },
     "description": "At the International Cannabis Business Conference, experts from the fields of medicine, business, politics and law will meet to exchange views on the latest developments regarding medical cannabis in Germany.",
     "href": "https://www.berlin.de/en/trade-fairs/6853438-7918797-international-cannabis-business-conferen.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Taste of Africa",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "The \"Taste of Africa\" food festival attracts visitors to RAW-Gelände with the culinary diversity of Africa and accompanying Afrobeats.",
-    "href": "https://www.berlin.de/en/events/food-events/8113883-7974318-taste-of-africa.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Beachfood Festival",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "The Beachfood Festival at the Wendenschloss lido brings beach vibes and international delicacies to Berlin-Köpenick.",
-    "href": "https://www.berlin.de/en/events/food-events/8376378-7974318-beachfood-festival.en.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Prosit Drinks Market",
-    "date": {
-      "originalString": "Date not yet known"
-    },
-    "description": "The Prosit drinks market showcases a wide variety of artisan drinks. This year, all drinks are completely alcohol-free.",
-    "href": "https://www.berlin.de/en/events/food-events/8741867-7974318-prosit-drinks-market.en.html",
     "onMonth": 3
   },
   {
@@ -962,6 +930,18 @@
     "onMonth": 4
   },
   {
+    "name": "Spring Festival at the Schöneweide Railroad Depot",
+    "date": {
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 17 and 18, 2025"
+    },
+    "description": "At the spring festival at the Schöneweide railroad depot, children and adults can check out locomotives from the inside and take a ride on an old steam train.",
+    "href": "https://www.berlin.de/en/events/3460147-2842498-summer-festival-schoeneweide-depot.en.html",
+    "onMonth": 4
+  },
+  {
     "name": "Festival for Democracy and Tolerance",
     "date": {
       "start": "2025-05-17T05:00:00.000Z",
@@ -1050,6 +1030,13 @@
     "date": {},
     "description": "The Berlin Kupferstichkabinett is home to an impressive collection of modern art, including works by Edvard Munch, Käthe Kollwitz and Ernst Ludwig Kirchner.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/the-cosmos-of-der-blaue-reiter-from-kandinsky-to-campendonk-df3a6107-317b-4fb9-86a8-1d3434355834/",
+    "onMonth": 4
+  },
+  {
+    "name": "From Odesa to Berlin",
+    "date": {},
+    "description": "The Gemäldegalerie is showcasing 60 paintings from the Museum of Western and Eastern Art in Odesa, the famous port city in the south of Ukraine that has in recent years been ravaged by war.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/from-odesa-to-berlin-36c2a11f-19e9-405a-a3f5-4f6e13b91419/",
     "onMonth": 4
   },
   {
@@ -1281,7 +1268,7 @@
       "originalString": "June 14 - 22, 2025"
     },
     "description": "The international elite of women's tennis returns to Berlin. The Berlin Tennis Open presented by ecotrans Group will be held at the LTTC Rot-Weiß.",
-    "href": "https://www.berlin.de/en/events/5948369-2842498-grass-tournament-berlin-ladies-open.en.html",
+    "href": "https://www.berlin.de/en/events/5948369-2842498-grass-tournament-berlin-tennis-open.en.html",
     "onMonth": 5
   },
   {
@@ -1695,9 +1682,12 @@
   {
     "name": "Zug der Liebe",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 30, 2025"
     },
-    "description": "Zug der Liebe (Parade of Love) is a musical demonstration for more compassion, charity and social commitment.",
+    "description": "The central aim of the \"Zug der Liebe\" demonstration is to protest for more compassion, charity and social commitment. A total of 15 trucks will be at the start.",
     "href": "https://www.berlin.de/en/events/3815296-2842498-zug-der-liebe.en.html",
     "onMonth": 7
   },
@@ -2538,13 +2528,6 @@
     "onMonth": 10
   },
   {
-    "name": "Andrea Pichl: Values of Economy",
-    "date": {},
-    "description": "For the exhibition, Andrea Pichl has devised an architectural installation dealing with the economic transfer between West and East Germany and the transformation occurring after 1989.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/andrea-pichl-values-of-economy-27fe828a-73c5-41b9-aae1-bb7d138e0b16/",
-    "onMonth": 10
-  },
-  {
     "name": "After Images",
     "date": {},
     "description": "The group exhibition “After Images” at JSF Berlin proposes a recalibration of our relationship to contemporary image culture.",
@@ -2727,13 +2710,6 @@
     "date": {},
     "description": "Hamburger Bahnhof is dedicating a major retrospective to the Turkish painter and opera singer Semiha Berksoy (1910 - 2004) in the east wing of the museum.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/semiha-berksoy-retrospective-4a2e84a4-183c-41b3-bade-1b8b9d954d95/",
-    "onMonth": 11
-  },
-  {
-    "name": "Evil Flowers",
-    "date": {},
-    "description": "Starting with Odilon Redon’s charcoal drawing Fleur du mal in the Sammlung Scharf-Gerstenberg, this exhibition traces a path from early modern art to contemporary works, shedding light on the influence that Charles Baudelaire’s well-known, eponymous collection...",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/evil-flowers-f3fe29cb-544e-4de3-bb70-2e6421d7b5f6/",
     "onMonth": 11
   },
   {
