@@ -53,6 +53,7 @@ export default function Calendar({ events }: { events: FCEvent[] }) {
                     initialView="dayGridMonth"
                     dayMaxEvents={false}
                     weekends={true}
+                    firstDay={1} // Monday
                     expandRows={true}
                     slotEventOverlap={false}
                     /* locale */
