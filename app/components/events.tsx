@@ -78,6 +78,7 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
             title: event.name,
             url: event.href,
             description: event.description,
+            allDay: true, // end-date inclusive
         };
 
         if (event.date && event.date?.start) {

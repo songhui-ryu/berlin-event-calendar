@@ -67,7 +67,12 @@ export default function Calendar({ events }: { events: FCEvent[] }) {
                     /* events */
                     events={events}
                     eventContent={renderEventContent} // custom render function
-                    // eventClick={function(){}}
+                    eventClick= {(info)=>{
+                        info.jsEvent.preventDefault(); // don't let the browser navigate
+                        if (info.event.url) {
+                            window.open(info.event.url, "_blank"); //open in new tab
+                        }
+                    }}
 
                     /* called after events are initialized/added/changed/removed 
                     eventsSet={function(){}} */
