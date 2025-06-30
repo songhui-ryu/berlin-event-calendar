@@ -52,6 +52,7 @@ function getEventColor(index: number, isLongEvent: boolean) {
         "LavenderBlush",
         "HoneyDew",
         "MistyRose",
+        "LightGoldenRodYellow",
     ];
 
     /** recular colors */
@@ -78,7 +79,6 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
             title: event.name,
             url: event.href,
             description: event.description,
-            allDay: true, // end-date inclusive
         };
 
         if (event.date && event.date?.start) {
@@ -87,12 +87,12 @@ function parseEvent(event: JsonEvent, index: number): FCEvent | unknown {
             const duration = endTime.diff(startTime, "day");
 
             parsed.start = startTime.toISOString();
-            parsed.end = endTime.add(1, "day").toISOString(); // fullcalendar's end date is exclusive
+            parsed.end = duration > 0 ? endTime.add(1, "day").toISOString() : endTime.toISOString() ; // fullcalendar's end date is exclusive
             parsed.allDay = duration > 0 ? true : false; // oneday event work as timed event
 
             parsed.color =
                 duration > 7
-                    ? getEventColor(index % 8, true)
+                    ? getEventColor(index % 9, true)
                     : getEventColor(index % 11, false);
         }
 
