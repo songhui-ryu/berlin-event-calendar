@@ -168,6 +168,27 @@
     "onMonth": 0
   },
   {
+    "name": "Joseph Beuys: Collection Presentation",
+    "date": {},
+    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 0
+  },
+  {
+    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
+    "date": {},
+    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "onMonth": 0
+  },
+  {
+    "name": "Annika Kahrs",
+    "date": {},
+    "description": "Berlin-based artist Annika Kahrs presents the most comprehensive selection of her works to date at Hamburger Bahnhof, exploring the intersection of art and music.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
+    "onMonth": 0
+  },
+  {
     "name": "Dinosaurs! Age of the Giant Lizards",
     "date": {},
     "description": "The new special exhibition \"Dinosaurs!\" lets you discover dinosaurs from the three geological eras - Triassic, Jurassic and Cretaceous - for the first time. The atar of the exhibition is Berlin's very own T-Rex \"Tristan Otto\".",
@@ -203,27 +224,6 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Collection Presentation",
-    "date": {},
-    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
-    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
-    "date": {},
-    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
-    "onMonth": 0
-  },
-  {
-    "name": "Annika Kahrs",
-    "date": {},
-    "description": "Berlin-based artist Annika Kahrs presents the most comprehensive selection of her works to date at Hamburger Bahnhof, exploring the intersection of art and music.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
-    "onMonth": 0
-  },
-  {
     "name": "Berlin Global",
     "date": {},
     "description": "Yesterday, today, tomorrow: much of what happens in Berlin has an impact on the world. And much of what happens in the world has an impact on Berlin.",
@@ -231,10 +231,10 @@
     "onMonth": 0
   },
   {
-    "name": "Cultural Contacts. Living in Europe",
+    "name": "All Hands On: Basketry",
     "date": {},
-    "description": "Spread over 700 square metres, the permanent exhibition 'Cultural Contacts. Living in Europe' is the first ever display of a cross-section of all the museum's diverse collections. It examines discussions on social movements and social boundaries. The...",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/cultural-contacts-living-in-europe-0683c202-d74d-4c88-920d-cdb67582caa5/",
+    "description": "Basketry is a cultural technique that is thousands of years old, practised worldwide, regionally distinctive and still a handicraft in the truest sense of the word.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/all-hands-on-basketry-46db172f-9ef2-4636-b2fb-7806511fdcce/",
     "onMonth": 0
   },
   {
@@ -1068,7 +1068,10 @@
   {
     "name": "Kreuzberg Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2026-06-26T05:00:00.000Z",
+      "end": "2026-06-28T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 26 - 28, 2026"
     },
     "description": "The Kreuzberg Festival, formerly Bergmannstraßenfest, can look back on a rich history. On three summer days a year, the neighborhood has been celebrating the peaceful coexistence of all generations since 1994.",
     "href": "https://www.berlin.de/en/events/1934675-2842498-bergmannstrassenfest.en.html",
@@ -1838,12 +1841,9 @@
   {
     "name": "Harvest Festival in Hellersdorf",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 05 to 07, 2025"
+      "originalString": "Does not take place in 2025"
     },
-    "description": "The Hellersdorf Harvest Festival welcomes visitors with an entertaining stage program, foods and drinks as well as a colorful lantern parade.",
+    "description": "The Hellersdorf Harvest Festival welcomes visitors with an entertaining stage program, foods and drinks as well as a colorful lantern parade. The Festival does not take place in 2025.",
     "href": "https://www.berlin.de/en/events/5983438-2842498-harvest-festival-hellersdorf.en.html",
     "onMonth": 8
   },
@@ -1860,39 +1860,39 @@
     "onMonth": 8
   },
   {
-    "name": "Down Under - Australian & New Zealand Film Festival",
+    "name": "Silent Film Festival: Stummfilm Live",
     "date": {
-      "start": "2025-10-16T05:00:00.000Z",
-      "end": "2025-10-19T05:00:00.000Z",
+      "start": "2025-09-04T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "en",
-      "originalString": "October 16 - 19, 2025"
+      "originalString": "September 04 - 14, 2025"
     },
-    "description": "The aim of Down Under is to present the multifaceted Australasian film culture across all genre boundaries and formats.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2783913-7812887-down-under-berlin-australian-film-festiv.en.html",
+    "description": "Under the motto \"100 Years of Silent Film!\" the Babylon Cinema is showing films that celebrate their 100th anniversary this year.",
+    "href": "https://www.berlin.de/en/events/film-festivals/8407782-7812887-silent-film-festival.en.html",
     "onMonth": 8
   },
   {
-    "name": "City Film Days",
+    "name": "Fantasy Filmfest",
     "date": {
-      "start": "2025-09-19T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
+      "start": "2025-09-03T05:00:00.000Z",
+      "end": "2025-09-10T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 19 - 21, 2025"
+      "originalString": "September 03 - 10, 2025"
     },
-    "description": "The City Film Days film festival takes a cinematic look at Tbilisi, the capital of Georgia, in 2025.",
-    "href": "https://www.berlin.de/en/events/film-festivals/9760600-7812887-city-film-days.en.html",
+    "description": "The Fantasy Filmfest presents horror movies, fantasy films and thrillers, some of them as European and world premieres.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2656724-7812887-fantasy-filmfest-nights.en.html",
     "onMonth": 8
   },
   {
-    "name": "FilmPolska",
+    "name": "Hive Film Days",
     "date": {
-      "start": "2025-09-10T05:00:00.000Z",
-      "end": "2025-09-17T05:00:00.000Z",
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 10 - 17, 2025"
+      "originalString": "September 26-28, 2025"
     },
-    "description": "FilmPolska in Berlin is the biggest festival of Polish cinema abroad and shows the most exciting Polish productions of the past year.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2463197-7812887-filmpolska.en.html",
+    "description": "The Hive Film Days celebrate diversity in the short film industry.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7742157-7812887-hive-film-days.en.html",
     "onMonth": 8
   },
   {
@@ -2025,42 +2025,6 @@
     "onMonth": 8
   },
   {
-    "name": "Open Mosque Day",
-    "date": {
-      "start": "2025-10-03T05:00:00.000Z",
-      "end": "2025-10-03T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "October 03, 2025"
-    },
-    "description": "Every year on October 03, the Islamic religious communities in Germany organize the nationwide Open Mosque Day.",
-    "href": "https://www.berlin.de/en/events/3205288-2842498-open-mosque-day.en.html",
-    "onMonth": 9
-  },
-  {
-    "name": "Berlin Food Week",
-    "date": {
-      "start": "2025-10-06T05:00:00.000Z",
-      "end": "2025-10-12T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "October 06 - 12, 2025"
-    },
-    "description": "The Berlin Food Week offers professional chefs, home cooks and foodies a platform for enjoyment and exchange.",
-    "href": "https://www.berlin.de/en/events/food-events/3568974-7974318-berlin-food-week.en.html",
-    "onMonth": 9
-  },
-  {
-    "name": "Müggelsee Half Marathon",
-    "date": {
-      "start": "2025-10-19T05:00:00.000Z",
-      "end": "2025-10-19T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "October 19, 2025"
-    },
-    "description": "The Müggelsee Half Marathon leads runners clockwise around the Müggelsee lake in the southeast of Berlin.",
-    "href": "https://www.berlin.de/en/sports-leisure/running/4531722-7813334-mueggelsee-half-marathon.en.html",
-    "onMonth": 9
-  },
-  {
     "name": "Festival of Lights",
     "date": {
       "start": "2025-10-08T05:00:00.000Z",
@@ -2085,12 +2049,63 @@
     "onMonth": 9
   },
   {
+    "name": "Open Mosque Day",
+    "date": {
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-03T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 03, 2025"
+    },
+    "description": "Every year on October 03, the Islamic religious communities in Germany organize the nationwide Open Mosque Day.",
+    "href": "https://www.berlin.de/en/events/3205288-2842498-open-mosque-day.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Ostpro Berlin",
+    "date": {
+      "start": "2025-10-24T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 24-26, 2025"
+    },
+    "description": "More than 100 companies from the new federal states present their products and services at the sales fair for eastern products.",
+    "href": "https://www.berlin.de/en/trade-fairs/1618464-7918797-ostpro-berlin.en.html",
+    "onMonth": 9
+  },
+  {
     "name": "Tag der Clubkultur",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 03 - 12, 2025"
     },
     "description": "The Tag der Clubkultur (Day of Club Culture) takes place annually in October and makes the diversity of Berlin's clubbing and nightlife scene visible.",
     "href": "https://www.berlin.de/en/events/6296831-2842498-tag-der-clubkultur.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Müggelsee Half Marathon",
+    "date": {
+      "start": "2025-10-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 19, 2025"
+    },
+    "description": "The Müggelsee Half Marathon leads runners clockwise around the Müggelsee lake in the southeast of Berlin.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/4531722-7813334-mueggelsee-half-marathon.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Berlin Food Week",
+    "date": {
+      "start": "2025-10-06T05:00:00.000Z",
+      "end": "2025-10-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 06 - 12, 2025"
+    },
+    "description": "The Berlin Food Week offers professional chefs, home cooks and foodies a platform for enjoyment and exchange.",
+    "href": "https://www.berlin.de/en/events/food-events/3568974-7974318-berlin-food-week.en.html",
     "onMonth": 9
   },
   {
@@ -2134,9 +2149,12 @@
   {
     "name": "Autumn Market at Domäne Dahlem",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-10-18T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 18 and 19, 2025"
     },
-    "description": "Colorful foliage, fresh air and golden light: autumn has arrived in Berlin! The outdoor museum Domäne Dahlem is celebrating the season with market selling fabrics and handmade objects.",
+    "description": "Colorful leaves, fresh air and golden light: autumn has arrived in Berlin! The Domäne Dahlem invites you to the autumn market at the end of October.",
     "href": "https://www.berlin.de/en/events/7799565-2842498-herbstmarkt-auf-der-domaene-dahlem.en.html",
     "onMonth": 9
   },
@@ -2165,6 +2183,13 @@
     "onMonth": 9
   },
   {
+    "name": "Lygia Clark: Retrospective",
+    "date": {},
+    "description": "Beginning in May 2025, the Neue Nationalgalerie will show Brazilian artist Lygia Clark’s first retrospective in Germany.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/lygia-clark-retrospective-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "onMonth": 9
+  },
+  {
     "name": "Bar Convent Berlin",
     "date": {
       "start": "2025-10-06T05:00:00.000Z",
@@ -2189,27 +2214,27 @@
     "onMonth": 9
   },
   {
-    "name": "Kurdish Film Festival",
+    "name": "Manga & Entertainment Expo",
     "date": {
-      "start": "2025-09-25T05:00:00.000Z",
-      "end": "2025-10-01T05:00:00.000Z",
+      "start": "2025-10-24T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 25 - October 01, 2025"
+      "originalString": "October 24-26, 2025"
     },
-    "description": "The Kurdish Film Festival is a permanent fixture on the Berlin events calendar and is taking place for the 15th time this year.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7801209-7812887-kurdish-film-festival.en.html",
+    "description": "For three days, the Manga & Entertainment Expo at Messe Berlin presents everything revolving around manga, anime, Japanese pop culture and the associated lifestyle.",
+    "href": "https://www.berlin.de/en/trade-fairs/8481014-7918797-manga-entertainment-expo.en.html",
     "onMonth": 9
   },
   {
-    "name": "Hive Film Days",
+    "name": "Ukrainian Film Festival",
     "date": {
-      "start": "2025-09-26T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
+      "start": "2025-10-22T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 26-28, 2025"
+      "originalString": "October 22 - 26, 2025"
     },
-    "description": "The Hive Film Days celebrate diversity in the short film industry.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7742157-7812887-hive-film-days.en.html",
+    "description": "The Ukrainian Film Festival in Berlin will take place for the sixth time in 2025.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7826396-7812887-ukrainian-film-festival.en.html",
     "onMonth": 9
   },
   {
@@ -2222,6 +2247,18 @@
     },
     "description": "Under the motto «Too Drunk to Watch», the Punkfilmfest shows movies dealing with the punk subculture, anarchy and rebellion.",
     "href": "https://www.berlin.de/en/events/film-festivals/7742361-7812887-punkfilmfest.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "FrauenWelten",
+    "date": {
+      "start": "2025-10-29T05:00:00.000Z",
+      "end": "2025-11-04T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 29 - November 04, 2025"
+    },
+    "description": "The \"FrauenWelten\" film festival at the Kulturbrauerei shows over 30 films about women who fight for human rights, self-determination and against violence.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7828766-7812887-frauenwelten.en.html",
     "onMonth": 9
   },
   {
@@ -2375,6 +2412,13 @@
     "onMonth": 10
   },
   {
+    "name": "Strange! Surrealismen 1950–1990 aus den Sammlungen der Nationalgalerie",
+    "date": {},
+    "description": "Around 60 works by 40 artists from East and West are brought together under the title Strange!, in which echoes of Surrealist art can be found.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/strange-surrealismen-1950-1990-aus-den-sammlungen-der-nationalgalerie-1da0a4d0-193e-478d-a17f-d100e50d7f9c/",
+    "onMonth": 10
+  },
+  {
     "name": "Games Ground",
     "date": {
       "start": "2025-11-13T05:00:00.000Z",
@@ -2462,7 +2506,10 @@
   {
     "name": "Louis Lewandowski Festival",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-12-18T05:00:00.000Z",
+      "end": "2025-12-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 18 - 21, 2025"
     },
     "description": "The Louis Lewandowski Festival is a choir festival dedicated to the music of Jewish composers who emigrated from Germany. It is named after the German-Jewish composer of the same name.",
     "href": "https://www.berlin.de/en/events/2819212-2842498-louis-lewandowski-festival.en.html",

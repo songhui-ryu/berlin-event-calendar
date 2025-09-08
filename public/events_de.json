@@ -108,18 +108,6 @@
     "onMonth": 0
   },
   {
-    "name": "PrevYou & Fantasy Filmfest präsentieren: gen g",
-    "date": {
-      "start": "2025-08-29T05:00:00.000Z",
-      "end": "2025-08-29T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "29. August 2025"
-    },
-    "description": "Das PrevYou-Kurzfilmfestival und das Fantasy Filmfest haben sich zusammengetan und bringen mit «gen g» Kurzfilme ins Wolf Kino.",
-    "href": "https://www.berlin.de/kino/filmfestivals/9851569-2020379-gen-g.html",
-    "onMonth": 0
-  },
-  {
     "name": "Stummfilmfestival",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -138,24 +126,33 @@
     "onMonth": 0
   },
   {
-    "name": "Dinosaurier! Zeitalter der Riesenechsen",
-    "date": {},
-    "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/dinosaurier-zeitalter-der-riesenechsen-0797cec2-035c-4851-908d-d2e113eaea48/",
+    "name": "Finlandia – Aki Kaurismäki and Friends",
+    "date": {
+      "originalString": "Termin noch nicht bekannt"
+    },
+    "description": "Das Babylon am Rosa-Luxemburg-Platz feiert finnisches Kino mit Klassikern, Dokumentarfilmen und neuen Filmhighlights - dazu gibt es Livemusik und ein Sauna-Special.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9395977-2020379-finlandia.html",
     "onMonth": 0
   },
   {
-    "name": "Der zweite Blick: Spielarten der Liebe",
+    "name": "Joseph Beuys: Sammlungspräsentation",
     "date": {},
-    "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
+    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
     "onMonth": 0
   },
   {
-    "name": "Petrit Halilaj: An Opera Out of Time",
+    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
     "date": {},
-    "description": "Petrit Halilaj präsentiert im Hamburger Bahnhof seine erste große institutionelle Einzelausstellung in Berlin. Im Mittelpunkt steht das erste Opernwerk des Künstlers, \"Syrigana\".",
-    "href": "https://www.berlin.de/tickets/ausstellungen/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
+    "description": "Der Hamburger Bahnhof zeigt figurative Zeichnungen von Toyin Ojih Odutola, die Einblicke in das Zusammenspiel von Geschichte und Repräsentation geben.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "onMonth": 0
+  },
+  {
+    "name": "Annika Kahrs",
+    "date": {},
+    "description": "Der Hamburger Bahnhof zeigt die Berliner Künstlerin Annika Kahrs mit der bislang umfangreichsten Auswahl ihrer Werke an der Schnittstelle von Kunst und Musik.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
     "onMonth": 0
   },
   {
@@ -1255,10 +1252,10 @@
     "onMonth": 4
   },
   {
-    "name": "Lygia Clark: Retrospektive",
+    "name": "Yoko Ono: Dream Together",
     "date": {},
-    "description": "Die Ausstellung in der gläsernen Ausstellungshalle präsentiert mit rund 150 Kunstwerken Clarks gesamtes künstlerisches Schaffen, angefangen von geometrisch-abstrakten Gemälden über partizipativ angelegte Skulpturen bis hin zu performativen Werken.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/lygia-clark-retrospektive-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "description": "Die Ausstellung versammelt Werke aus allen Phasen von Onos bahnbrechender künstlerischer Laufbahn.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-dream-together-78179a9f-c13c-440c-b617-de63d7369757/",
     "onMonth": 4
   },
   {
@@ -1439,7 +1436,10 @@
   {
     "name": "Kreuzberg-Festival",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2026-06-26T05:00:00.000Z",
+      "end": "2026-06-28T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "26. bis 28. Juni 2026"
     },
     "description": "Das Kreuzberg-Festival, ehemals Bergmannstraßenfest, kann auf eine traditionsreiche Geschichte zurückblicken. An drei Sommertagen im Jahr feiert der Kiez seit 1994 das friedliche Zusammenleben aller Generationen.",
     "href": "https://www.berlin.de/events/1934675-2229501-bergmannstrassenfest.html",
@@ -1549,13 +1549,6 @@
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen.",
     "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-ferien-unter-franco-2655d681-77f9-4182-9b4a-202179b15376/",
-    "onMonth": 5
-  },
-  {
-    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
-    "date": {},
-    "description": "Der Hamburger Bahnhof zeigt figurative Zeichnungen von Toyin Ojih Odutola, die Einblicke in das Zusammenspiel von Geschichte und Repräsentation geben.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
     "onMonth": 5
   },
   {
@@ -1817,10 +1810,7 @@
   {
     "name": "Berliner Volksfestsommer",
     "date": {
-      "start": "2025-07-25T05:00:00.000Z",
-      "end": "2025-08-17T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "25. Juli bis 17. August 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Zahlreiche Schausteller und vieles mehr locken die Besucher:innen zum Berliner Volksfestsommer, dem ehemaligen Deutsch-Französischen Volksfest, auf den zentralen Festplatz am Kurt-Schumacher-Damm.",
     "href": "https://www.berlin.de/events/2858022-2229501-deutsch-franzoesisches-volksfest.html",
@@ -1980,10 +1970,7 @@
   {
     "name": "Berlin Circus Festival",
     "date": {
-      "start": "2025-07-30T05:00:00.000Z",
-      "end": "2025-08-10T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "30. Juli bis 10. August 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Berlin Circus Festival auf dem Tempelhofer Feld feiert die Vielfalt des zeitgenössischen Zirkus'.",
     "href": "https://www.berlin.de/events/4974630-2229501-berlin-circus-festival.html",
@@ -2477,12 +2464,9 @@
   {
     "name": "Hellersdorfer Erntefest",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "05. bis 07. September 2025"
+      "originalString": "Findet 2025 nicht statt"
     },
-    "description": "Das Hellersdorfer Erntefest lädt ein zu Bühnenprogramm, Biergarten, Schlemmer- und Händlermeile, sowie Frühschoppen.",
+    "description": "Das Hellersdorfer Erntefest lädt ein zu Bühnenprogramm, Biergarten, Schlemmer- und Händlermeile, sowie Frühschoppen. 2025 findet das Fest nicht statt.",
     "href": "https://www.berlin.de/events/5983438-2229501-hellersdorfer-erntefest.html",
     "onMonth": 8
   },
@@ -2511,6 +2495,18 @@
     "onMonth": 8
   },
   {
+    "name": "City Film Days",
+    "date": {
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-09-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "19. bis 21. September 2025"
+    },
+    "description": "Das Filmfestival «City Film Days» wirft 2025 einen filmischen Blick auf Tiflis, die Hauptstadt Georgiens.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9760600-2020379-city-film-days.html",
+    "onMonth": 8
+  },
+  {
     "name": "Kinofest",
     "date": {
       "start": "2025-09-13T05:00:00.000Z",
@@ -2523,27 +2519,29 @@
     "onMonth": 8
   },
   {
-    "name": "FilmPolska",
+    "name": "Fantasy Filmfest",
     "date": {
-      "start": "2025-09-10T05:00:00.000Z",
-      "end": "2025-09-17T05:00:00.000Z",
+      "start": "2025-09-03T05:00:00.000Z",
+      "end": "2025-09-10T05:00:00.000Z",
       "locale": "de",
-      "originalString": "10. bis 17. September 2025"
+      "originalString": "03. bis 10. September 2025"
     },
-    "description": "Das Festival des polnischen Films in Berlin zeigt die spannendsten polnischen Produktionen des vergangenen Jahres.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2463197-2020379-filmpolska.html",
+    "description": "Das Fantasy Filmfest entführt 2025 wieder in abgründige Tiefen und präsentiert Frisches und Altbekanntes aus der Horror- und Fantasywelt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2656724-2020379-fantasy-filmfest.html",
     "onMonth": 8
   },
   {
-    "name": "Prenzlauerberginale",
-    "date": {
-      "start": "2025-09-02T05:00:00.000Z",
-      "end": "2025-09-23T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "02. bis 23. September 2025"
-    },
-    "description": "Die Prenzlauerberginale gibt dem Kiez einen Platz auf der großen Leinwand.",
-    "href": "https://www.berlin.de/kino/filmfestivals/7171873-2020379-prenzlauerberginale.html",
+    "name": "Magnum: Close Enough",
+    "date": {},
+    "description": "Die Ausstellung \"Close Enough\" im C/O Berlin präsentiert das Werk von dreizehn herausragenden Magnum-Fotografinnen, die mit ihren unterschiedlichen Visionen die Bildsprache der Agentur nachhaltig prägen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/magnum-close-enough-ce295e73-868a-4ee2-9746-fbaed3a06e25/",
+    "onMonth": 8
+  },
+  {
+    "name": "Petrit Halilaj: An Opera Out of Time",
+    "date": {},
+    "description": "Petrit Halilaj präsentiert im Hamburger Bahnhof seine erste große institutionelle Einzelausstellung in Berlin. Im Mittelpunkt steht das erste Opernwerk des Künstlers, \"Syrigana\".",
+    "href": "https://www.berlin.de/tickets/ausstellungen/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
     "onMonth": 8
   },
   {
@@ -3241,17 +3239,17 @@
     "onMonth": 10
   },
   {
-    "name": "Mit Abstand das Beste!",
-    "date": {},
-    "description": "Ein „Who’s Who“ der Kunstgeschichte erwartet Sie in einer der bedeutendsten Sammlungen europäischer Malerei vom 13. bis 18. Jahrhundert. Entdecken Sie Werke berühmter Maler chronologisch präsentiert nach Epochen, Kunstlandschaften und Schulen. Der wöchentliche...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/mit-abstand-das-beste-31c6929b-7de9-4c73-a666-92adf4c30fcb/",
-    "onMonth": 10
-  },
-  {
     "name": "Unter die Lupe genommen: Kunst und Tier",
     "date": {},
     "description": "In den Gemälden der Alten Meister taucht eine Vielzahl von Tieren auf. Was diese Tiere vom Mittelalter bis ins Rokoko zu bedeuten haben, ist uns heute fremd geworden. In den Tandemführungen zeigen die Biologin Ursula Müller und der Kunsthistoriker Thomas...",
     "href": "https://www.berlin.de/tickets/ausstellungen/unter-die-lupe-genommen-kunst-und-tier-050d6c36-9c51-4212-a9de-34cb2da73c61/",
+    "onMonth": 10
+  },
+  {
+    "name": "Strange! Surrealismen 1950–1990 aus den Sammlungen der Nationalgalerie",
+    "date": {},
+    "description": "Unter dem Titel \"Strange!\" sind rund 60 Werke von 40 Künstler*innen aus Ost und West versammelt, in denen sich Anklänge an die Kunst des Surrealismus finden.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/strange-surrealismen-1950-1990-aus-den-sammlungen-der-nationalgalerie-1da0a4d0-193e-478d-a17f-d100e50d7f9c/",
     "onMonth": 10
   },
   {
@@ -3362,7 +3360,10 @@
   {
     "name": "Louis Lewandowski Festival",
     "date": {
-      "originalString": "Noch nicht bekannt"
+      "start": "2025-12-18T05:00:00.000Z",
+      "end": "2025-12-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "18. bis 21. Dezember 2025"
     },
     "description": "Das Louis-Lewandowski-Festival ist ein internationales Festival synagogaler Musik.",
     "href": "https://www.berlin.de/events/2819212-2229501-louis-lewandowski-festival.html",
@@ -3378,7 +3379,7 @@
     "onMonth": 11
   },
   {
-    "name": "Silvesterzug 24/25",
+    "name": "Silvesterzug 25/26",
     "date": {
       "start": "2025-12-31T05:00:00.000Z",
       "end": "2025-12-31T05:00:00.000Z",
@@ -3386,7 +3387,7 @@
       "originalString": "31. Dezember 2025"
     },
     "description": "Nach mehreren Jahren Pause ist der Berliner Silvesterzug wieder da und bietet die einmalige Gelegenheit, auf Schienen ins neue Jahr zu starten.",
-    "href": "https://www.berlin.de/events/9365647-2229501--silvesterzug-20242025-mit-der-historisc.html",
+    "href": "https://www.berlin.de/events/9365647-2229501--silvesterzug.html",
     "onMonth": 11
   },
   {
@@ -3483,6 +3484,13 @@
     },
     "description": "Feuerzangenbowle mit Heinz Rühmann: Der Nikolaikirchplatz lädt mit dem Filmklassiker «Die Feuerzangenbowle» zum kostenlosen Kino-Vergnügen.",
     "href": "https://www.berlin.de/kino/filmfestivals/5075128-2020379-winter-film-fest.html",
+    "onMonth": 11
+  },
+  {
+    "name": "KÖRPERWELTEN | Berlin | Tagesticket",
+    "date": {},
+    "description": "",
+    "href": "https://www.berlin.deundefined",
     "onMonth": 11
   },
   {
