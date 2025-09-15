@@ -135,24 +135,24 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Sammlungspräsentation",
+    "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {},
-    "description": "Der Hamburger Bahnhof in Berlin präsentiert in einer neuen Ausstellung den umfangreichen Bestand an Werken des Künstlers Joseph Beuys in der Kleihueshalle.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/joseph-beuys-sammlungspraesentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/dinosaurier-zeitalter-der-riesenechsen-0797cec2-035c-4851-908d-d2e113eaea48/",
     "onMonth": 0
   },
   {
-    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
+    "name": "Der zweite Blick: Spielarten der Liebe",
     "date": {},
-    "description": "Der Hamburger Bahnhof zeigt figurative Zeichnungen von Toyin Ojih Odutola, die Einblicke in das Zusammenspiel von Geschichte und Repräsentation geben.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...",
+    "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
     "onMonth": 0
   },
   {
-    "name": "Annika Kahrs",
+    "name": "Petrit Halilaj: An Opera Out of Time",
     "date": {},
-    "description": "Der Hamburger Bahnhof zeigt die Berliner Künstlerin Annika Kahrs mit der bislang umfangreichsten Auswahl ihrer Werke an der Schnittstelle von Kunst und Musik.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
+    "description": "Petrit Halilaj präsentiert im Hamburger Bahnhof seine erste große institutionelle Einzelausstellung in Berlin. Im Mittelpunkt steht das erste Opernwerk des Künstlers, \"Syrigana\".",
+    "href": "https://www.berlin.de/tickets/ausstellungen/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
     "onMonth": 0
   },
   {
@@ -1245,17 +1245,17 @@
     "onMonth": 4
   },
   {
-    "name": "Fujiko Nakaya: Nebelskulptur im Skulpturengarten",
+    "name": "Lygia Clark: Retrospektive",
     "date": {},
-    "description": "Nakayas Nebelskulpturen überschreiten die traditionellen Grenzen der Bildhauerei, indem sie vorübergehende und grenzenlose Transformationen erschaffen, die das Publikum einbeziehen und der Atmosphäre eine formbare Gestalt verleihen.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/fujiko-nakaya-nebelskulptur-im-skulpturengarten-ce3799be-708b-4889-9a49-f216d464ec01/",
+    "description": "Die Ausstellung in der gläsernen Ausstellungshalle präsentiert mit rund 150 Kunstwerken Clarks gesamtes künstlerisches Schaffen, angefangen von geometrisch-abstrakten Gemälden über partizipativ angelegte Skulpturen bis hin zu performativen Werken.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/lygia-clark-retrospektive-dbf26354-0fba-4397-9f6e-624dbccd817d/",
     "onMonth": 4
   },
   {
-    "name": "Yoko Ono: Dream Together",
+    "name": "Julian Rosefeldt: Nothing is Original",
     "date": {},
-    "description": "Die Ausstellung versammelt Werke aus allen Phasen von Onos bahnbrechender künstlerischer Laufbahn.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/yoko-ono-dream-together-78179a9f-c13c-440c-b617-de63d7369757/",
+    "description": "Die Dekonstruktion der Mythenmaschine Kino, das Spiel mit medialen Stereotypen sowie das Zitieren aus Kunst-, Kultur- und Filmgeschichte ziehen sich wie ein roter Faden durch das Werk von Julian Rosefeldt.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/julian-rosefeldt-nothing-is-original-08600ac8-1a37-4318-8237-8f046829aacf/",
     "onMonth": 4
   },
   {
@@ -1549,6 +1549,13 @@
     "date": {},
     "description": "Anlässlich des 50. Todestages von Francisco Franco zeigt das MEK sieben künstlerische Positionen, die sich mit der Rolle des Massentourismus in Spanien während der Diktatur auseinandersetzen.",
     "href": "https://www.berlin.de/tickets/ausstellungen/vamos-a-la-playa-ferien-unter-franco-2655d681-77f9-4182-9b4a-202179b15376/",
+    "onMonth": 5
+  },
+  {
+    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
+    "date": {},
+    "description": "Der Hamburger Bahnhof zeigt figurative Zeichnungen von Toyin Ojih Odutola, die Einblicke in das Zusammenspiel von Geschichte und Repräsentation geben.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
     "onMonth": 5
   },
   {
@@ -2080,10 +2087,7 @@
   {
     "name": "Boot & Fun Inwater",
     "date": {
-      "start": "2025-08-29T05:00:00.000Z",
-      "end": "2025-08-31T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "29. bis 31. August 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Bootsmesse Boot & Fun Inwater werden die neusten Boote, Yachten und schwimmenden Häuser vorgestellt.",
     "href": "https://www.berlin.de/messen/7985339-7918641-boot-und-fun-inwater.html",
@@ -2131,10 +2135,7 @@
   {
     "name": "Potsdamer Schlössernacht",
     "date": {
-      "start": "2025-08-22T05:00:00.000Z",
-      "end": "2025-08-23T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "22. und 23. August 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Die Potsdamer Schlössernacht lockt mit Konzerten und Tanzvorführungen, mit Theaterspielen und Literaturvorträgen. Ein Barock-Rausch ganz eigener Art.",
     "href": "https://www.berlin.de/events/2532721-2229501-potsdamer-schloessernacht.html",
@@ -2143,10 +2144,7 @@
   {
     "name": "Müllroser Seezauber",
     "date": {
-      "start": "2025-08-01T05:00:00.000Z",
-      "end": "2025-08-03T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "01. bis 03. August 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Müllroser Seezauber wird drei Tage lang am See mit Rummel, Feuerwerk und Live-Programm gefeiert.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/7598751-3479097-muellroser-seezauber.html",
@@ -2155,10 +2153,7 @@
   {
     "name": "Burgfestwoche und Altstadtsommer in Bad Belzig",
     "date": {
-      "start": "2025-08-23T05:00:00.000Z",
-      "end": "2025-08-31T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. bis 31. August 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Während Burgfestwoche in Bad Belzig Ende August verwandelt sich die historische Altstadt in ein Festareal.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4681647-3479097-burgfestwoche-und-altstadtsommer-in-bad-.html",
@@ -2222,10 +2217,10 @@
   {
     "name": "IFA 2025",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-09T05:00:00.000Z",
+      "start": "2026-09-04T05:00:00.000Z",
+      "end": "2026-09-08T05:00:00.000Z",
       "locale": "de",
-      "originalString": "05. bis 09. September 2025"
+      "originalString": "04. bis 08. September 2026"
     },
     "description": "Die IFA ist und bleibt der Höhepunkt des Jahres für alle, die Unterhaltungselektronik, Informations- sowie Kommunikationstechnik und Hausgeräte nicht nur nutzen, sondern auch erleben wollen.",
     "href": "https://www.berlin.de/events/2102221-2229501-ifa-internationale-funkausstellung-berli.html",
@@ -2462,12 +2457,15 @@
     "onMonth": 8
   },
   {
-    "name": "Hellersdorfer Erntefest",
+    "name": "Die Wuidn Wiesn",
     "date": {
-      "originalString": "Findet 2025 nicht statt"
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-11-08T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "13. September bis 08. November 2025"
     },
-    "description": "Das Hellersdorfer Erntefest lädt ein zu Bühnenprogramm, Biergarten, Schlemmer- und Händlermeile, sowie Frühschoppen. 2025 findet das Fest nicht statt.",
-    "href": "https://www.berlin.de/events/5983438-2229501-hellersdorfer-erntefest.html",
+    "description": "Die Wuidn Wiesn finden 2025 am Postbahnhof statt.",
+    "href": "https://www.berlin.de/events/7673979-2229501-die-wuidn-wiesn-im-cafe-am-neuen-see.html",
     "onMonth": 8
   },
   {
@@ -2538,13 +2536,6 @@
     "onMonth": 8
   },
   {
-    "name": "Petrit Halilaj: An Opera Out of Time",
-    "date": {},
-    "description": "Petrit Halilaj präsentiert im Hamburger Bahnhof seine erste große institutionelle Einzelausstellung in Berlin. Im Mittelpunkt steht das erste Opernwerk des Künstlers, \"Syrigana\".",
-    "href": "https://www.berlin.de/tickets/ausstellungen/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
-    "onMonth": 8
-  },
-  {
     "name": "Die Möglichkeit der Unvernunft",
     "date": {},
     "description": "Jan Böhmermann und die Gruppe Royale besetzen Ende September 2025 mit der Ausstellung \"Die Möglichkeit der Unvernunft\" und einem umfangreichen Veranstaltungsprogramm das Haus der Kulturen der Welt in Berlin.",
@@ -2554,12 +2545,12 @@
   {
     "name": "Berlin Chili Fest",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
+      "start": "2025-12-06T05:00:00.000Z",
+      "end": "2025-12-07T05:00:00.000Z",
       "locale": "de",
-      "originalString": "05. bis 07. September 2025"
+      "originalString": "06. und 07. Dezember 2025"
     },
-    "description": "Mit Verkostungen, Wettbewerben, Bildung und Unterhaltung begehen Chili-Kultur-Enthusiasten das Berlin Chili Fest in der Berliner Berg Brauerei.",
+    "description": "Bei der Weihnachtsausgabe des Berlin Chili Festes in der Berliner Berg Brauerei finden Chili-Kultur-Enthusiasten Geschenke für Chili-Fans.",
     "href": "https://www.berlin.de/restaurants/food-events/7617393-5146458-berlin-chili-fest.html",
     "onMonth": 8
   },
@@ -2640,10 +2631,7 @@
   {
     "name": "Tattoo Convention Berlin",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "05. bis 07. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Tattoo Convention Berlin treffen sich Fans der Körperkunst aus aller Welt. Nationale und internationale Künstler der Tattoo-Szene zeigen ihr Können an der Maschine.",
     "href": "https://www.berlin.de/messen/7753392-7918641-tattoo-convention-berlin.html",
@@ -2665,9 +2653,9 @@
     "name": "Internationales Drachenfest in Potsdam",
     "date": {
       "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "de",
-      "originalString": "13. September 2025"
+      "originalString": "13. und 14. September 2025"
     },
     "description": "Zum Drachenfest im Volkspark Potsdam zeigen Drachenkünstler:innen ihr Können. Aber auch Mitmachen ist erlaubt.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5000248-3479097-drachenfest-in-potsdam.html",
@@ -2736,7 +2724,7 @@
       "locale": "de",
       "originalString": "17. Oktober 2025"
     },
-    "description": "Moderne Klangwelten der renommierten Musikrichtung Jazz erheben sich bei \"Jazz in den Ministergärten\" von dem geschichtsträchtigen Boden der Ministergärten in die Lüfte und werden zu einem musikalischen Erlebnis.",
+    "description": "Moderne Jazzklänge erheben sich bei «Jazz in den Ministergärten» von dem geschichtsträchtigen Boden der Ministergärten in die Lüfte und werden zu einem musikalischen Erlebnis der besonderen Art.",
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/2653430-1912555-jazz-in-den-ministergaerten.html",
     "onMonth": 9
   },
@@ -2753,12 +2741,15 @@
     "onMonth": 9
   },
   {
-    "name": "Berliner Hörspielnächte",
+    "name": "Voices Berlin Festival",
     "date": {
-      "originalString": "Noch nicht bekannt"
+      "start": "2025-10-24T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "24. Oktober bis 16. November 2025"
     },
-    "description": "Berliner können sich auf Hörspiel-Spaziergänge, Pop-Up-Aktionen und Live-Hörspiele in der ganzen Stadt freuen.",
-    "href": "https://www.berlin.de/tickets/literatur/tipps/6323523-2916596-berliner-hoerspielnaechte.html",
+    "description": "Das Voices Berlin Festival bringt zeitgenössische Musik, Theater und Tanz aus aller Welt in die Hauptstadt.",
+    "href": "https://www.berlin.de/events/9888658-2229501-voices-berlin-festival.html",
     "onMonth": 9
   },
   {
@@ -2781,7 +2772,7 @@
       "locale": "de",
       "originalString": "19. Oktober 2025"
     },
-    "description": "Der Müggelsee-Halbmarathon \"Rund um den Müggelsee\" führt einmal im Uhrzeigersinn um die \"Badewanne\" im Südosten Berlins.",
+    "description": "Der Müggelsee-Halbmarathon «Rund um den Müggelsee» führt einmal im Uhrzeigersinn um die «Badewanne» im Südosten Berlins.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/4531722-36032-mueggelseehalbmarathon.html",
     "onMonth": 9
   },
@@ -2893,44 +2884,56 @@
       "locale": "de",
       "originalString": "16. bis 19. Oktober 2025"
     },
-    "description": "Australian & New Zealand Film Festival: Das Ziel des Down Under ist die multiperspektivische Vermittlung australasiatischer Kultur und Filmkultur - quer durch alle Genregrenzen und Filmformate.",
+    "description": "Down Under: Das Ziel des Festivals ist die multiperspektivische Vermittlung australasiatischer Kultur und Filmkultur.",
     "href": "https://www.berlin.de/kino/filmfestivals/2783913-2020379-down-under-australian-film-festival.html",
     "onMonth": 9
   },
   {
-    "name": "Kurdisches Filmfestival",
+    "name": "Punkfilmfest",
     "date": {
-      "start": "2025-09-25T05:00:00.000Z",
-      "end": "2025-10-01T05:00:00.000Z",
+      "start": "2025-10-20T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
       "locale": "de",
-      "originalString": "25. September bis 01. Oktober 2025"
+      "originalString": "20. bis 26. Oktober 2025"
     },
-    "description": "Das kurdische Filmfestival ist eine feste Institution des Berliner Veranstaltungskalenders und findet in diesem Jahr bereits zum 15. Mal statt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/7801209-2020379-kurdisches-filmfestival.html",
+    "description": "Beim Punkfilmfest werden unter dem Motto «Too Drunk to Watch» Filme gezeigt, die sich mit Punk, Anarchie und Widerstand befassen.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7742361-2020379-punkfilmfest.html",
     "onMonth": 9
   },
   {
-    "name": "Hive Film Days",
+    "name": "Ukrainisches Filmfestival",
     "date": {
-      "start": "2025-09-26T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
+      "start": "2025-10-22T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
       "locale": "de",
-      "originalString": "26. bis 28. September 2025"
+      "originalString": "22. bis 26. Oktober 2025"
     },
-    "description": "Die International Short Film Days finden in diesem Jahr zum fünften Mal statt und zelebrieren die Diversität.",
-    "href": "https://www.berlin.de/kino/filmfestivals/7742157-2020379-hive-film-days.html",
+    "description": "Das Ukrainische Filmfestival findet 2025 bereits zum sechsten Mal statt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7826396-2020379-ukrainisches-filmfestival.html",
     "onMonth": 9
   },
   {
-    "name": "Venus Berlin",
+    "name": "Manga & Entertainment Expo",
     "date": {
-      "start": "2025-09-25T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
+      "start": "2025-10-24T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
       "locale": "de",
-      "originalString": "25. bis 28. September 2025"
+      "originalString": "24. bis 26. Oktober 2025"
     },
-    "description": "Die Venus Berlin ist eine internationale Fach- und Besuchermesse für Erotik, Lifestyle und Adult Entertainment.",
-    "href": "https://www.berlin.de/messen/2944173-7918641-venus-berlin.html",
+    "description": "Auf der Manga & Entertainment Expo in den Messehallen dreht sich drei Tage lang alles um Mangas und den japanischen Lifestyle.",
+    "href": "https://www.berlin.de/messen/8481014-7918641-manga-entertainment-expo.html",
+    "onMonth": 9
+  },
+  {
+    "name": "WeinBerlin",
+    "date": {
+      "start": "2025-10-25T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "25. und 26. Oktober 2025"
+    },
+    "description": "Auf der WeiAuf der WeinBerlin präsentieren Winzer:innen und Weingüter ihre besten und neuesten Weine.",
+    "href": "https://www.berlin.de/messen/8009015-7918641-weinberlin.html",
     "onMonth": 9
   },
   {
@@ -3246,13 +3249,6 @@
     "onMonth": 10
   },
   {
-    "name": "Strange! Surrealismen 1950–1990 aus den Sammlungen der Nationalgalerie",
-    "date": {},
-    "description": "Unter dem Titel \"Strange!\" sind rund 60 Werke von 40 Künstler*innen aus Ost und West versammelt, in denen sich Anklänge an die Kunst des Surrealismus finden.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/strange-surrealismen-1950-1990-aus-den-sammlungen-der-nationalgalerie-1da0a4d0-193e-478d-a17f-d100e50d7f9c/",
-    "onMonth": 10
-  },
-  {
     "name": "Historischer Weihnachtsmarkt auf dem RAW-Gelände",
     "date": {
       "start": "2025-11-13T05:00:00.000Z",
@@ -3487,7 +3483,7 @@
     "onMonth": 11
   },
   {
-    "name": "KÖRPERWELTEN | Berlin | Tagesticket",
+    "name": "BUBBLE PLANET - DAS ERLEBNISMUSEUM FÜR ALLE SINNE | Zeitfenstertickets",
     "date": {},
     "description": "",
     "href": "https://www.berlin.deundefined",

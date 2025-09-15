@@ -168,27 +168,6 @@
     "onMonth": 0
   },
   {
-    "name": "Joseph Beuys: Collection Presentation",
-    "date": {},
-    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
-    "onMonth": 0
-  },
-  {
-    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
-    "date": {},
-    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
-    "onMonth": 0
-  },
-  {
-    "name": "Annika Kahrs",
-    "date": {},
-    "description": "Berlin-based artist Annika Kahrs presents the most comprehensive selection of her works to date at Hamburger Bahnhof, exploring the intersection of art and music.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
-    "onMonth": 0
-  },
-  {
     "name": "Dinosaurs! Age of the Giant Lizards",
     "date": {},
     "description": "The new special exhibition \"Dinosaurs!\" lets you discover dinosaurs from the three geological eras - Triassic, Jurassic and Cretaceous - for the first time. The atar of the exhibition is Berlin's very own T-Rex \"Tristan Otto\".",
@@ -224,6 +203,27 @@
     "onMonth": 0
   },
   {
+    "name": "Joseph Beuys: Collection Presentation",
+    "date": {},
+    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 0
+  },
+  {
+    "name": "Toyin Ojih Odutola: U22 – Adijatu Straße",
+    "date": {},
+    "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
+    "onMonth": 0
+  },
+  {
+    "name": "Annika Kahrs",
+    "date": {},
+    "description": "Berlin-based artist Annika Kahrs presents the most comprehensive selection of her works to date at Hamburger Bahnhof, exploring the intersection of art and music.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
+    "onMonth": 0
+  },
+  {
     "name": "Berlin Global",
     "date": {},
     "description": "Yesterday, today, tomorrow: much of what happens in Berlin has an impact on the world. And much of what happens in the world has an impact on Berlin.",
@@ -231,10 +231,10 @@
     "onMonth": 0
   },
   {
-    "name": "All Hands On: Basketry",
+    "name": "Cultural Contacts. Living in Europe",
     "date": {},
-    "description": "Basketry is a cultural technique that is thousands of years old, practised worldwide, regionally distinctive and still a handicraft in the truest sense of the word.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/all-hands-on-basketry-46db172f-9ef2-4636-b2fb-7806511fdcce/",
+    "description": "Spread over 700 square metres, the permanent exhibition 'Cultural Contacts. Living in Europe' is the first ever display of a cross-section of all the museum's diverse collections. It examines discussions on social movements and social boundaries. The...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/cultural-contacts-living-in-europe-0683c202-d74d-4c88-920d-cdb67582caa5/",
     "onMonth": 0
   },
   {
@@ -1318,15 +1318,6 @@
     "onMonth": 6
   },
   {
-    "name": "Kosher Street Food Festival",
-    "date": {
-      "originalString": "Date not known yet"
-    },
-    "description": "At the Jewish Community of Berlin's Kosher Street Food Festival, hungry visitors can sample sabich, falafel, Tel Aviv bowls and more.",
-    "href": "https://www.berlin.de/en/events/food-events/8274779-7974318-kosher-street-food-festival.en.html",
-    "onMonth": 6
-  },
-  {
     "name": "Bridge Festival in Schöneweide",
     "date": {
       "originalString": "Date not yet known"
@@ -1381,6 +1372,15 @@
     },
     "description": "The Bite Club street food market at Arena Berlin invites you to feast and celebrate with international delicacies, cool drinks and good music.",
     "href": "https://www.berlin.de/en/shopping/markets/street-food-markets/3862843-7974330-bite-club.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Kosher Street Food Festival",
+    "date": {
+      "originalString": "Date not known yet"
+    },
+    "description": "At the Jewish Community of Berlin's Kosher Street Food Festival, hungry visitors can sample sabich, falafel, Tel Aviv bowls and more.",
+    "href": "https://www.berlin.de/en/events/food-events/8274779-7974318-kosher-street-food-festival.en.html",
     "onMonth": 6
   },
   {
@@ -1649,10 +1649,10 @@
   {
     "name": "IFA Berlin - Consumer Electronics Fair",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-09T05:00:00.000Z",
+      "start": "2026-09-04T05:00:00.000Z",
+      "end": "2026-09-08T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 05 - 09, 2025"
+      "originalString": "September 04 - 08, 2026"
     },
     "description": "At the IFA, more than 2000 exhibitors present the latest developments in consumer electronics and home appliances. Visitors can take a look at brand new devices long before they hit the shelves.",
     "href": "https://www.berlin.de/en/events/2102221-2842498-ifa-berlin-consumer-electronics-fair.en.html",
@@ -1860,39 +1860,39 @@
     "onMonth": 8
   },
   {
-    "name": "Silent Film Festival: Stummfilm Live",
-    "date": {
-      "start": "2025-09-04T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 04 - 14, 2025"
-    },
-    "description": "Under the motto \"100 Years of Silent Film!\" the Babylon Cinema is showing films that celebrate their 100th anniversary this year.",
-    "href": "https://www.berlin.de/en/events/film-festivals/8407782-7812887-silent-film-festival.en.html",
-    "onMonth": 8
-  },
-  {
-    "name": "Fantasy Filmfest",
-    "date": {
-      "start": "2025-09-03T05:00:00.000Z",
-      "end": "2025-09-10T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 03 - 10, 2025"
-    },
-    "description": "The Fantasy Filmfest presents horror movies, fantasy films and thrillers, some of them as European and world premieres.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2656724-7812887-fantasy-filmfest-nights.en.html",
-    "onMonth": 8
-  },
-  {
-    "name": "Hive Film Days",
+    "name": "Festival of Animation",
     "date": {
       "start": "2025-09-26T05:00:00.000Z",
       "end": "2025-09-28T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 26-28, 2025"
+      "originalString": "September 26 - 28, 2025"
     },
-    "description": "The Hive Film Days celebrate diversity in the short film industry.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7742157-7812887-hive-film-days.en.html",
+    "description": "For three days, the Festival of Animation is all about the fascinating format of animated film. Over 150 films and positions will be shown.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7763163-7812887-festival-of-animation.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "City Film Days",
+    "date": {
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-09-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 19 - 21, 2025"
+    },
+    "description": "The City Film Days film festival takes a cinematic look at Tbilisi, the capital of Georgia, in 2025.",
+    "href": "https://www.berlin.de/en/events/film-festivals/9760600-7812887-city-film-days.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Kinofest",
+    "date": {
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 13 and 14, 2025"
+    },
+    "description": "Only five euros per film: The Germany-wide Kinofest is a highlight for cinema lovers.",
+    "href": "https://www.berlin.de/en/events/film-festivals/8434119-7812887-kinofest.en.html",
     "onMonth": 8
   },
   {
@@ -1903,13 +1903,6 @@
     "onMonth": 8
   },
   {
-    "name": "Fujiko Nakaya: Fog Sculpture in the Sculpture Garden",
-    "date": {},
-    "description": "Nakaya's fog sculptures transcend the traditional boundaries of sculpture by creating temporary and limitless transformations that engage the audience and give the atmosphere a malleable form.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/fujiko-nakaya-fog-sculpture-in-the-sculpture-garden-ce3799be-708b-4889-9a49-f216d464ec01/",
-    "onMonth": 8
-  },
-  {
     "name": "Die Möglichkeit der Unvernunft",
     "date": {},
     "description": "Jan Böhmermann and the Royale group will occupy the Haus der Kulturen der Welt in Berlin at the end of September 2025 with the exhibition “Die Möglichkeit der Unvernunft” (The possibility of unreasonableness) and an extensive program of events.",
@@ -1917,14 +1910,21 @@
     "onMonth": 8
   },
   {
+    "name": "Lygia Clark: Retrospective",
+    "date": {},
+    "description": "Beginning in May 2025, the Neue Nationalgalerie will show Brazilian artist Lygia Clark’s first retrospective in Germany.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/lygia-clark-retrospective-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "onMonth": 8
+  },
+  {
     "name": "Berlin Chili Fest",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
+      "start": "2025-12-06T05:00:00.000Z",
+      "end": "2025-12-07T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 05 to 07, 2025"
+      "originalString": "December 06 to 07, 2025"
     },
-    "description": "Chilli culture enthusiasts celebrate the Berlin Chilli Fest at the Berliner Berg Brewery with tastings, competitions, education and entertainment.",
+    "description": "Chili culture enthusiasts will find gifts for Chili fans at the Christmas edition of the Berlin Chili Fest at the Berliner Berg brewery.",
     "href": "https://www.berlin.de/en/events/food-events/7617393-7974318-berlin-chili-fest.en.html",
     "onMonth": 8
   },
@@ -2003,10 +2003,7 @@
   {
     "name": "Tattoo Convention Berlin",
     "date": {
-      "start": "2025-09-05T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 5-7, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Fans of body art from all over the world meet at the Tattoo Convention in Berlin. National and international artists of the tattoo scene show their skills with the needle.",
     "href": "https://www.berlin.de/en/trade-fairs/7753392-7918797-tattoo-convention-berlin.en.html",
@@ -2180,13 +2177,6 @@
     },
     "description": "With Paulaner beer and a band playing traditional folk music, the Oktoberfest celebration \"Hauptstadtwiesn\" brings Bavarian atmosphere to Berlin.",
     "href": "https://www.berlin.de/en/events/oktoberfest/4544203-5907795-hauptstadtswiesn-oktoberfest-spinner-bru.en.html",
-    "onMonth": 9
-  },
-  {
-    "name": "Lygia Clark: Retrospective",
-    "date": {},
-    "description": "Beginning in May 2025, the Neue Nationalgalerie will show Brazilian artist Lygia Clark’s first retrospective in Germany.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/lygia-clark-retrospective-dbf26354-0fba-4397-9f6e-624dbccd817d/",
     "onMonth": 9
   },
   {
@@ -2409,13 +2399,6 @@
     },
     "description": "Every year in autumn, the International Short Film Festival attracts cinephiles from all over the world to Berlin. The festival presents about 400 films from over 120 countries.",
     "href": "https://www.berlin.de/en/events/film-festivals/2122682-7812887-short-film-festival-berlin.en.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Strange! Surrealismen 1950–1990 aus den Sammlungen der Nationalgalerie",
-    "date": {},
-    "description": "Around 60 works by 40 artists from East and West are brought together under the title Strange!, in which echoes of Surrealist art can be found.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/strange-surrealismen-1950-1990-aus-den-sammlungen-der-nationalgalerie-1da0a4d0-193e-478d-a17f-d100e50d7f9c/",
     "onMonth": 10
   },
   {
