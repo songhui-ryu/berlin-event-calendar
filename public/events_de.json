@@ -156,39 +156,27 @@
     "onMonth": 0
   },
   {
-    "name": "JuBi Berlin",
+    "name": "Love Circus Bash Wedding-Festival",
     "date": {
-      "start": "2025-09-20T05:00:00.000Z",
-      "end": "2025-09-20T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "20. September 2025"
-    },
-    "description": "Die Jugendbildungsmesse informiert über die Themen Schüleraustausch, High School-Aufenthalte, Sprachreisen, Au-Pair sowie Praktika im Ausland.",
-    "href": "https://www.berlin.de/messen/3485400-7918641-jubi-berlin.html",
-    "onMonth": 0
-  },
-  {
-    "name": "Europäische Kamerabörse Berlin",
-    "date": {
-      "start": "2025-10-04T05:00:00.000Z",
-      "end": "2025-10-04T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "04. Oktober 2025"
-    },
-    "description": "Auf der Europäischen Kamerabörse Berlin bieten Händler und Sammler Kameras und andere Produkte aus dem Bereich Fotografie zum Kauf oder Tausch an.",
-    "href": "https://www.berlin.de/messen/3246105-7918641-europaeische-kameraboerse-berlin.html",
-    "onMonth": 0
-  },
-  {
-    "name": "Hippologica Berlin",
-    "date": {
-      "start": "2026-01-23T05:00:00.000Z",
+      "start": "2026-01-24T05:00:00.000Z",
       "end": "2026-01-25T05:00:00.000Z",
       "locale": "de",
-      "originalString": "23. bis 25. Januar 2026"
+      "originalString": "24. und 25. Januar 2026"
     },
-    "description": "Die Hippologica Berlin ist das Reitturnier der Internationalen Grüne Woche und bietet eine bunte Mischung aus dem Pferdesport.",
-    "href": "https://www.berlin.de/messen/1618561-7918641-hippologica-berlin.html",
+    "description": "Die Hochzeitsmesse Love Circus Bash Wedding-Festival bietet Inspirationen für den Hochzeitstag.",
+    "href": "https://www.berlin.de/messen/3747545-7918641-love-circus-bash.html",
+    "onMonth": 0
+  },
+  {
+    "name": "World Money Fair",
+    "date": {
+      "start": "2026-01-29T05:00:00.000Z",
+      "end": "2026-01-31T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "29. bis 31. Januar 2026"
+    },
+    "description": "Auf der World Money Fair präsentieren 300 Aussteller wie staatliche Münzstätten und Nationalbanken die Vielfalt der Münzen. Diese können auch erworben werden.",
+    "href": "https://www.berlin.de/messen/2918062-7918641-world-money-fair.html",
     "onMonth": 0
   },
   {
@@ -523,10 +511,10 @@
   {
     "name": "BeMarket",
     "date": {
-      "start": "2025-09-14T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
+      "start": "2025-09-21T05:00:00.000Z",
+      "end": "2025-09-21T05:00:00.000Z",
       "locale": "de",
-      "originalString": "14. September 2025"
+      "originalString": "21. September 2025"
     },
     "description": "Auf dem Kunst-Designmarkt BeMarket gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
     "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-bemarket.html",
@@ -1245,17 +1233,17 @@
     "onMonth": 4
   },
   {
+    "name": "Fujiko Nakaya: Nebelskulptur im Skulpturengarten",
+    "date": {},
+    "description": "Nakayas Nebelskulpturen überschreiten die traditionellen Grenzen der Bildhauerei, indem sie vorübergehende und grenzenlose Transformationen erschaffen, die das Publikum einbeziehen und der Atmosphäre eine formbare Gestalt verleihen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/fujiko-nakaya-nebelskulptur-im-skulpturengarten-ce3799be-708b-4889-9a49-f216d464ec01/",
+    "onMonth": 4
+  },
+  {
     "name": "Lygia Clark: Retrospektive",
     "date": {},
     "description": "Die Ausstellung in der gläsernen Ausstellungshalle präsentiert mit rund 150 Kunstwerken Clarks gesamtes künstlerisches Schaffen, angefangen von geometrisch-abstrakten Gemälden über partizipativ angelegte Skulpturen bis hin zu performativen Werken.",
     "href": "https://www.berlin.de/tickets/ausstellungen/lygia-clark-retrospektive-dbf26354-0fba-4397-9f6e-624dbccd817d/",
-    "onMonth": 4
-  },
-  {
-    "name": "Julian Rosefeldt: Nothing is Original",
-    "date": {},
-    "description": "Die Dekonstruktion der Mythenmaschine Kino, das Spiel mit medialen Stereotypen sowie das Zitieren aus Kunst-, Kultur- und Filmgeschichte ziehen sich wie ein roter Faden durch das Werk von Julian Rosefeldt.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/julian-rosefeldt-nothing-is-original-08600ac8-1a37-4318-8237-8f046829aacf/",
     "onMonth": 4
   },
   {
@@ -2505,27 +2493,27 @@
     "onMonth": 8
   },
   {
-    "name": "Kinofest",
+    "name": "Festival of Animation",
     "date": {
-      "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
       "locale": "de",
-      "originalString": "13. und 14. September 2025"
+      "originalString": "26. bis 28. September 2025"
     },
-    "description": "Für fünf Euro pro Film ins Kino: Das deutschlandweite Kinofest ist ein Highlight für Cineastinnen und Cineasten.",
-    "href": "https://www.berlin.de/kino/filmfestivals/8434119-2020379-kinofest.html",
+    "description": "Beim Festival of Animation dreht sich alles um das faszinierende Format des Animationsfilms. Das Festival ist 2025 wieder zurück, nachdem es letztes Jahr eine Pause eingelegt hat.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7763163-2020379-festival-of-animation.html",
     "onMonth": 8
   },
   {
-    "name": "Fantasy Filmfest",
+    "name": "FilmPolska",
     "date": {
-      "start": "2025-09-03T05:00:00.000Z",
-      "end": "2025-09-10T05:00:00.000Z",
+      "start": "2025-09-10T05:00:00.000Z",
+      "end": "2025-09-17T05:00:00.000Z",
       "locale": "de",
-      "originalString": "03. bis 10. September 2025"
+      "originalString": "10. bis 17. September 2025"
     },
-    "description": "Das Fantasy Filmfest entführt 2025 wieder in abgründige Tiefen und präsentiert Frisches und Altbekanntes aus der Horror- und Fantasywelt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2656724-2020379-fantasy-filmfest.html",
+    "description": "Das Festival des polnischen Films in Berlin zeigt die spannendsten polnischen Produktionen des vergangenen Jahres.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2463197-2020379-filmpolska.html",
     "onMonth": 8
   },
   {
@@ -2557,10 +2545,7 @@
   {
     "name": "Kartoffelfest in Dahlem",
     "date": {
-      "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "13. und 14. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auch in diesem Jahr wird der vielfältigen Erdknolle ein eigenes Fest gewidmet.",
     "href": "https://www.berlin.de/restaurants/food-events/6895468-5146458-kartoffelfest-in-dahlem.html",
@@ -2605,12 +2590,9 @@
   {
     "name": "Halal Food Festival Berlin",
     "date": {
-      "start": "2025-09-12T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "12. bis 14. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
-    "description": "Zum ersten Mal findet in Deutschland ein Halal Food Festival statt. Veranstaltungsort ist der Napoleon Komplex in Berlin.",
+    "description": "Das Halal Food Festival findet im Napoleon Komplex in Berlin statt.",
     "href": "https://www.berlin.de/restaurants/food-events/9562084-5146458-halal-food-festival-berlin.html",
     "onMonth": 8
   },
@@ -2645,7 +2627,7 @@
       "locale": "de",
       "originalString": "27. und 28. September 2025"
     },
-    "description": "Auf der Buchmesse \"Buch Berlin\" präsentieren rund 300kleine und mittelständische Verlage in der Arena Berlin ihr aktuelles Programm.",
+    "description": "Auf der Buchmesse «Buch Berlin» präsentieren rund 300kleine und mittelständische Verlage in der Arena Berlin ihr aktuelles Programm.",
     "href": "https://www.berlin.de/messen/3674308-7918641-buch-berlin.html",
     "onMonth": 8
   },
@@ -2700,7 +2682,7 @@
       "locale": "de",
       "originalString": "08. bis 15. Oktober 2025"
     },
-    "description": "Das Festival of Lights verzaubert Berlin. Zahlreiche Gebäude und Plätze in der Hauptstadt werden 10 Tage lang bunt illuminiert.",
+    "description": "Das Festival of Lights verzaubert Berlin. Zahlreiche Gebäude und Plätze in der Hauptstadt werden 8 Tage lang bunt illuminiert.",
     "href": "https://www.berlin.de/events/2097286-2229501-festival-of-lights.html",
     "onMonth": 9
   },
@@ -2856,9 +2838,9 @@
     "onMonth": 9
   },
   {
-    "name": "Stadtrundfahrt: Fotosafari durch das Festival of Lights",
+    "name": "Stadtrundfahrt: Lichterfestival",
     "date": {},
-    "description": "Zum Lichterfest im Oktober die kunstvoll illuminierten Gebäude der Berliner Innenstadt bei einer abendlichen Stadtrundfahrt erleben.",
+    "description": "Die Bustour mit drei Fotostopps startet am Alexanderplatz: Vorbei an 40 schön illuminiert historischen Wahrzeichen und Highlights der Stadt.",
     "href": "https://www.berlin.de/tourismus/stadtrundfahrten/x/3926448-5430289-stadtrundfahrt-lichterfeste.html",
     "onMonth": 9
   },
@@ -2874,6 +2856,13 @@
     "date": {},
     "description": "Die Stadtführung begibt sich auf die Spuren von berühmten Medizinern wie Robert Koch und macht die einmalige und spannende Geschichte der Berliner Charité erlebbar.",
     "href": "https://www.berlin.de/tourismus/stadtfuehrungen/x/6872326-5433807-stadtfuehrung-rundgang-berliner-charite.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Einhorn: Das Fabeltier in der Kunst",
+    "date": {},
+    "description": "Wie kein anderes Tier hat das Einhorn die Phantasie angeregt. Seit Jahrhunderten ist es in vielen Kulturen belegt. Seine Faszination hält bis heute an.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/einhorn-das-fabeltier-in-der-kunst-42d6947e-fbd9-44ec-bf5c-9b91963c9a8d/",
     "onMonth": 9
   },
   {
@@ -2932,7 +2921,7 @@
       "locale": "de",
       "originalString": "25. und 26. Oktober 2025"
     },
-    "description": "Auf der WeiAuf der WeinBerlin präsentieren Winzer:innen und Weingüter ihre besten und neuesten Weine.",
+    "description": "Auf der WeinBerlin präsentieren Winzer:innen und Weingüter ihre besten und neuesten Weine.",
     "href": "https://www.berlin.de/messen/8009015-7918641-weinberlin.html",
     "onMonth": 9
   },
@@ -3206,6 +3195,18 @@
     "onMonth": 10
   },
   {
+    "name": "Black International Cinema",
+    "date": {
+      "start": "2025-11-17T05:00:00.000Z",
+      "end": "2025-12-05T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "17. November bis 05. Dezember 2025"
+    },
+    "description": "Das Black International Cinema bietet Raum für den interkulturellen, künstlerischen und geistigen Austausch.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2463687-2020379-black-international-cinema.html",
+    "onMonth": 10
+  },
+  {
     "name": "Europäischer Kinotag",
     "date": {
       "start": "2025-11-23T05:00:00.000Z",
@@ -3227,18 +3228,6 @@
     },
     "description": "Das Filmfestival Afrikamera befasst sich von 2024 bis 2027 mit den vier aufeinanderfolgenden Themenschwerpunkten: Believe, Change, Reflect und Create.",
     "href": "https://www.berlin.de/kino/filmfestivals/2122467-2020379-afrikamera.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Internationales Kurzfilmfestival Berlin",
-    "date": {
-      "start": "2025-11-04T05:00:00.000Z",
-      "end": "2025-11-09T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "04. bis 09. November 2025"
-    },
-    "description": "500 Kurzfilme wählt das Team des Interfilm Kurzfilmfestival Berlin jedes Jahr aus 6000 Einreichungen aus über 120 Ländern aus.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2122682-2020379-internationales-kurzfilmfestival-berlin.html",
     "onMonth": 10
   },
   {
@@ -3318,6 +3307,18 @@
     },
     "description": "Auf der Bootsmesse für Motorboote und Segelyachten können Besucher sich über aktuelle Motor- und Segelboote, Hausboote, Pontons und Tauchequipment informieren.",
     "href": "https://www.berlin.de/messen/1618402-7918641-boot-und-fun-berlin.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Lange Nacht der Künste in Rheinsberg",
+    "date": {
+      "start": "2025-11-08T05:00:00.000Z",
+      "end": "2025-11-08T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "08. November 2025"
+    },
+    "description": "Von 13 Uhr bis in die Nacht finden in den kulturellen Einrichtungen der Stadt Führungen, Lesungen, Konzerte und spezielle Veranstaltungen für Familien statt.",
+    "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4621995-3479097-lange-nacht-der-kuenste-in-rheinsberg.html",
     "onMonth": 10
   },
   {
@@ -3450,18 +3451,6 @@
     "onMonth": 11
   },
   {
-    "name": "Weihnachtsfilmfestival",
-    "date": {
-      "start": "2025-12-18T05:00:00.000Z",
-      "end": "2025-12-21T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "18. bis 21. Dezember 2025"
-    },
-    "description": "Das erste Festival, das sich nur um das Thema Weihnachten dreht, findet im Kreuzberger Kino Moviemento statt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/4690721-2020379-weihnachtsfilmfestival.html",
-    "onMonth": 11
-  },
-  {
     "name": "Kurzfilmtag",
     "date": {
       "start": "2025-12-21T05:00:00.000Z",
@@ -3471,6 +3460,18 @@
     },
     "description": "Am 21. Dezember 2025, dem kürzesten Tag des Jahres, findet zum 14. Mal der Kurzfilmtag statt. Die unterschiedlichsten Orte in Berlin verwandeln sich wieder für einen Tag in ein Kino und zeigen ein abwechslungsreiches Programm.",
     "href": "https://www.berlin.de/tickets/filmfestivals/9356482-5595857-kurzfilmtag.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Weihnachtsfilmfestival",
+    "date": {
+      "start": "2025-12-18T05:00:00.000Z",
+      "end": "2025-12-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "18. bis 21. Dezember 2025"
+    },
+    "description": "Das erste Festival, das sich nur um das Thema Weihnachten dreht, findet im Kreuzberger Kino Moviemento statt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/4690721-2020379-weihnachtsfilmfestival.html",
     "onMonth": 11
   },
   {
@@ -3526,27 +3527,27 @@
     "onMonth": 11
   },
   {
-    "name": "Raw Wine Berlin",
+    "name": "Abi Zukunft",
     "date": {
-      "start": "2025-11-30T05:00:00.000Z",
-      "end": "2025-11-30T05:00:00.000Z",
+      "start": "2025-12-06T05:00:00.000Z",
+      "end": "2025-12-06T05:00:00.000Z",
       "locale": "de",
-      "originalString": "30. November 2025"
+      "originalString": "06. Dezember 2025"
     },
-    "description": "Auf der öffentlichen Weinmesse in der Markthalle Neun stellen Winzer aus aller Welt, die nach ökologischen Kriterien arbeiten, ihre Weine vor.",
-    "href": "https://www.berlin.de/messen/3968362-7918641-raw-wine-berlin.html",
+    "description": "Die Messe Abi Zukunft informiert Schüler, Eltern und Lehrer über die Möglichkeiten nach dem Abitur.",
+    "href": "https://www.berlin.de/messen/6406771-7918641-abi-zukunft-digital.html",
     "onMonth": 11
   },
   {
-    "name": "AngelWelt Berlin",
+    "name": "Traumberuf MINT-Messe Berlin",
     "date": {
-      "start": "2025-11-28T05:00:00.000Z",
-      "end": "2025-11-30T05:00:00.000Z",
+      "start": "2025-12-03T05:00:00.000Z",
+      "end": "2025-12-03T05:00:00.000Z",
       "locale": "de",
-      "originalString": "28. bis 30. November 2025"
+      "originalString": "03. Dezember 2025"
     },
-    "description": "Auf der Publikumsmesse AngelWelt präsentieren Unternehmen der Angelbranche aktuelle Produkte und Trends. Sport- und Freizeitangler können Fangtechniken üben.",
-    "href": "https://www.berlin.de/messen/3245533-7918641-angelwelt-berlin.html",
+    "description": "Die Messe Traumberuf MINT stellt Studiengänge und Ausbildungen im Bereich IT, Technik, Naturwissenschaften vor.",
+    "href": "https://www.berlin.de/messen/9808294-7918641-traumberuf-mintmesse-berlin.html",
     "onMonth": 11
   },
   {

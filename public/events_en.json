@@ -1318,6 +1318,15 @@
     "onMonth": 6
   },
   {
+    "name": "Kosher Street Food Festival",
+    "date": {
+      "originalString": "Date not known yet"
+    },
+    "description": "At the Jewish Community of Berlin's Kosher Street Food Festival, hungry visitors can sample sabich, falafel, Tel Aviv bowls and more.",
+    "href": "https://www.berlin.de/en/events/food-events/8274779-7974318-kosher-street-food-festival.en.html",
+    "onMonth": 6
+  },
+  {
     "name": "Bridge Festival in Schöneweide",
     "date": {
       "originalString": "Date not yet known"
@@ -1372,15 +1381,6 @@
     },
     "description": "The Bite Club street food market at Arena Berlin invites you to feast and celebrate with international delicacies, cool drinks and good music.",
     "href": "https://www.berlin.de/en/shopping/markets/street-food-markets/3862843-7974330-bite-club.en.html",
-    "onMonth": 6
-  },
-  {
-    "name": "Kosher Street Food Festival",
-    "date": {
-      "originalString": "Date not known yet"
-    },
-    "description": "At the Jewish Community of Berlin's Kosher Street Food Festival, hungry visitors can sample sabich, falafel, Tel Aviv bowls and more.",
-    "href": "https://www.berlin.de/en/events/food-events/8274779-7974318-kosher-street-food-festival.en.html",
     "onMonth": 6
   },
   {
@@ -1697,10 +1697,7 @@
   {
     "name": "Positions Berlin Art Fair",
     "date": {
-      "start": "2025-09-11T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 11 - 14, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The Positions Berlin Art Fair takes place in Hangars of the former Tempelhof Airport. Here, new as well as established contemporary works are presented next to works of classical modernism.",
     "href": "https://www.berlin.de/en/events/4537418-2842498-art-week-positions-berlin-art-fair.en.html",
@@ -1872,6 +1869,18 @@
     "onMonth": 8
   },
   {
+    "name": "Kurdish Film Festival",
+    "date": {
+      "start": "2025-09-25T05:00:00.000Z",
+      "end": "2025-10-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 25 - October 01, 2025"
+    },
+    "description": "The Kurdish Film Festival is a permanent fixture on the Berlin events calendar and is taking place for the 15th time this year.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7801209-7812887-kurdish-film-festival.en.html",
+    "onMonth": 8
+  },
+  {
     "name": "City Film Days",
     "date": {
       "start": "2025-09-19T05:00:00.000Z",
@@ -1884,18 +1893,6 @@
     "onMonth": 8
   },
   {
-    "name": "Kinofest",
-    "date": {
-      "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 13 and 14, 2025"
-    },
-    "description": "Only five euros per film: The Germany-wide Kinofest is a highlight for cinema lovers.",
-    "href": "https://www.berlin.de/en/events/film-festivals/8434119-7812887-kinofest.en.html",
-    "onMonth": 8
-  },
-  {
     "name": "Klára Hosnedlová: Embrace",
     "date": {},
     "description": "Klára Hosnedlová presents a monumental installation that revolves around home, utopias and everyday life in different political systems in the historic hall.",
@@ -1903,17 +1900,17 @@
     "onMonth": 8
   },
   {
+    "name": "Fujiko Nakaya: Fog Sculpture in the Sculpture Garden",
+    "date": {},
+    "description": "Nakaya's fog sculptures transcend the traditional boundaries of sculpture by creating temporary and limitless transformations that engage the audience and give the atmosphere a malleable form.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/fujiko-nakaya-fog-sculpture-in-the-sculpture-garden-ce3799be-708b-4889-9a49-f216d464ec01/",
+    "onMonth": 8
+  },
+  {
     "name": "Die Möglichkeit der Unvernunft",
     "date": {},
     "description": "Jan Böhmermann and the Royale group will occupy the Haus der Kulturen der Welt in Berlin at the end of September 2025 with the exhibition “Die Möglichkeit der Unvernunft” (The possibility of unreasonableness) and an extensive program of events.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/die-moeglichkeit-der-unvernunft-54f2354e-3f5f-4054-a3a9-77f42fe968fc/",
-    "onMonth": 8
-  },
-  {
-    "name": "Lygia Clark: Retrospective",
-    "date": {},
-    "description": "Beginning in May 2025, the Neue Nationalgalerie will show Brazilian artist Lygia Clark’s first retrospective in Germany.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/lygia-clark-retrospective-dbf26354-0fba-4397-9f6e-624dbccd817d/",
     "onMonth": 8
   },
   {
@@ -1931,10 +1928,7 @@
   {
     "name": "Potato Festival in Dahlem",
     "date": {
-      "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 13 and 14, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "A celebration for potato fans: This year, too, a special festival is dedicated to the multifaceted earth tuber.",
     "href": "https://www.berlin.de/en/events/food-events/6895468-7974318-potato-festival-dahlem.en.html",
@@ -1979,12 +1973,9 @@
   {
     "name": "Halal Food Festival Berlin",
     "date": {
-      "start": "2025-09-12T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 12 - 14, 2025"
+      "originalString": "Date not yet known"
     },
-    "description": "A Halal Food Festival is taking place in Germany for the first time. The venue is the Napoleon Complex in Berlin.",
+    "description": "A Halal Food Festival is taking place in the Napoleon Complex in Berlin.",
     "href": "https://www.berlin.de/en/events/food-events/9562084-7974318-halal-food-festival-berlin.en.html",
     "onMonth": 8
   },
@@ -2180,6 +2171,13 @@
     "onMonth": 9
   },
   {
+    "name": "Lygia Clark: Retrospective",
+    "date": {},
+    "description": "Beginning in May 2025, the Neue Nationalgalerie will show Brazilian artist Lygia Clark’s first retrospective in Germany.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/lygia-clark-retrospective-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "onMonth": 9
+  },
+  {
     "name": "Bar Convent Berlin",
     "date": {
       "start": "2025-10-06T05:00:00.000Z",
@@ -2216,18 +2214,6 @@
     "onMonth": 9
   },
   {
-    "name": "Ukrainian Film Festival",
-    "date": {
-      "start": "2025-10-22T05:00:00.000Z",
-      "end": "2025-10-26T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "October 22 - 26, 2025"
-    },
-    "description": "The Ukrainian Film Festival in Berlin will take place for the sixth time in 2025.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7826396-7812887-ukrainian-film-festival.en.html",
-    "onMonth": 9
-  },
-  {
     "name": "Punkfilmfest",
     "date": {
       "start": "2025-10-20T05:00:00.000Z",
@@ -2237,6 +2223,18 @@
     },
     "description": "Under the motto «Too Drunk to Watch», the Punkfilmfest shows movies dealing with the punk subculture, anarchy and rebellion.",
     "href": "https://www.berlin.de/en/events/film-festivals/7742361-7812887-punkfilmfest.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Ukrainian Film Festival",
+    "date": {
+      "start": "2025-10-22T05:00:00.000Z",
+      "end": "2025-10-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 22 - 26, 2025"
+    },
+    "description": "The Ukrainian Film Festival in Berlin will take place for the sixth time in 2025.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7826396-7812887-ukrainian-film-festival.en.html",
     "onMonth": 9
   },
   {
@@ -2366,6 +2364,18 @@
     "onMonth": 10
   },
   {
+    "name": "Black International Cinema",
+    "date": {
+      "start": "2025-11-17T05:00:00.000Z",
+      "end": "2025-12-05T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 17 - December 05, 2025"
+    },
+    "description": "Black International Cinema offers space for intercultural, artistic and intellectual exchange.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2463687-7812887-black-international-cinema.en.html",
+    "onMonth": 10
+  },
+  {
     "name": "European Arthouse Cinema Day",
     "date": {
       "start": "2025-11-23T05:00:00.000Z",
@@ -2387,18 +2397,6 @@
     },
     "description": "From 2024 to 2027, the Afrikamera film festival will focus on four consecutive themes: Believe, Change, Reflect and Create.",
     "href": "https://www.berlin.de/en/events/film-festivals/2122467-7812887-afrikamera.en.html",
-    "onMonth": 10
-  },
-  {
-    "name": "International Short Film Festival Berlin",
-    "date": {
-      "start": "2025-11-04T05:00:00.000Z",
-      "end": "2025-11-09T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 04 - 09, 2025"
-    },
-    "description": "Every year in autumn, the International Short Film Festival attracts cinephiles from all over the world to Berlin. The festival presents about 400 films from over 120 countries.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2122682-7812887-short-film-festival-berlin.en.html",
     "onMonth": 10
   },
   {
