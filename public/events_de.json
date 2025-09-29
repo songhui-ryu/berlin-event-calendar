@@ -135,17 +135,10 @@
     "onMonth": 0
   },
   {
-    "name": "Dinosaurier! Zeitalter der Riesenechsen",
+    "name": "Klára Hosnedlová: Embrace",
     "date": {},
-    "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/dinosaurier-zeitalter-der-riesenechsen-0797cec2-035c-4851-908d-d2e113eaea48/",
-    "onMonth": 0
-  },
-  {
-    "name": "Der zweite Blick: Spielarten der Liebe",
-    "date": {},
-    "description": "„Spielarten der Liebe“, der erste in Kooperation mit dem Schwulen Museum entwickelte Teil der Reihe, ermöglicht einen zweiten Blick auf Sammlungswerke, die sich mit der Vielfalt sexueller Identitäten, ihrer Wahrnehmung, Bewertung und künstlerischer Verarbeitung...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/der-zweite-blick-spielarten-der-liebe-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
+    "description": "Mit einer monumentalen Installation, die um die Heimat, Utopien und den Alltag in unterschiedlichen politischen Systemen kreist, bespielt Klára Hosnedlová die historische Halle im Hamburger Bahnhof.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/klra-hosnedlov-embrace-f0958a46-f223-45d5-a9a8-654bc5e0477b/",
     "onMonth": 0
   },
   {
@@ -153,6 +146,13 @@
     "date": {},
     "description": "Petrit Halilaj präsentiert im Hamburger Bahnhof seine erste große institutionelle Einzelausstellung in Berlin. Im Mittelpunkt steht das erste Opernwerk des Künstlers, \"Syrigana\".",
     "href": "https://www.berlin.de/tickets/ausstellungen/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
+    "onMonth": 0
+  },
+  {
+    "name": "Vincent: Zwischen Wahn und Wunder",
+    "date": {},
+    "description": "Van Goghs Farbenpracht strahlt in Berlin: Ab Ende September 2025 lädt die Erlebnisausstellung \"Vincent: Zwischen Wahn und Wunder\" in Berlin auf eine Reise in die ebenso farbenreiche wie ambivalente Welt des legendären Künstlers ein.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/vincent-zwischen-wahn-und-wunder-8a6e474d-3834-47f9-ab07-849855a95643/",
     "onMonth": 0
   },
   {
@@ -511,10 +511,10 @@
   {
     "name": "BeMarket",
     "date": {
-      "start": "2025-09-21T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
+      "start": "2025-10-12T05:00:00.000Z",
+      "end": "2025-10-12T05:00:00.000Z",
       "locale": "de",
-      "originalString": "21. September 2025"
+      "originalString": "12. Oktober 2025"
     },
     "description": "Auf dem Kunst-Designmarkt BeMarket gibt es handgefertigte Originale von Berliner Künstler:innen zu entdecken.",
     "href": "https://www.berlin.de/special/shopping/designmaerkte/7355036-1741634-bemarket.html",
@@ -853,10 +853,7 @@
   {
     "name": "Asian Streetfood Festival",
     "date": {
-      "start": "2025-09-21T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "21. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Asian Streetfood Festival auf dem RAW-Gelände entfalten sich die Aromen der asiatischen Küche.",
     "href": "https://www.berlin.de/restaurants/food-events/8416839-5146458-asian-streetfood-festival.html",
@@ -875,12 +872,12 @@
     "onMonth": 3
   },
   {
-    "name": "Marathon Expo",
+    "name": "Halbmarathon Expo",
     "date": {
-      "start": "2025-09-18T05:00:00.000Z",
-      "end": "2025-09-20T05:00:00.000Z",
+      "start": "2025-03-27T05:00:00.000Z",
+      "end": "2025-03-28T05:00:00.000Z",
       "locale": "de",
-      "originalString": "18. bis 20. September 2025"
+      "originalString": "27. und 28. März 2025"
     },
     "description": "Die Messe (Halb)marathon Expo findet zeitgleich zu den großen Sportevents Berliner Halbmarathon und Berlin-Marathon statt.",
     "href": "https://www.berlin.de/messen/62703-7918641-marathon-expo.html",
@@ -1226,13 +1223,6 @@
     "onMonth": 4
   },
   {
-    "name": "Klára Hosnedlová: Embrace",
-    "date": {},
-    "description": "Mit einer monumentalen Installation, die um die Heimat, Utopien und den Alltag in unterschiedlichen politischen Systemen kreist, bespielt Klára Hosnedlová die historische Halle im Hamburger Bahnhof.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/klra-hosnedlov-embrace-f0958a46-f223-45d5-a9a8-654bc5e0477b/",
-    "onMonth": 4
-  },
-  {
     "name": "Fujiko Nakaya: Nebelskulptur im Skulpturengarten",
     "date": {},
     "description": "Nakayas Nebelskulpturen überschreiten die traditionellen Grenzen der Bildhauerei, indem sie vorübergehende und grenzenlose Transformationen erschaffen, die das Publikum einbeziehen und der Atmosphäre eine formbare Gestalt verleihen.",
@@ -1273,7 +1263,10 @@
   {
     "name": "Gartenträume Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2026-05-29T05:00:00.000Z",
+      "end": "2026-05-31T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "29. bis 31. Mai 2026"
     },
     "description": "Die Besuchermesse stellt aktuelle Produkte und Trends aus dem Bereich Garten und Pflanzen vor. Gartenfreunde können sich bei Workshops und Vorträgen Pflegetipps holen.",
     "href": "https://www.berlin.de/messen/2928096-7918641-gartentraeume-berlin.html",
@@ -1614,7 +1607,10 @@
   {
     "name": "Sticks & Stones",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2026-06-06T05:00:00.000Z",
+      "end": "2026-06-06T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "06. Juni 2026"
     },
     "description": "Auf der Karrieremesse können alle queeren und Vielfalt feiernden Menschen Arbeitgebende kennenlernen, geschäftliche Kontakte knüpfen und Karrierevorträge besuchen.",
     "href": "https://www.berlin.de/messen/1729611-7918641-sticks-and-stones.html",
@@ -2004,10 +2000,7 @@
   {
     "name": "Schollenfest",
     "date": {
-      "start": "2025-08-22T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "22. August bis 07. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Schollenfest in Tegel präsentiert Familien-Spaß für Groß und Klein im Umfeld des Wohngebietes «Freie Scholle».",
     "href": "https://www.berlin.de/events/2620798-2229501-schollenfest-in-tegel.html",
@@ -2337,10 +2330,7 @@
   {
     "name": "Radioeins Parkfest",
     "date": {
-      "start": "2025-08-30T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "30. August bis 07. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Radioeins Parkfest können Besucher:innen ein vielseitiges Programm mit Live-Sendungen, Kino, Konzerten, Mitmachaktionen und Kinderprogramm erleben.",
     "href": "https://www.berlin.de/events/5983059-2229501-radioeins-parkfest.html",
@@ -2423,10 +2413,7 @@
   {
     "name": "Eisenbahnfest im Betriebswerk Schöneweide",
     "date": {
-      "start": "2025-09-20T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "20. und 21. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Eisenbahnfest lädt alle Lokomotivenfans ein, das Bahnbetriebswerk Schöneweide kennen zu lernen.",
     "href": "https://www.berlin.de/events/5006532-2229501-eisenbahnfest-im-betriebswerk-schoenewei.html",
@@ -2435,10 +2422,7 @@
   {
     "name": "Flugplatzfest in Gatow",
     "date": {
-      "start": "2025-09-06T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "06. und 07. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Alljährlich zum Tag der Reservisten lädt das Militärhistorische Museum der Bundeswehr in Gatow zum Flugplatzfest.",
     "href": "https://www.berlin.de/events/7600719-2229501-flugplatzfest-in-gatow.html",
@@ -2459,10 +2443,7 @@
   {
     "name": "Seenfest am Orankesee",
     "date": {
-      "start": "2025-09-06T05:00:00.000Z",
-      "end": "2025-09-06T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "06. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Seenfest im Strandbad Orankesee präsentiert eine gelungene Mischung aus Musik, Zirkuskunst, Akrobatik, Zauberei und Straßentheater.",
     "href": "https://www.berlin.de/events/7608000-2229501-seenfest-am-orankesee.html",
@@ -2478,6 +2459,18 @@
     },
     "description": "Das Tegeler Hafenfest in Alt-Tegel entlang der Greenwichpromenade lädt ein zu Live-Musik, Fahrgeschäften und Rummel-Atmosphäre.",
     "href": "https://www.berlin.de/events/5979419-2229501-tegeler-hafenfest.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Hive Film Days",
+    "date": {
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "26. bis 28. September 2025"
+    },
+    "description": "Die International Short Film Days finden in diesem Jahr zum fünften Mal statt und zelebrieren die Diversität.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7742157-2020379-hive-film-days.html",
     "onMonth": 8
   },
   {
@@ -2502,18 +2495,6 @@
     },
     "description": "Beim Festival of Animation dreht sich alles um das faszinierende Format des Animationsfilms. Das Festival ist 2025 wieder zurück, nachdem es letztes Jahr eine Pause eingelegt hat.",
     "href": "https://www.berlin.de/kino/filmfestivals/7763163-2020379-festival-of-animation.html",
-    "onMonth": 8
-  },
-  {
-    "name": "FilmPolska",
-    "date": {
-      "start": "2025-09-10T05:00:00.000Z",
-      "end": "2025-09-17T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "10. bis 17. September 2025"
-    },
-    "description": "Das Festival des polnischen Films in Berlin zeigt die spannendsten polnischen Produktionen des vergangenen Jahres.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2463197-2020379-filmpolska.html",
     "onMonth": 8
   },
   {
@@ -2826,6 +2807,18 @@
     "onMonth": 9
   },
   {
+    "name": "Treptower Herbst",
+    "date": {
+      "start": "2025-10-17T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "17. bis 19. Oktober 2025"
+    },
+    "description": "Es wird herbstlich am Treptower Park! Drei Tage lang versprechen Street Food-Stände, Livemusik und Kinderattraktionen pures Entertainment für Besucherinnen und Besucher.",
+    "href": "https://www.berlin.de/events/8476814-2229501-treptower-herbst.html",
+    "onMonth": 9
+  },
+  {
     "name": "Hauptstadtwiesn an der Spinner-Brücke",
     "date": {
       "start": "2025-09-12T05:00:00.000Z",
@@ -2835,6 +2828,18 @@
     },
     "description": "Die «Hauptstadtwiesn» an der Spinner-Brücke bieten Oktoberfest-Atmosphäre bei Paulaner Festbier und mit Oktoberfestband.",
     "href": "https://www.berlin.de/events/4544203-2229501-hauptstadtswiesn-oktoberfest-spinner-bru.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Oktoberfest auf dem Alexanderplatz",
+    "date": {
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-10-05T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "26. September bis 05. Oktober 2025"
+    },
+    "description": "Von September bis Oktober heißt es auf dem Alexanderplatz in Mitte: Ein Prosit der Gemütlichkeit.",
+    "href": "https://www.berlin.de/events/2698409-2229501-oktoberfest-auf-dem-alexanderplatz.html",
     "onMonth": 9
   },
   {
@@ -2866,6 +2871,18 @@
     "onMonth": 9
   },
   {
+    "name": "FrauenWelten",
+    "date": {
+      "start": "2025-10-29T05:00:00.000Z",
+      "end": "2025-11-04T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "29. Oktober bis 04. November 2025"
+    },
+    "description": "Das Filmfestival «FrauenWelten» zeigt Filme über Frauen, die für Menschenrechte, Selbstbestimmung und gegen Gewalt kämpfen",
+    "href": "https://www.berlin.de/kino/filmfestivals/7828766-2020379-frauenwelten.html",
+    "onMonth": 9
+  },
+  {
     "name": "Down Under - Australian & New Zealand Film Festival",
     "date": {
       "start": "2025-10-16T05:00:00.000Z",
@@ -2887,18 +2904,6 @@
     },
     "description": "Beim Punkfilmfest werden unter dem Motto «Too Drunk to Watch» Filme gezeigt, die sich mit Punk, Anarchie und Widerstand befassen.",
     "href": "https://www.berlin.de/kino/filmfestivals/7742361-2020379-punkfilmfest.html",
-    "onMonth": 9
-  },
-  {
-    "name": "Ukrainisches Filmfestival",
-    "date": {
-      "start": "2025-10-22T05:00:00.000Z",
-      "end": "2025-10-26T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "22. bis 26. Oktober 2025"
-    },
-    "description": "Das Ukrainische Filmfestival findet 2025 bereits zum sechsten Mal statt.",
-    "href": "https://www.berlin.de/kino/filmfestivals/7826396-2020379-ukrainisches-filmfestival.html",
     "onMonth": 9
   },
   {
@@ -3153,10 +3158,10 @@
     "onMonth": 10
   },
   {
-    "name": "35 Jahre Mauerfall und Friedliche Revolution",
+    "name": "Veranstaltungen am 09. November",
     "date": {},
-    "description": "Events, Konzerte und Ausstellungen zu 35 Jahre Mauerfall in Berlin: 2024 feiern Berlin und Deutschland das Jubiläum des Falls der Berliner Mauer im Jahr 1989.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/35-jahre-mauerfall/",
+    "description": "Gedenkveranstaltungen zur Ausrufung der deutschen Republik, dem Hitler-Putsch, Pogromnacht oder zum Berliner Mauerfall.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/9-november/",
     "onMonth": 10
   },
   {
@@ -3195,6 +3200,27 @@
     "onMonth": 10
   },
   {
+    "name": "Soundwatch Music Film Festival",
+    "date": {
+      "originalString": "Termin noch nicht bekannt"
+    },
+    "description": "Ohren gespitzt: Beim Soundwatch Music Film Festival stehen die Scores der Filme im Mittelpunkt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/7818260-2020379-soundwatch-music-film-festival.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Internationales Kurzfilmfestival Berlin",
+    "date": {
+      "start": "2025-11-04T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "04. bis 09. November 2025"
+    },
+    "description": "500 Kurzfilme wählt das Team des Interfilm Kurzfilmfestival Berlin jedes Jahr aus 6000 Einreichungen aus über 120 Ländern aus.",
+    "href": "https://www.berlin.de/kino/filmfestivals/2122682-2020379-internationales-kurzfilmfestival-berlin.html",
+    "onMonth": 10
+  },
+  {
     "name": "Black International Cinema",
     "date": {
       "start": "2025-11-17T05:00:00.000Z",
@@ -3204,37 +3230,6 @@
     },
     "description": "Das Black International Cinema bietet Raum für den interkulturellen, künstlerischen und geistigen Austausch.",
     "href": "https://www.berlin.de/kino/filmfestivals/2463687-2020379-black-international-cinema.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Europäischer Kinotag",
-    "date": {
-      "start": "2025-11-23T05:00:00.000Z",
-      "end": "2025-11-23T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "23. November 2025"
-    },
-    "description": "Zum Europäischen Kinotag veranstalten wieder zahlreiche Berliner Kinos Sonderprogramme zum kleinen Preis.",
-    "href": "https://www.berlin.de/kino/filmfestivals/7059286-2020379-europaeischer-kinotag.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Afrikamera",
-    "date": {
-      "start": "2025-11-11T05:00:00.000Z",
-      "end": "2025-11-16T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "11. bis 16. November 2025"
-    },
-    "description": "Das Filmfestival Afrikamera befasst sich von 2024 bis 2027 mit den vier aufeinanderfolgenden Themenschwerpunkten: Believe, Change, Reflect und Create.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2122467-2020379-afrikamera.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Unter die Lupe genommen: Kunst und Tier",
-    "date": {},
-    "description": "In den Gemälden der Alten Meister taucht eine Vielzahl von Tieren auf. Was diese Tiere vom Mittelalter bis ins Rokoko zu bedeuten haben, ist uns heute fremd geworden. In den Tandemführungen zeigen die Biologin Ursula Müller und der Kunsthistoriker Thomas...",
-    "href": "https://www.berlin.de/tickets/ausstellungen/unter-die-lupe-genommen-kunst-und-tier-050d6c36-9c51-4212-a9de-34cb2da73c61/",
     "onMonth": 10
   },
   {
@@ -3481,13 +3476,6 @@
     },
     "description": "Feuerzangenbowle mit Heinz Rühmann: Der Nikolaikirchplatz lädt mit dem Filmklassiker «Die Feuerzangenbowle» zum kostenlosen Kino-Vergnügen.",
     "href": "https://www.berlin.de/kino/filmfestivals/5075128-2020379-winter-film-fest.html",
-    "onMonth": 11
-  },
-  {
-    "name": "BUBBLE PLANET - DAS ERLEBNISMUSEUM FÜR ALLE SINNE | Zeitfenstertickets",
-    "date": {},
-    "description": "",
-    "href": "https://www.berlin.deundefined",
     "onMonth": 11
   },
   {

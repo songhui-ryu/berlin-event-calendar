@@ -134,10 +134,10 @@
   {
     "name": "JuBi Berlin",
     "date": {
-      "start": "2025-09-20T05:00:00.000Z",
-      "end": "2025-09-20T05:00:00.000Z",
+      "start": "2026-01-10T05:00:00.000Z",
+      "end": "2026-01-10T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 20, 2025"
+      "originalString": "January 10, 2026"
     },
     "description": "The youth education fair JuBi provides information about student exchanges, language trips, au pairs and internships abroad.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/job-career/3485400-7988645-jubi-berlin.en.html",
@@ -168,6 +168,34 @@
     "onMonth": 0
   },
   {
+    "name": "Klára Hosnedlová: Embrace",
+    "date": {},
+    "description": "Klára Hosnedlová presents a monumental installation that revolves around home, utopias and everyday life in different political systems in the historic hall.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/klra-hosnedlov-embrace-f0958a46-f223-45d5-a9a8-654bc5e0477b/",
+    "onMonth": 0
+  },
+  {
+    "name": "Petrit Halilaj: An Opera Out of Time",
+    "date": {},
+    "description": "Petrit Halilaj will present his first major institutional solo exhibition in Berlin at Hamburger Bahnhof. The focus is on the artist's first opera work, “Syrigana”",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
+    "onMonth": 0
+  },
+  {
+    "name": "Vincent: Between Madness and Wonder",
+    "date": {},
+    "description": "Van Gogh's colorful splendor shines in Berlin: From the end of September 2025, the experience exhibition “Vincent: Between Delusion and Wonder” in Berlin invites you on a journey into the equally colorful and ambivalent world of the legendary artist.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/vincent-between-madness-and-wonder-8a6e474d-3834-47f9-ab07-849855a95643/",
+    "onMonth": 0
+  },
+  {
+    "name": "Bubble Planet: The interactive museum for all the senses",
+    "date": {},
+    "description": "The magical cosmos of Bubble Planet in Berlin is a fascinating experience for all the senses—and offers a great opportunity to let everyday worries burst like soap bubbles.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/bubble-planet-the-interactive-museum-for-all-the-senses-087a5314-df0a-4c9f-9d94-110e7bd91d9d/",
+    "onMonth": 0
+  },
+  {
     "name": "Dinosaurs! Age of the Giant Lizards",
     "date": {},
     "description": "The new special exhibition \"Dinosaurs!\" lets you discover dinosaurs from the three geological eras - Triassic, Jurassic and Cretaceous - for the first time. The atar of the exhibition is Berlin's very own T-Rex \"Tristan Otto\".",
@@ -179,13 +207,6 @@
     "date": {},
     "description": "A cooperation of Berlin's Gay Museum and the Bode Museum, \"All Forms of Love\" casts a second look on works in the Bode collection that deal with the diversity of sexual identities and LGBTIQ life in art from previous eras.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/the-second-glance-all-forms-of-love-0e9d5db1-0f5d-4d77-8ee4-2e9402218258/",
-    "onMonth": 0
-  },
-  {
-    "name": "Petrit Halilaj: An Opera Out of Time",
-    "date": {},
-    "description": "Petrit Halilaj will present his first major institutional solo exhibition in Berlin at Hamburger Bahnhof. The focus is on the artist's first opera work, “Syrigana”",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/petrit-halilaj-an-opera-out-of-time-1e216700-a94b-4cd0-bfd6-699e9460cf18/",
     "onMonth": 0
   },
   {
@@ -214,27 +235,6 @@
     "date": {},
     "description": "Hamburger Bahnhof presents figurative drawings by Toyin Ojih Odutola that interplay between history and representation.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/toyin-ojih-odutola-u22-adijatu-strasse-bd925778-849a-4cc5-a2fd-c8840965b846/",
-    "onMonth": 0
-  },
-  {
-    "name": "Annika Kahrs",
-    "date": {},
-    "description": "Berlin-based artist Annika Kahrs presents the most comprehensive selection of her works to date at Hamburger Bahnhof, exploring the intersection of art and music.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/annika-kahrs-d5fd6818-8e77-496a-8a44-162b9d29d2de/",
-    "onMonth": 0
-  },
-  {
-    "name": "Berlin Global",
-    "date": {},
-    "description": "Yesterday, today, tomorrow: much of what happens in Berlin has an impact on the world. And much of what happens in the world has an impact on Berlin.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/berlin-global-bd617310-7d65-4c6a-a9a4-6e1262fd070f/",
-    "onMonth": 0
-  },
-  {
-    "name": "Cultural Contacts. Living in Europe",
-    "date": {},
-    "description": "Spread over 700 square metres, the permanent exhibition 'Cultural Contacts. Living in Europe' is the first ever display of a cross-section of all the museum's diverse collections. It examines discussions on social movements and social boundaries. The...",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/cultural-contacts-living-in-europe-0683c202-d74d-4c88-920d-cdb67582caa5/",
     "onMonth": 0
   },
   {
@@ -707,10 +707,7 @@
   {
     "name": "Asian Streetfood Festival",
     "date": {
-      "start": "2025-09-21T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 21, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "The diversity of Asian culture unfolds at the Asian Streetfood Festival on the RAW site.",
     "href": "https://www.berlin.de/en/events/food-events/8416839-7974318-asian-streetfood-festival.en.html",
@@ -728,10 +725,10 @@
   {
     "name": "Paper Positions",
     "date": {
-      "start": "2025-09-18T05:00:00.000Z",
-      "end": "2025-09-20T05:00:00.000Z",
+      "start": "2026-03-27T05:00:00.000Z",
+      "end": "2026-03-28T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 18-20, 2025"
+      "originalString": "March 27-28, 2026"
     },
     "description": "The (Half)marathon Expo is held biannually in spring and fall as a complementary trade show to the Berlin Half Marathon and the Berlin Marathon. This is where the race number distribution for the races takes place.",
     "href": "https://www.berlin.de/en/trade-fairs/62703-7918797-marathon-expo.en.html",
@@ -984,7 +981,10 @@
   {
     "name": "Gartenträume Berlin",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2026-05-29T05:00:00.000Z",
+      "end": "2026-05-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 29-31, 2026"
     },
     "description": "This visitor fair presents current products and trends from the gardening and plant sector. Garden lovers can get tips on plant care at workshops and lectures.",
     "href": "https://www.berlin.de/en/trade-fairs/2928096-7918797-gartentraeume-berlin.en.html",
@@ -1230,7 +1230,10 @@
   {
     "name": "Sticks & Stones",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2026-06-06T05:00:00.000Z",
+      "end": "2026-06-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 6, 2026"
     },
     "description": "At this LGBTIQ job fair, visitors can meet potential employers, make business contacts and attend talks about the career world.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/job-career/1729611-7988645-sticks-and-stones.en.html",
@@ -1857,18 +1860,6 @@
     "onMonth": 8
   },
   {
-    "name": "Festival of Animation",
-    "date": {
-      "start": "2025-09-26T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 26 - 28, 2025"
-    },
-    "description": "For three days, the Festival of Animation is all about the fascinating format of animated film. Over 150 films and positions will be shown.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7763163-7812887-festival-of-animation.en.html",
-    "onMonth": 8
-  },
-  {
     "name": "Kurdish Film Festival",
     "date": {
       "start": "2025-09-25T05:00:00.000Z",
@@ -1881,22 +1872,27 @@
     "onMonth": 8
   },
   {
-    "name": "City Film Days",
+    "name": "Down Under - Australian & New Zealand Film Festival",
     "date": {
-      "start": "2025-09-19T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
+      "start": "2025-10-16T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 19 - 21, 2025"
+      "originalString": "October 16 - 19, 2025"
     },
-    "description": "The City Film Days film festival takes a cinematic look at Tbilisi, the capital of Georgia, in 2025.",
-    "href": "https://www.berlin.de/en/events/film-festivals/9760600-7812887-city-film-days.en.html",
+    "description": "The aim of Down Under is to present the multifaceted Australasian film culture across all genre boundaries and formats.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2783913-7812887-down-under-berlin-australian-film-festiv.en.html",
     "onMonth": 8
   },
   {
-    "name": "Klára Hosnedlová: Embrace",
-    "date": {},
-    "description": "Klára Hosnedlová presents a monumental installation that revolves around home, utopias and everyday life in different political systems in the historic hall.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/klra-hosnedlov-embrace-f0958a46-f223-45d5-a9a8-654bc5e0477b/",
+    "name": "Festival of Animation",
+    "date": {
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 26 - 28, 2025"
+    },
+    "description": "For three days, the Festival of Animation is all about the fascinating format of animated film. Over 150 films and positions will be shown.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7763163-7812887-festival-of-animation.en.html",
     "onMonth": 8
   },
   {
@@ -1904,13 +1900,6 @@
     "date": {},
     "description": "Nakaya's fog sculptures transcend the traditional boundaries of sculpture by creating temporary and limitless transformations that engage the audience and give the atmosphere a malleable form.",
     "href": "https://www.berlin.de/en/tickets/exhibitions/fujiko-nakaya-fog-sculpture-in-the-sculpture-garden-ce3799be-708b-4889-9a49-f216d464ec01/",
-    "onMonth": 8
-  },
-  {
-    "name": "Die Möglichkeit der Unvernunft",
-    "date": {},
-    "description": "Jan Böhmermann and the Royale group will occupy the Haus der Kulturen der Welt in Berlin at the end of September 2025 with the exhibition “Die Möglichkeit der Unvernunft” (The possibility of unreasonableness) and an extensive program of events.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/die-moeglichkeit-der-unvernunft-54f2354e-3f5f-4054-a3a9-77f42fe968fc/",
     "onMonth": 8
   },
   {
@@ -1982,10 +1971,10 @@
   {
     "name": "(Half)Marathon Expo",
     "date": {
-      "start": "2025-09-18T05:00:00.000Z",
-      "end": "2025-09-20T05:00:00.000Z",
+      "start": "2026-03-27T05:00:00.000Z",
+      "end": "2026-03-28T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 18-20, 2025"
+      "originalString": "March 27-28, 2026"
     },
     "description": "The (Half)marathon Expo is held biannually in spring and fall as a complementary trade show to the Berlin Half Marathon and the Berlin Marathon. This is where the race number distribution for the races takes place.",
     "href": "https://www.berlin.de/en/trade-fairs/62703-7918797-marathon-expo.en.html",
@@ -2168,6 +2157,13 @@
     },
     "description": "With Paulaner beer and a band playing traditional folk music, the Oktoberfest celebration \"Hauptstadtwiesn\" brings Bavarian atmosphere to Berlin.",
     "href": "https://www.berlin.de/en/events/oktoberfest/4544203-5907795-hauptstadtswiesn-oktoberfest-spinner-bru.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Die Möglichkeit der Unvernunft",
+    "date": {},
+    "description": "Jan Böhmermann and the Royale group will occupy the Haus der Kulturen der Welt in Berlin at the end of September 2025 with the exhibition “Die Möglichkeit der Unvernunft” (The possibility of unreasonableness) and an extensive program of events.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/die-moeglichkeit-der-unvernunft-54f2354e-3f5f-4054-a3a9-77f42fe968fc/",
     "onMonth": 9
   },
   {
@@ -2364,6 +2360,18 @@
     "onMonth": 10
   },
   {
+    "name": "International Short Film Festival Berlin",
+    "date": {
+      "start": "2025-11-04T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 04 - 09, 2025"
+    },
+    "description": "Every year in autumn, the International Short Film Festival attracts cinephiles from all over the world to Berlin. The festival presents about 400 films from over 120 countries.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2122682-7812887-short-film-festival-berlin.en.html",
+    "onMonth": 10
+  },
+  {
     "name": "Black International Cinema",
     "date": {
       "start": "2025-11-17T05:00:00.000Z",
@@ -2385,18 +2393,6 @@
     },
     "description": "For European Cinema Day, numerous Berlin cinemas are once again organizing special programs at a low price.",
     "href": "https://www.berlin.de/en/events/film-festivals/7059286-7812887-european-cinema-day.en.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Afrikamera",
-    "date": {
-      "start": "2025-11-11T05:00:00.000Z",
-      "end": "2025-11-16T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "November 11 - 16, 2025"
-    },
-    "description": "From 2024 to 2027, the Afrikamera film festival will focus on four consecutive themes: Believe, Change, Reflect and Create.",
-    "href": "https://www.berlin.de/en/events/film-festivals/2122467-7812887-afrikamera.en.html",
     "onMonth": 10
   },
   {
@@ -2438,7 +2434,10 @@
   {
     "name": "LGBTIQA Winterdays and Christmas Avenue",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2025-11-04T05:00:00.000Z",
+      "end": "2025-12-23T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 04 to December 23, 2025"
     },
     "description": "At the LGBTQIA Winterdays and the Christmas market on Nollendorfplatz, atmospheric lighting, a varied stage program and high-quality delicacies await visitors.",
     "href": "https://www.berlin.de/en/christmas-markets/5948422-3230598-christmas-avenue.en.html",
