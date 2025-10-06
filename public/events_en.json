@@ -644,7 +644,10 @@
   {
     "name": "Wartenberg Easter Run",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2026-04-05T05:00:00.000Z",
+      "end": "2026-04-05T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 5, 2026"
     },
     "description": "The traditional Easter run of Wartenberger SV offers four distances: A half marathon, a scenic 12.3 kilometer landscape run, a 4.1 kilometer run and a children's run.",
     "href": "https://www.berlin.de/en/sports-leisure/running/8017103-7813334-wartenberger-osterlauf.en.html",
@@ -951,7 +954,10 @@
   {
     "name": "Women's Run Berlin",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2026-05-16T05:00:00.000Z",
+      "end": "2026-05-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 16, 2026"
     },
     "description": "The Women's Run is an annual highlight of the Berlin running calendar.",
     "href": "https://www.berlin.de/en/sports-leisure/running/2101687-7813334-avon-womens-run-berlin.en.html",
@@ -960,7 +966,10 @@
   {
     "name": "Berlin Triathlon",
     "date": {
-      "originalString": "Date not yet known"
+      "start": "2026-06-06T05:00:00.000Z",
+      "end": "2026-06-07T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 6 and 7, 2026"
     },
     "description": "The Berlin Triathlon will take place for the 20th time in 2026. It starts at the Island of Youth in Treptower Park in Berlin.",
     "href": "https://www.berlin.de/en/sports-leisure/running/4399613-7813334-berlin-triathlon.en.html",
@@ -1405,10 +1414,7 @@
   {
     "name": "Droidcon",
     "date": {
-      "start": "2025-09-24T05:00:00.000Z",
-      "end": "2025-09-26T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 24-26, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "Android experts meet at droidcon Berlin to further develop the operating system and build a strong network.",
     "href": "https://www.berlin.de/en/trade-fairs/sector/technology/5695399-7968909-droidcon-berlin.en.html",
@@ -1950,10 +1956,7 @@
   {
     "name": "Berlin Ramen Festival",
     "date": {
-      "start": "2025-09-27T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
-      "locale": "en",
-      "originalString": "September 27 and 28, 2025"
+      "originalString": "Date not yet known"
     },
     "description": "At the Berlin Ramen Festival, everything revolves around the internationally popular noodle soup and other traditional Japanese dishes.",
     "href": "https://www.berlin.de/en/events/food-events/8457449-7974318-berlin-ramen-festival.en.html",
@@ -2035,6 +2038,18 @@
     },
     "description": "Every year on October 03, the Islamic religious communities in Germany organize the nationwide Open Mosque Day.",
     "href": "https://www.berlin.de/en/events/3205288-2842498-open-mosque-day.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Voices Berlin Festival",
+    "date": {
+      "start": "2025-10-24T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 24 - November 16, 2025"
+    },
+    "description": "The Voices Berlin Festival brings contemporary music, theater, and dance from around the world to the capital.",
+    "href": "https://www.berlin.de/en/events/9888658-2842498-voices-berlin-festival.en.html",
     "onMonth": 9
   },
   {
@@ -2148,29 +2163,36 @@
     "onMonth": 9
   },
   {
-    "name": "Hauptstadtwiesn at Spinner-Brücke",
+    "name": "Treptower Herbst",
     "date": {
-      "start": "2024-09-13T05:00:00.000Z",
-      "end": "2024-11-02T05:00:00.000Z",
+      "start": "2025-10-17T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
-      "originalString": "September 13 - November 2, 2024"
+      "originalString": "October 17 to 19, 2025"
     },
-    "description": "With Paulaner beer and a band playing traditional folk music, the Oktoberfest celebration \"Hauptstadtwiesn\" brings Bavarian atmosphere to Berlin.",
-    "href": "https://www.berlin.de/en/events/oktoberfest/4544203-5907795-hauptstadtswiesn-oktoberfest-spinner-bru.en.html",
+    "description": "It's getting autumnal in Treptower Park! For three days, street food stalls, live music and children's attractions promise pure entertainment for visitors.",
+    "href": "https://www.berlin.de/en/events/folk-festivals-fairs/8476814-7519779-treptower-herbst.en.html",
     "onMonth": 9
   },
   {
-    "name": "Die Möglichkeit der Unvernunft",
+    "name": "Magnum: Close Enough",
     "date": {},
-    "description": "Jan Böhmermann and the Royale group will occupy the Haus der Kulturen der Welt in Berlin at the end of September 2025 with the exhibition “Die Möglichkeit der Unvernunft” (The possibility of unreasonableness) and an extensive program of events.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/die-moeglichkeit-der-unvernunft-54f2354e-3f5f-4054-a3a9-77f42fe968fc/",
+    "description": "The exhibition “Close Enough” at C/O Berlin presents the work of thirteen outstanding Magnum photographers, whose different visions have had a lasting impact on the agency's visual language.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/magnum-close-enough-ce295e73-868a-4ee2-9746-fbaed3a06e25/",
     "onMonth": 9
   },
   {
-    "name": "Lygia Clark: Retrospective",
+    "name": "The Scharf Collection: Goya – Monet – Degas – Bonnard – Grosse",
     "date": {},
-    "description": "Beginning in May 2025, the Neue Nationalgalerie will show Brazilian artist Lygia Clark’s first retrospective in Germany.",
-    "href": "https://www.berlin.de/en/tickets/exhibitions/lygia-clark-retrospective-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "description": "The Scharf Collection, a private German collection of 19th- and 20th-century French art and contemporary international art, is set to be presented in its entirety for the very first time.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/the-scharf-collection-goya-monet-degas-bonnard-grosse-a3d5811f-54ce-48cd-ae87-63bfb7f0e2b1/",
+    "onMonth": 9
+  },
+  {
+    "name": "Unicorn: The Mythical Beast in Art",
+    "date": {},
+    "description": "The unicorn has stimulated the imagination like no other animal. It has been documented in many cultures for centuries. Its fascination continues to this day.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/unicorn-the-mythical-beast-in-art-42d6947e-fbd9-44ec-bf5c-9b91963c9a8d/",
     "onMonth": 9
   },
   {
@@ -2479,7 +2501,7 @@
     "date": {
       "originalString": "Date not yet confirmed"
     },
-    "description": "Music, stars and entertainment: With a huge open-air party at the Brandenburg Gate, Berlin rings in the new year.",
+    "description": "It is still unclear whether there will be another lavish celebration with music and entertainment at the Brandenburg Gate at the turn of the year.",
     "href": "https://www.berlin.de/en/events/3303144-2842498-new-years-eve-party-brandenburg-gate.en.html",
     "onMonth": 11
   },

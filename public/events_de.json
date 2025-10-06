@@ -778,7 +778,10 @@
   {
     "name": "Wartenberger Osterlauf",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2026-04-05T05:00:00.000Z",
+      "end": "2026-04-05T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "05. April 2026"
     },
     "description": "Der traditionelle Osterlauf des Wartenberger SV bietet vier Distanzen: Einen Halbmarathon, einen Landschaftslauf, einen 4,1-Kilometer-Lauf und einen Bambinilauf.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/8017103-36032-wartenberger-osterlauf.html",
@@ -823,13 +826,6 @@
     },
     "description": "Das Arabische Filmfestival «Alfilm» präsentiert Filme aus der arabischen Welt.",
     "href": "https://www.berlin.de/kino/filmfestivals/2133808-2020379-alfilm-arabisches-filmfestival.html",
-    "onMonth": 3
-  },
-  {
-    "name": "Tea and Dry Biscuits: 75 Jahre Kolbe Museum",
-    "date": {},
-    "description": "Die Ausstellung richtet den Blick auf die Inszenierung von Erinnerung und untersucht das Erinnern in seinen unterschiedlichen – privaten wie auch öffentlichen – Formen.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/tea-and-dry-biscuits-75-jahre-kolbe-museum-3a32771c-841d-47fa-9585-2325affbde3f/",
     "onMonth": 3
   },
   {
@@ -1193,7 +1189,10 @@
   {
     "name": "Frauenlauf Berlin",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2026-05-16T05:00:00.000Z",
+      "end": "2026-05-16T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "16. Mai 2026"
     },
     "description": "Der Berliner Frauenlauf im Tiergarten ist der größte Charity-Frauenlauf in Deutschland. 2025 fand er bereits zum 40. Mal statt.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/2101687-36032-berliner-frauenlauf.html",
@@ -1202,7 +1201,10 @@
   {
     "name": "Berlin Triathlon",
     "date": {
-      "originalString": "Termin noch nicht bekannt"
+      "start": "2026-06-06T05:00:00.000Z",
+      "end": "2026-06-07T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "6. und 7. Juni 2026"
     },
     "description": "Der Berlin Triathlon findet im Jahr 2026 zum 20. Mal statt. Er startet an der Insel der Jugend im Treptower Park in Berlin.",
     "href": "https://www.berlin.de/special/sport-und-fitness/laufkalender/4399613-36032-berlin-triathlon.html",
@@ -1828,10 +1830,7 @@
   {
     "name": "Droidcon Berlin",
     "date": {
-      "start": "2025-09-24T05:00:00.000Z",
-      "end": "2025-09-26T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "24. bis 26. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der droidcon Berlin treffen sich Android-Experten, um das Betriebssystem weiterzuentwickeln und ein starkes Netzwerk aufzubauen.",
     "href": "https://www.berlin.de/messen/5695399-7918641-droidcon-berlin.html",
@@ -2474,18 +2473,6 @@
     "onMonth": 8
   },
   {
-    "name": "City Film Days",
-    "date": {
-      "start": "2025-09-19T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "19. bis 21. September 2025"
-    },
-    "description": "Das Filmfestival «City Film Days» wirft 2025 einen filmischen Blick auf Tiflis, die Hauptstadt Georgiens.",
-    "href": "https://www.berlin.de/kino/filmfestivals/9760600-2020379-city-film-days.html",
-    "onMonth": 8
-  },
-  {
     "name": "Festival of Animation",
     "date": {
       "start": "2025-09-26T05:00:00.000Z",
@@ -2498,17 +2485,15 @@
     "onMonth": 8
   },
   {
-    "name": "Magnum: Close Enough",
-    "date": {},
-    "description": "Die Ausstellung \"Close Enough\" im C/O Berlin präsentiert das Werk von dreizehn herausragenden Magnum-Fotografinnen, die mit ihren unterschiedlichen Visionen die Bildsprache der Agentur nachhaltig prägen.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/magnum-close-enough-ce295e73-868a-4ee2-9746-fbaed3a06e25/",
-    "onMonth": 8
-  },
-  {
-    "name": "Die Möglichkeit der Unvernunft",
-    "date": {},
-    "description": "Jan Böhmermann und die Gruppe Royale besetzen Ende September 2025 mit der Ausstellung \"Die Möglichkeit der Unvernunft\" und einem umfangreichen Veranstaltungsprogramm das Haus der Kulturen der Welt in Berlin.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/die-moeglichkeit-der-unvernunft-54f2354e-3f5f-4054-a3a9-77f42fe968fc/",
+    "name": "City Film Days",
+    "date": {
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-09-21T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "19. bis 21. September 2025"
+    },
+    "description": "Das Filmfestival «City Film Days» wirft 2025 einen filmischen Blick auf Tiflis, die Hauptstadt Georgiens.",
+    "href": "https://www.berlin.de/kino/filmfestivals/9760600-2020379-city-film-days.html",
     "onMonth": 8
   },
   {
@@ -2559,10 +2544,7 @@
   {
     "name": "Berlin Ramen Festival",
     "date": {
-      "start": "2025-09-27T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "27. und 28. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Berlin Ramen Festival konzentriert sich die Aufmerksamkeit auf die international beliebte Nudelsuppe und weitere traditionelle japanische Gerichte.",
     "href": "https://www.berlin.de/restaurants/food-events/8457449-5146458-berlin-ramen-festival.html",
@@ -2603,10 +2585,7 @@
   {
     "name": "Buch Berlin",
     "date": {
-      "start": "2025-09-27T05:00:00.000Z",
-      "end": "2025-09-28T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "27. und 28. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Auf der Buchmesse «Buch Berlin» präsentieren rund 300kleine und mittelständische Verlage in der Arena Berlin ihr aktuelles Programm.",
     "href": "https://www.berlin.de/messen/3674308-7918641-buch-berlin.html",
@@ -2615,10 +2594,7 @@
   {
     "name": "Internationales Drachenfest in Potsdam",
     "date": {
-      "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "13. und 14. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Zum Drachenfest im Volkspark Potsdam zeigen Drachenkünstler:innen ihr Können. Aber auch Mitmachen ist erlaubt.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5000248-3479097-drachenfest-in-potsdam.html",
@@ -2627,10 +2603,7 @@
   {
     "name": "Havelländer Erntefest",
     "date": {
-      "start": "2025-09-14T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "14. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Das Havelländer Erntefest wird im Erlebnispark Paaren gefeiert. Gäste erwartet ein Programm mit Erntewagenumzug, Herbstmarkt, Ponyreiten und Livemusik.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/5865615-3479097-havellaender-erntefest.html",
@@ -2639,10 +2612,7 @@
   {
     "name": "Cottbuser Töpferfest",
     "date": {
-      "start": "2025-09-13T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "13. und 14. September 2025"
+      "originalString": "Termin noch nicht bekannt"
     },
     "description": "Beim Töpferfest in Cottbus gibt es Getöpfertes in allen Formen, Farben und Stilrichtungen, Musik, Essen und ein buntes Kinderprogramm.",
     "href": "https://www.berlin.de/tourismus/brandenburg/veranstaltungen/4989059-3479097-cottbuser-toepferfest.html",
@@ -2864,6 +2834,20 @@
     "onMonth": 9
   },
   {
+    "name": "Magnum: Close Enough",
+    "date": {},
+    "description": "Die Ausstellung \"Close Enough\" im C/O Berlin präsentiert das Werk von dreizehn herausragenden Magnum-Fotografinnen, die mit ihren unterschiedlichen Visionen die Bildsprache der Agentur nachhaltig prägen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/magnum-close-enough-ce295e73-868a-4ee2-9746-fbaed3a06e25/",
+    "onMonth": 9
+  },
+  {
+    "name": "Die Möglichkeit der Unvernunft",
+    "date": {},
+    "description": "Jan Böhmermann und die Gruppe Royale besetzen Ende September 2025 mit der Ausstellung \"Die Möglichkeit der Unvernunft\" und einem umfangreichen Veranstaltungsprogramm das Haus der Kulturen der Welt in Berlin.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/die-moeglichkeit-der-unvernunft-54f2354e-3f5f-4054-a3a9-77f42fe968fc/",
+    "onMonth": 9
+  },
+  {
     "name": "Einhorn: Das Fabeltier in der Kunst",
     "date": {},
     "description": "Wie kein anderes Tier hat das Einhorn die Phantasie angeregt. Seit Jahrhunderten ist es in vielen Kulturen belegt. Seine Faszination hält bis heute an.",
@@ -2990,6 +2974,18 @@
     },
     "description": "Zwischen Progressivität und Traditionsbewusstein: eingebunden in die Berliner Festspiele bildet das Jazzfest Berlin den krönenden Abschluss eines jeden Jazzjahres.",
     "href": "https://www.berlin.de/events/1947196-2229501-jazzfest.html",
+    "onMonth": 10
+  },
+  {
+    "name": "NFL Berlin Game 2025",
+    "date": {
+      "start": "2025-11-09T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "09. November 2025"
+    },
+    "description": "Das erste NFL Berlin Game bringt American Football in die Hauptstadt. Die Indianapolis Colts treffen in der Berlin Premiere auf die Atlanta Falcons.",
+    "href": "https://www.berlin.de/events/9835843-2229501-nfl-berlin-game-2025.html",
     "onMonth": 10
   },
   {
@@ -3158,6 +3154,18 @@
     "onMonth": 10
   },
   {
+    "name": "Rejazz-Festival",
+    "date": {
+      "start": "2025-11-20T05:00:00.000Z",
+      "end": "2025-11-22T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "20. bis 22. November 2025"
+    },
+    "description": "Das Rejazz-Festival folgt dem Motto «Frauen im Jazz» und präsentiert frauengeführte Bands und Solistinnen. Dabei wird der Jazzbegriff weit gefasst.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/jazzhauptstadt/festivals/7306547-1912555-rejazzfestival.html",
+    "onMonth": 10
+  },
+  {
     "name": "Veranstaltungen am 09. November",
     "date": {},
     "description": "Gedenkveranstaltungen zur Ausrufung der deutschen Republik, dem Hitler-Putsch, Pogromnacht oder zum Berliner Mauerfall.",
@@ -3200,6 +3208,18 @@
     "onMonth": 10
   },
   {
+    "name": "Litauisches Kino Goes Berlin",
+    "date": {
+      "start": "2025-11-06T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "06. bis 09. November 2025"
+    },
+    "description": "Jedes Jahr werden beim Festival «Litauisches Kino Goes Berlin» in den Kinos Sputnik und Acud Kurz- und Langfilme aus Litauen gezeigt.",
+    "href": "https://www.berlin.de/kino/filmfestivals/6329824-2020379-litauisches-kino-goes-berlin.html",
+    "onMonth": 10
+  },
+  {
     "name": "Soundwatch Music Film Festival",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -3218,18 +3238,6 @@
     },
     "description": "500 Kurzfilme wählt das Team des Interfilm Kurzfilmfestival Berlin jedes Jahr aus 6000 Einreichungen aus über 120 Ländern aus.",
     "href": "https://www.berlin.de/kino/filmfestivals/2122682-2020379-internationales-kurzfilmfestival-berlin.html",
-    "onMonth": 10
-  },
-  {
-    "name": "Black International Cinema",
-    "date": {
-      "start": "2025-11-17T05:00:00.000Z",
-      "end": "2025-12-05T05:00:00.000Z",
-      "locale": "de",
-      "originalString": "17. November bis 05. Dezember 2025"
-    },
-    "description": "Das Black International Cinema bietet Raum für den interkulturellen, künstlerischen und geistigen Austausch.",
-    "href": "https://www.berlin.de/kino/filmfestivals/2463687-2020379-black-international-cinema.html",
     "onMonth": 10
   },
   {
@@ -3345,7 +3353,7 @@
     "date": {
       "originalString": "Termin noch nicht bestätigt"
     },
-    "description": "Musik, Stars und Entertainment: Zum Jahreswechsel findet am Brandenburger Tor auch in diesem Jahr wieder ein rauschendes Fest statt.",
+    "description": "Ob zum Jahreswechsel am Brandenburger Tor wieder ein rauschendes Fest mit Musik und Entertainment gefeiert wird, ist noch unklar.",
     "href": "https://www.berlin.de/events/3303144-2229501-silvesterparty-am-brandenburger-tor.html",
     "onMonth": 11
   },
