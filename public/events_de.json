@@ -614,7 +614,7 @@
       "locale": "de",
       "originalString": "10. und 11. Oktober 2025"
     },
-    "description": "Auf der Jobmesse im Berliner Olympiastadion können Schulabgänger, Berufseinsteiger und Jobsuchende sich über Ausbildungsmöglichkeiten, Karrierewege und aktuelle Stellenangebote informieren.",
+    "description": "Auf der Jobmesse im Olympiastadion können sich Schulabgänger, Berufseinsteiger und Jobsuchende über Ausbildungen, Karrierewege und Stellenangebote informieren.",
     "href": "https://www.berlin.de/messen/5499669-7918641-jobmesse-berlin.html",
     "onMonth": 2
   },
@@ -1232,10 +1232,10 @@
     "onMonth": 4
   },
   {
-    "name": "Lygia Clark: Retrospektive",
+    "name": "Dinosaurier! Zeitalter der Riesenechsen",
     "date": {},
-    "description": "Die Ausstellung in der gläsernen Ausstellungshalle präsentiert mit rund 150 Kunstwerken Clarks gesamtes künstlerisches Schaffen, angefangen von geometrisch-abstrakten Gemälden über partizipativ angelegte Skulpturen bis hin zu performativen Werken.",
-    "href": "https://www.berlin.de/tickets/ausstellungen/lygia-clark-retrospektive-dbf26354-0fba-4397-9f6e-624dbccd817d/",
+    "description": "Ab dem 23. August ist T.rex Tristan zurück. Und er hat noch Freunde mitgebracht. Gemeinsam sind sie in der neuen Sonderausstellung „Dinosaurier!“ erstmals in Berlin zu sehen.",
+    "href": "https://www.berlin.de/tickets/ausstellungen/dinosaurier-zeitalter-der-riesenechsen-0797cec2-035c-4851-908d-d2e113eaea48/",
     "onMonth": 4
   },
   {
@@ -2161,10 +2161,10 @@
   {
     "name": "Berliner Staudenmarkt",
     "date": {
-      "start": "2025-09-06T05:00:00.000Z",
-      "end": "2025-09-07T05:00:00.000Z",
+      "start": "2026-04-11T05:00:00.000Z",
+      "end": "2026-04-12T05:00:00.000Z",
       "locale": "de",
-      "originalString": "06. und 07. September 2025"
+      "originalString": "11. und 12. April 2026"
     },
     "description": "Beim Berliner Staudenmarkt können sich Besucherinnen und Besucher mit Pflanzen eindecken.",
     "href": "https://www.berlin.de/events/4336892-2229501-staudenmarkt-im-botanischen-garten.html",
@@ -2185,10 +2185,10 @@
   {
     "name": "Musikfest Berlin",
     "date": {
-      "start": "2025-08-30T05:00:00.000Z",
-      "end": "2025-09-23T05:00:00.000Z",
+      "start": "2026-08-28T05:00:00.000Z",
+      "end": "2026-09-23T05:00:00.000Z",
       "locale": "de",
-      "originalString": "30. August bis 23. September 2025"
+      "originalString": "28. August bis 23. September 2026"
     },
     "description": "Das Musikfest, hervorgegangen aus den traditionsreichen Berliner Festwochen, ist Berlins großes Festival für Orchestermusik.",
     "href": "https://www.berlin.de/events/2097261-2229501-musikfest-berlin.html",
@@ -2245,10 +2245,10 @@
   {
     "name": "Positions Berlin Art Fair",
     "date": {
-      "start": "2025-09-11T05:00:00.000Z",
-      "end": "2025-09-14T05:00:00.000Z",
+      "start": "2026-09-10T05:00:00.000Z",
+      "end": "2026-09-13T05:00:00.000Z",
       "locale": "de",
-      "originalString": "11. bis 14. September 2025"
+      "originalString": "10. bis 13. September 2026"
     },
     "description": "Die Kunstmesse Positions Berlin findet in den Hangars des Flughafens Tempelhof statt. Die dort präsentierten Kunstwerke sind auf Relevanz und Aktualität ausgerichtet",
     "href": "https://www.berlin.de/events/4537418-2229501-art-week-positions-berlin-art-fair.html",
@@ -2338,10 +2338,10 @@
   {
     "name": "BMW Berlin-Marathon",
     "date": {
-      "start": "2025-09-20T05:00:00.000Z",
-      "end": "2025-09-21T05:00:00.000Z",
+      "start": "2026-09-27T05:00:00.000Z",
+      "end": "2026-09-27T05:00:00.000Z",
       "locale": "de",
-      "originalString": "20. und 21. September 2025"
+      "originalString": "27. September 2026"
     },
     "description": "Ende September steht die Hauptstadt ganz im Zeichen eines der größten Lauf-Events der Welt: dem Berlin-Marathon.",
     "href": "https://www.berlin.de/events/62716-2229501-berlin-marathon.html",
@@ -2958,7 +2958,7 @@
     "onMonth": 9
   },
   {
-    "name": "Event-Highlights im Januar 2026 in Berlin",
+    "name": "Event-Highlights im Januar 2026",
     "date": {},
     "description": "Die Berlin-Eventvorschau für Januar 2026. CTM-Festival, Tanztage, British Shorts, Transmediale und",
     "href": "https://www.berlin.de/events/jahresuebersicht/januar/",
@@ -3197,7 +3197,7 @@
     "name": "Stadtführung: Mystisches Berlin",
     "date": {},
     "description": "Sagen, Legenden und Mythen: Auf der Führung Mystisches Berlin werden die rätselhaften Seiten der Stadt von allen Seiten beleuchtet.",
-    "href": "https://www.berlin.de/tickets/freizeit/stadtfuehrung-mystisches-berlin-26cab23c-3d71-417b-8cb9-603cd04b17cb/",
+    "href": "https://www.berlin.de/tickets/bildung-vortraege/stadtfuehrung-mystisches-berlin-26cab23c-3d71-417b-8cb9-603cd04b17cb/",
     "onMonth": 10
   },
   {
@@ -3349,6 +3349,13 @@
     "onMonth": 10
   },
   {
+    "name": "Event-Highlights im Januar 2026 in Berlin",
+    "date": {},
+    "description": "Die Berlin-Eventvorschau für Januar 2026. CTM-Festival, Tanztage, British Shorts, Transmediale und",
+    "href": "https://www.berlin.de/events/jahresuebersicht/januar/",
+    "onMonth": 10
+  },
+  {
     "name": "Silvesterparty am Brandenburger Tor 2025",
     "date": {
       "originalString": "Termin noch nicht bestätigt"
@@ -3454,6 +3461,18 @@
     "onMonth": 11
   },
   {
+    "name": "Winter-Film-Fest im Nikolaiviertel",
+    "date": {
+      "start": "2025-11-20T05:00:00.000Z",
+      "end": "2026-01-01T05:00:00.000Z",
+      "locale": "de",
+      "originalString": "20. November 2025 bis 01. Januar 2026"
+    },
+    "description": "Feuerzangenbowle mit Heinz Rühmann: Der Nikolaikirchplatz lädt mit dem Filmklassiker «Die Feuerzangenbowle» zum kostenlosen Kino-Vergnügen.",
+    "href": "https://www.berlin.de/kino/filmfestivals/5075128-2020379-winter-film-fest.html",
+    "onMonth": 11
+  },
+  {
     "name": "Kurzfilmtag",
     "date": {
       "start": "2025-12-21T05:00:00.000Z",
@@ -3475,15 +3494,6 @@
     },
     "description": "Das erste Festival, das sich nur um das Thema Weihnachten dreht, findet im Kreuzberger Kino Moviemento statt.",
     "href": "https://www.berlin.de/kino/filmfestivals/4690721-2020379-weihnachtsfilmfestival.html",
-    "onMonth": 11
-  },
-  {
-    "name": "Winter-Film-Fest im Nikolaiviertel",
-    "date": {
-      "originalString": "Noch nicht bekannt"
-    },
-    "description": "Feuerzangenbowle mit Heinz Rühmann: Der Nikolaikirchplatz lädt mit dem Filmklassiker «Die Feuerzangenbowle» zum kostenlosen Kino-Vergnügen.",
-    "href": "https://www.berlin.de/kino/filmfestivals/5075128-2020379-winter-film-fest.html",
     "onMonth": 11
   },
   {
